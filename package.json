@@ -1,0 +1,22 @@
+{
+  "name": "governmentopendataorigin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "roop-commit-and-push.js",
+  "scripts": {
+    "loop-uploads": "node roop-commit-and-push.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TakuKobayashi/GovernmentOpenDataOrigin.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TakuKobayashi/GovernmentOpenDataOrigin/issues"
+  },
+  "homepage": "https://github.com/TakuKobayashi/GovernmentOpenDataOrigin#readme",
+  "dependencies": {
+    "simple-git": "^3.27.0"
+  }
+}

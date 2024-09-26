@@ -38,7 +38,7 @@ async function executeCommitAndPushRoutine(){
     }
     const totalFileCount = addFileSet.size;
     remainFileCount = notAddFileCount - totalFileCount;
-    console.log(`add files:${totalFileCount.toString()}`);
+    console.log(`add files:${totalFileCount.toString()} fileSize:${sumSize}`);
     for(const file of Array.from(addFileSet)){
       // 非同期で複数ファイルをaddしようとするとエラーになるので一つずつaddする
       await git.add(file);

@@ -1,6 +1,8 @@
 const fs = require('fs');
 const { promisify } = require( 'util' )
 const simpleGit = require('simple-git');
+const child_process = require('node:child_process');
+const _ = require('lodash');
 const git = simpleGit();
 
 const limitFileSize = 1900000000;
@@ -39,9 +41,10 @@ async function executeCommitAndPushRoutine(){
     const totalFileCount = addFileSet.size;
     remainFileCount = notAddFileCount - totalFileCount;
     console.log(`add files:${totalFileCount.toString()} fileSize:${sumSize}`);
-    for(const file of Array.from(addFileSet)){
+    const fileChunkedList = _.chunk(Array.from(addFileSet), 100)
+    for(const files of fileChunkedList){
       // 非同期で複数ファイルをaddしようとするとエラーになるので一つずつaddする
-      await git.add(file);
+      child_process.execSync(['git', 'add', ...files].join(' '))
     }
     console.log("add file completed:" + totalFileCount.toString());
     const nowDate = new Date();

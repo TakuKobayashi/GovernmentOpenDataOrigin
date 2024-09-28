@@ -1,0 +1,117 @@
+行,EPSGコード,経度,緯度,名称,URL
+1,EPSG:6677,-33546.462,-48356.712,玉川学園_玉川学園前駅周辺(1),https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/tamagawagakuenmaeeki-1.pdf
+2,EPSG:6677,-33580.398,-48339.347,玉川学園_玉川学園前駅周辺(2),https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/tamagawagakuenmaeeki-2.pdf
+3,EPSG:6677,-33704.222,-48755.953,玉川学園_都市計画道路3.4.33号線（学園）(1),https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/tamagawagakuen_toshi3.4.33-1.pdf
+4,EPSG:6677,-33679.74,-48648.721,玉川学園_都市計画道路3.4.33号線（学園）(2),https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/tamagawagakuen_toshi3.4.33-2.pdf
+5,EPSG:6677,-32670.598,-44922.641,広袴町_都市計画道路3.4.30号線（広袴）(1),https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/hirohakamamachi_toshi3.4.30-1.pdf
+6,EPSG:6677,-32617.619,-44896.927,広袴町_都市計画道路3.4.30号線（広袴）(2),https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/hirohakamamachi_toshi3.4.30-2.pdf
+7,EPSG:6677,-36699.102,-47340.557,山崎町_忠生33号線（山崎）(1),https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/yamasakimachi_tadao33-1.pdf
+8,EPSG:6677,-36646.597,-47266.055,山崎町_忠生33号線（山崎）(2),https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/yamasakimachi_tadao33-2.pdf
+9,EPSG:6677,-43934.598,-44034.622,小山町_都市計画道路3.4.42号線（小山）(1),https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/oyamamachi_toshi3.4.42-1.pdf
+10,EPSG:6677,-43918.957,-43984.674,小山町_都市計画道路3.4.42号線（小山）(2),https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/oyamamachi_toshi3.4.42-2.pdf
+11,EPSG:6677,-43902.588,-43937.532,小山町_都市計画道路3.4.42号線（小山）(3),https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/oyamamachi_toshi3.4.42-3.pdf
+12,EPSG:6677,-43881.8,-43907.2,小山町_H9.都市計画道路3・4・42号線（小山）(1),https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/oyamamachi_H9toshi3.4.42-1.pdf
+13,EPSG:6677,-43837.8,-43806.4,小山町_H9.都市計画道路3・4・42号線（小山）(2),https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/oyamamachi_H9toshi3.4.42-2.pdf
+14,EPSG:6677,-43816.5,-43745.1,小山町_H9.都市計画道路3・4・42号線（小山）(3),https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/oyamamachi_H9toshi3.4.42-3.pdf
+15,EPSG:6677,-39292.626,-44338.049,上小山田町_忠生579号線(1),https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/kamioyamadamachi_tadao579-1.pdf
+16,EPSG:6677,-39377.821,-44295.176,上小山田町_忠生579号線(2),https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/kamioyamadamachi_tadao579-2.pdf
+17,EPSG:6677,-39395.305,-44344.42,上小山田町_忠生579号線(3),https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/kamioyamadamachi_tadao579-3.pdf
+18,EPSG:6677,-39448.474,-44265.253,上小山田町_忠生579号線(4),https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/kamioyamadamachi_tadao579-4.pdf
+19,EPSG:6677,-39512.373,-44292.501,上小山田町_忠生579号線(5),https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/kamioyamadamachi_tadao579-5.pdf
+20,EPSG:6677,-39524.941,-44226.435,上小山田町_忠生579号線(6),https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/kamioyamadamachi_tadao579-6.pdf
+21,EPSG:6677,-39630.27,-44134.451,上小山田町_忠生579号線(7),https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/kamioyamadamachi_tadao579-7.pdf
+22,EPSG:6677,-39615.416,-44241.206,上小山田町_忠生579号線(8),https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/kamioyamadamachi_tadao579-8.pdf
+23,EPSG:6677,-39736.974,-44130.378,上小山田町_忠生579号線(9),https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/kamioyamadamachi_tadao579-9.pdf
+24,EPSG:6677,-39718.706,-44163.683,上小山田町_忠生579号線(10),https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/kamioyamadamachi_tadao579-10.pdf
+25,EPSG:6677,-39842.155,-44134.541,上小山田町_忠生579号線(11),https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/kamioyamadamachi_tadao579-11.pdf
+26,EPSG:6677,-39927.033,-44191.337,上小山田町_忠生579号線(12),https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/kamioyamadamachi_tadao579-12.pdf
+27,EPSG:6677,-40007.935,-44220.748,上小山田町_忠生579号線(13),https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/kamioyamadamachi_tadao579-13.pdf
+28,EPSG:6677,-40094.399,-44275.828,上小山田町_忠生579号線(14),https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/kamioyamadamachi_tadao579-14.pdf
+29,EPSG:6677,-40219.924,-44191.65,上小山田町_忠生579号線(15),https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/kamioyamadamachi_tadao579-15.pdf
+30,EPSG:6677,-40274.822,-44137.712,上小山田町_忠生579号線(16),https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/kamioyamadamachi_tadao579-16.pdf
+31,EPSG:6677,-40345.061,-44156.63,上小山田町_忠生579号線(17),https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/kamioyamadamachi_tadao579-17.pdf
+32,EPSG:6677,-39535.9,-45170.8,上小山田町_忠生613号線関連,https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/kamioyamadamachi_tadao613-1.pdf
+33,EPSG:6677,-38520.292,-43457.849,上小山田町_忠生630（第二期）(1),https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/kamioyamadamachi_tadao630-1.pdf
+34,EPSG:6677,-38524.629,-43436.258,上小山田町_忠生630（第二期）(2),https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/kamioyamadamachi_tadao630-2.pdf
+35,EPSG:6677,-38539.883,-43379.682,上小山田町_忠生630（第二期）(3),https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/kamioyamadamachi_tadao630-3.pdf
+36,EPSG:6677,-38608.773,-43351.825,上小山田町_忠生630（第二期）(4),https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/kamioyamadamachi_tadao630-4.pdf
+37,EPSG:6677,-38622.121,-43242.39,上小山田町_忠生630（第二期）(5),https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/kamioyamadamachi_tadao630-5.pdf
+38,EPSG:6677,-38570.404,-43154.994,上小山田町_忠生630（第二期）(6),https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/kamioyamadamachi_tadao630-6.pdf
+39,EPSG:6677,-38558.746,-43113.923,上小山田町_忠生630（第二期）(7),https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/kamioyamadamachi_tadao630-7.pdf
+40,EPSG:6677,-38543.013,-43071.31,上小山田町_忠生630（第二期）(8),https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/kamioyamadamachi_tadao630-8.pdf
+41,EPSG:6677,-38526.23,-43021.341,上小山田町_忠生630（第二期）(9),https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/kamioyamadamachi_tadao630-9.pdf
+42,EPSG:6677,-31844.802,-49962.52,成瀬_町田都市計画道路3.4.9号線及び横浜都市計画道路3.4.33号線(1),https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/naruse_machidatoshi3.4.9-1.pdf
+43,EPSG:6677,-31819.59,-49963.31,成瀬_町田都市計画道路3.4.9号線及び横浜都市計画道路3.4.33号線(2),https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/naruse_machidatoshi3.4.9-2.pdf
+44,EPSG:6677,-31790.512,-49964.477,成瀬_町田都市計画道路3.4.9号線及び横浜都市計画道路3.4.33号線(3),https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/naruse_machidatoshi3.4.9-3.pdf
+45,EPSG:6677,-31988.79,-51256.476,成瀬_都市計画道路3.4.29号線（吹上）(1),https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/naruse_toshi3.4.29-1.pdf
+46,EPSG:6677,-45521.05,-43501.54,相原町_相原駅西口広場(1),https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/aiharaekinishiguchihiroba-1.pdf
+47,EPSG:6677,-45509.193,-43490.509,相原町_相原駅西口広場(2),https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/aiharaekinishiguchihiroba-2.pdf
+48,EPSG:6677,-45680.899,-43899.391,相模原市相原1丁目ほか_都市計画道路相原大沢線（第1工区その2）(1),https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/aihara_toshiaiharaoosawa-1.pdf
+49,EPSG:6677,-45670.451,-43871.733,相模原市相原1丁目ほか_都市計画道路相原大沢線（第1工区その2）(2),https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/aihara_toshiaiharaoosawa-1.pdf
+50,EPSG:6677,-33885.419,-45737.881,大蔵町_都市計画道路3.4.35号線（大蔵）(1),https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/ookuramachi_toshi3.4.35-1.pdf
+51,EPSG:6677,-33874.48,-45720.981,大蔵町_都市計画道路3.4.35号線（大蔵）(2),https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/ookuramachi_toshi3.4.35-2.pdf
+52,EPSG:6677,-31670.95,-51628.369,南成瀬_南成瀬八丁目11番先(1),https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/minaminaruse8-11-1.pdf
+53,EPSG:6677,-31673.582,-51634.213,南成瀬_南成瀬八丁目11番先(2),https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/minaminaruse8-11-2.pdf
+54,EPSG:6677,-34920.465,-47965.248,本町田_都市計画道路3.4.32号線（本町田）(1),https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/honmachida_toshi3.4.32-1.pdf
+55,EPSG:6677,-34745.973,-47902.443,本町田_都市計画道路3.4.32号線（本町田）(2),https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/honmachida_toshi3.4.32-2.pdf
+56,EPSG:6677,-34753.963,-47889.878,本町田_都市計画道路3.4.32号線（本町田）(3),https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/honmachida_toshi3.4.32-3.pdf
+57,EPSG:6677,-34584.951,-47894.189,本町田_都市計画道路3.4.32号線（本町田）(4),https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/honmachida_toshi3.4.32-4.pdf
+58,EPSG:6677,-34496.394,-47882.338,本町田_都市計画道路3.4.32号線（本町田）(5),https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/honmachida_toshi3.4.32-5.pdf
+59,EPSG:6677,-37171.998,-48971.087,木曽東_都市計画道路2.2.13号線の境川橋架設(1),https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/kisohigashi_toshi2.2.13-1.pdf
+60,EPSG:6677,-37138.375,-48971.314,木曽東_都市計画道路2.2.13号線の境川橋架設(2),https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/kisohigashi_toshi2.2.13-2.pdf
+61,EPSG:6677,-39057.341,-46942.539,矢部町・淵野辺本町_境川宮前橋(1),https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/yabemachi_miyamaebashi-1.pdf
+62,EPSG:6677,-39051.673,-46947.696,矢部町・淵野辺本町_境川宮前橋(2),https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/yabemachi_miyamaebashi-2.pdf
+63,EPSG:6677,-39037.569,-46934.555,矢部町・淵野辺本町_境川宮前橋(3),https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/yabemachi_miyamaebashi-3.pdf
+64,EPSG:6677,-36674.4,-47094.9,山崎町_忠生33号線(山崎2）(1),https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/yamasaki2_tadao33-1
+65,EPSG:6677,-34714.7,-44889.4,小野路町_都市計画道路3・4・22号線（小野路）（1）,https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/onojimachi_toshi3.4.22-1
+66,EPSG:6677,-34701.9,-44898.8,小野路町_都市計画道路3・4・22号線（小野路）（2）,https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/onojimachi_toshi3.4.22-2
+67,EPSG:6677,-39596.6,-45306,上小山田町_忠生732（尾根緑道）（1）,https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/kamioyamadamachi_tadao732-1.pdf
+68,EPSG:6677,-39574.6,-45320,上小山田町_忠生732（尾根緑道）（2）,https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/kamioyamadamachi_tadao732-2.pdf
+69,EPSG:6677,-45422.2,-43658.9,相原町_相原駅東口（1）,https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/aihara_aiharaekihigashiguchi-1.pdf
+70,EPSG:6677,-45410.9,-43751.7,相原町_相原駅東口（2）,https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/aihara_aiharaekihigashiguchi-2.pdf
+71,EPSG:6677,-35032.4,-47171.3,本町田＿ウェルカムゲート（1）,https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/honmachida_welcomegate-1.pdf
+72,EPSG:6677,-35045.6,-47181,本町田＿ウェルカムゲート（2）,https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/douro.files/honmachida_welcomegate-2.pdf
+71,EPSG:6
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
+         <xmp:ModifyDate>2017-08-17T11:55:46+09:00</xmp:ModifyDate>
+         <xmp:CreateDate>2017-08-14T13:44:40+09:00</xmp:CreateDate>
+         <xmp:MetadataDate>2017-08-17T11:55:46+09:00</xmp:MetadataDate>
+         <xmp:CreatorTool>Adobe Acrobat 11.0.20</xmp:CreatorTool>
+         <dc:format>application/pdf</dc:format>
+         <dc:creator>
+            <rdf:Seq>
+               <rdf:li>譛ｬ驛ｷ 蜑�</rdf:li>
+            </rdf:Seq>
+         </dc:creator>
+         <xmpMM:DocumentID>uuid:3906c8cc-3698-4c75-a6d8-8f5d862bd1b4</xmpMM:DocumentID>
+         <xmpMM:InstanceID>uuid:da201b1f-2359-40f2-8a96-54850f9717fc</xmpMM:InstanceID>
+         <pdf:Producer>Acrobat Distiller 11.0 (Windows)</pdf:Producer>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>
+endstreamendobj455 0 obj<</BaseFont/BBUXCL+HGPGothicM/DescendantFonts 457 0 R/Encoding/Identity-H/Subtype/Type0/ToUnicode 458 0 R/Type/Font>>endobj456 0 obj<</Filter/FlateDecode/Length 13105>>stream
+H夏Wﾛj$ｻ}ﾔ�+�"mI`ﾝu	�!ﾆ睡Cﾈﾃ$'H`ﾎ<蔔ｳ､ｺtUwｵｱﾇ�孥ﾋﾝ*i昉ok{,､ﾆGI奸ﾑY
+M�鉞�>�玲ｿﾟﾈ�6ﾉｳK悁誠ﾋ剱ﾇﾏｱ鍰ｶ?ｴ_ｨｽ!gｦﾘ�7m夲_ｿｾ?p�.rSﾂ･｡Qu"ｾar>вﾔoﾊﾙ㊧續7;ｼd�7�ｴﾙ��素spaLﾎｸI�&ｻ制ｳｾ}.Q&zﾀ�ﾂ�#6箪�6儻7XM涯�ﾍpW\oI徊ｮpT�zr9･bu/6Vｫ�ョ!8Q游ｰﾆ83橾Pｱﾘv償�!v$ｻ[>匚+nﾉ�\�[)8ﾍｶtzﾓ�-ﾅ[ﾘ�"�k｣8	oﾓ:0�ﾞ�w�"4"ﾔ\�3ﾇ-q��ｵｽC�

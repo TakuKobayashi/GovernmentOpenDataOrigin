@@ -1,0 +1,2185 @@
+<!--tablet时-->
+
+
+<!--#6468 site traking code-->
+
+
+
+
+<!--tablet时-->
+    
+     <!--未login的guest-->
+    
+<!--PC content viewer -->
+
+
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="utf-8">
+    <meta name="csrf-token" content="7ylC3fjPWfWouaR6eVQb3o31KOCGpY2FBXDACfnb">
+    <title>
+                    三鷹を考える論点データ集2018 | みたかe-bookポータル
+            </title>
+    <meta name="description"
+                  content="
+        ">
+    
+      <!--isDesktop isTablet -->
+    <meta name="viewport" content="width=1200"><!--pc，tablet -->
+    
+        <meta property="og:title" content="三鷹を考える論点データ集2018 | みたかe-bookポータル">
+<meta property="og:type" content="article">
+<meta property="og:url" content="http://mitaka-e-book.actibookone.com/content/detail?pNo=1&amp;param=eyJjb250ZW50TnVtIjozMjg1Mywia2V5d29yZCI6Ilx1OGFkNlx1NzBiOSJ9">
+<meta property="og:image" content="https://files.actibookone.com/contents/1827/32853-20200304112556/cover.png?Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNzU0MjUxMn19fV19&amp;Signature=i5WahMpaHETno0~4x3e8edJ8CcjSCISu2IdO8jxsmokSadOkO9GaN0TO~IJIII4aud0QjSOHIZmR4rWANiryEV0NfJbPiPGYH7fjl~G1ka9M~ZihhQMau0pU2NHGyOtUwVmKHoBK9roB96he6HF3GAFqf96fChHwNzmaNFSYtmbuSZabtnkBQyTgzuGn2Jt4o~YCjI2cl2pUddT1qx9a7xrz-R1TZ4HTZawCAMOnEoqLKY6C6KbEDy7-ZxLlSFSBYEVreqeROpbgxQcLRRvLNICx~iDMi1L9fWjpP2RzapP35ZUFZxfCyEATq63RsuIztcVfQxESHJsmcj6iPRokfQ__&amp;Key-Pair-Id=APKAJBZGQAONT53PE2FA">
+<meta property="twitter:card" content="summary">
+    <link rel="icon" href="https://mitaka-e-book.actibookone.com/favicon.ico?v=20240924" type="image/x-icon">
+    <link rel="apple-touch-icon" href="https://mitaka-e-book.actibookone.com/apple-touch-icon.png?v=20240924" sizes="180x180">
+
+                <script type="text/javascript">
+            //pc模式判断是不是ipad
+            var isiPad = (navigator.userAgent.match(/(iPad)/) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1))
+            if (isiPad) {
+                var platform = "";
+                //是iPad在url加上platform=iPad
+                if (platform == "") {
+                    var strUrl = window.location.href;
+                    if (strUrl.indexOf("platform=iPad") == -1) {
+                        if (strUrl.indexOf("?") == -1) {
+                            window.location.href = strUrl + "?platform=iPad"
+                        } else {
+                            window.location.href = strUrl + "&platform=iPad"
+                        }
+                    }
+                }
+            }
+        </script>
+    
+    <!--common css list & specific css list-->
+    <link rel="stylesheet" href="https://mitaka-e-book.actibookone.com/assets/css/base.css?v=20240924">
+<link rel="stylesheet" href="https://mitaka-e-book.actibookone.com/assets/css/style.css?v=20240924">
+    <link rel="stylesheet" href="https://mitaka-e-book.actibookone.com/assets/css/style.css?v=20240924">
+<!-- page specific styles-->
+    <style>
+        .fullScreen_extend.firefox-browser {
+            overflow: hidden;
+        }
+
+        .fullScreen_extend.firefox-browser .book-viewer {
+            position: fixed;
+            top: 0;
+            left: 0;
+            height: 100% !important;
+            width: 100%;
+            z-index: 9999;
+        }
+
+        .fullScreen_extend.firefox-browser .book-viewer .book-viewer-dummy {
+            height: 100% !important;
+        }
+
+        /*tablet时,去除mockup带的背景图片*/
+        body.book-detail--tablet .book-detail-block__viewer-dummy__inner {
+            background-image: none !important;
+            background-color: #cac9cd;
+        }
+
+        .book-detail--sd.book-detail--tablet .book-detail-block__viewer-dummy {
+            height: 100%;
+        }
+
+        /*通常 扩大按钮的样式*/
+        .book-detail--pc .book-detail-block__action__extend__normal {
+            background: transparent;
+        }
+
+        /*通常 扩大按钮的样式*/
+        .book-detail--pc .book-detail-block__action__extend__wrapper > a.action__extend_active {
+            background: rgba(0, 0, 0, 0.1);
+        }
+
+        .book-detail-block__viewer-dummy--tablet:before {
+            padding-top: 0 !important;
+        }
+
+        #nav-pc > .nav-pc-rightside__item--templatesearch {
+            display: none;
+        }
+    </style>
+
+    <!--对应无说明文时，pad或者phone设备上，拉动屏幕时下面会出现白边的问题-->
+        <style>
+        /*vrsion 5.6.0*/
+        .book-detail--tablet.nav-beforelogin header nav .nav-pc-rightside:not(.nav-pc_search) {
+            padding-left: 30px;
+        }
+
+    </style>
+<!--specific page css-->
+<!-- inline styles related to this page-->    <!--bownow js-->
+    
+    <!--traking code-->
+            <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ESKVZJ6ZBC"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-ESKVZJ6ZBC');
+</script>
+                
+        <script type="text/javascript" src="https://mitaka-e-book.actibookone.com/assets/js/lib.js?v=20240924"></script>
+
+</head>
+<body oncontextmenu=&quot;return false&quot; class="book-detail book-detail--pc nav-beforelogin topPage    nav-nouseradmin   show-noticebar "
+      >
+
+<!--header显示部分-->
+            <header class="navbar-fixed">
+    <style>
+        .show-noticebar header.navbar-fixed {
+            height: 44px;
+        }
+
+        .nav-afterlogin.show-noticebar header.navbar-fixed nav,
+        .nav-beforelogin.show-noticebar header.navbar-fixed nav {
+            top: 0px;
+        }
+    </style>
+    <nav>
+        <div class="nav-wrapper">
+            <div class="nav-upper">
+                <div class="nav-inner clearfix">
+                    <a class="sd-searchicon sd-nav-icon sd-items left waves-effect waves-light" id="sd-searchicon"
+                       href="https://mitaka-e-book.actibookone.com/search/initial">
+                        <i class="xiconbasic-search"></i>
+                                        </a>
+
+                    <div class="logo-box">
+                                                <a class="brand-logo pc-items" href="https://mitaka-e-book.actibookone.com"
+                           style="background-image: url('https://files.actibookone.com/system/web_files/1827/15883102220646834.jpg?Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNzUwNzE3MX19fV19&amp;Signature=VPopPXlrA43InmaZYnfkig2wLluXZnQyefHcoJGjUZjsIlIepeYgtmLTWowIqHMSiiBhdmjqjNEeMuqCHWLaI68kehxQ2Fzk56sR-i8XXb8JurWvPTeUfKxrVsU-ycoadjx22nLu4Uz4KNv5VwYnxzz9LuxBS-Gou6NwcgnI3lrkpoDgKzeVA9HHxa4qpHDWXhiwIvVyfM5POTWmov4T5OWFwePUCDSCRd3mL5wFbRJPswxPPj-GQbMKgJSOSndDcsyJGpXaxo7uupNHASi6OQD3FHYunS9jMGu8ODhOG0xYq6zHSM-kX99j9RaJnHn7Pk2CJQbOrilFDQ18KHl1pQ__&amp;Key-Pair-Id=APKAJBZGQAONT53PE2FA');background-size: 181px 58px;background-position: -27px -7px;">Logo</a>
+                        <a class="brand-logo sd-items" href="https://mitaka-e-book.actibookone.com"
+                           style="background-image: url('https://files.actibookone.com/system/web_files/1827/15883102220646834.jpg?Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNzUwNzE3MX19fV19&amp;Signature=VPopPXlrA43InmaZYnfkig2wLluXZnQyefHcoJGjUZjsIlIepeYgtmLTWowIqHMSiiBhdmjqjNEeMuqCHWLaI68kehxQ2Fzk56sR-i8XXb8JurWvPTeUfKxrVsU-ycoadjx22nLu4Uz4KNv5VwYnxzz9LuxBS-Gou6NwcgnI3lrkpoDgKzeVA9HHxa4qpHDWXhiwIvVyfM5POTWmov4T5OWFwePUCDSCRd3mL5wFbRJPswxPPj-GQbMKgJSOSndDcsyJGpXaxo7uupNHASi6OQD3FHYunS9jMGu8ODhOG0xYq6zHSM-kX99j9RaJnHn7Pk2CJQbOrilFDQ18KHl1pQ__&amp;Key-Pair-Id=APKAJBZGQAONT53PE2FA');background-size: 148px 48px;background-position: -22px -6px;">Logo</a>
+                    </div>
+
+                    <!--v1.1 add 只有user_module_status为on时,才显示user相关信息-->
+                
+                    <div class="nav-right pc-items right" id="nav-right">
+                        <div class="search-overlay" id="search_overlay"></div>
+                        <!--PC search start-->
+                     <!--PC search-->
+                        <!--PC search end-->
+
+                        <ul class="nav-pc-rightside right" id="nav-pc">
+                         <!--phone -->
+                            <li class="nav-pc-rightside__item nav-pc-rightside__item--icon nav-pc-rightside__item--templatesearch template-only">
+                                <a class="nav-pc-search item-icon waves-effect waves-light" id="nav-pc_templatesearch"
+                                   href="javascript:void(0);"
+                                   data-tooltip="検索"><i
+                                            class="xiconbasic-search"></i></a>
+                            </li>
+                                                    <li class="nav-pc-rightside__item nav-pc-rightside__item--icon nav-pc-rightside__item--tags">
+                                <a class="nav-pc-tags item-icon waves-effect waves-light" id="nav-pc-tags"
+                                   href="javascript:void(0);" data-tooltip="カテゴリ"
+                                   data-activates="tags_dropdown">
+                                    <i class="xiconbasic-folder"></i>
+                                </a>
+                                <ul class="tags-list-content tags_dropdown dropdown-content" id="tags_dropdown">
+                                    <li class="tags_dropdown__content">
+                                        <div class="tags_dropdown__content__inner">
+                                                                                                                                            <div class="tags_dropdown__item  ">
+        <a href="https://mitaka-e-book.actibookone.com/category/list?param=eyJjYXRlZ29yeV9udW0iOjI4MDN9" data-tooltip="新着コンテンツ">
+            新着コンテンツ
+        </a>
+            </div>
+
+
+<div class="tags_dropdown__item  has-child">
+        <a href="https://mitaka-e-book.actibookone.com/category/list?param=eyJjYXRlZ29yeV9udW0iOjI4MDd9" data-tooltip="基本計画">
+            基本計画
+        </a>
+                    <i class="xiconbasic-chevron-down tags_openclose"></i>
+            <div class="tags_dropdown__box" style="display: none;">
+                                    <div class="tags_dropdown__item  ">
+        <a href="https://mitaka-e-book.actibookone.com/category/list?param=eyJjYXRlZ29yeV9udW0iOjQzMTY0fQ==" data-tooltip="市民参加でまちづくり協議会">
+            市民参加でまちづくり協議会
+        </a>
+            </div>
+
+
+                            </div>
+            </div>
+
+
+<div class="tags_dropdown__item  ">
+        <a href="https://mitaka-e-book.actibookone.com/category/list?param=eyJjYXRlZ29yeV9udW0iOjI4MDh9" data-tooltip="予算・自治体経営">
+            予算・自治体経営
+        </a>
+            </div>
+
+
+<div class="tags_dropdown__item  has-child">
+        <a href="https://mitaka-e-book.actibookone.com/category/list?param=eyJjYXRlZ29yeV9udW0iOjMxODZ9" data-tooltip="個別計画">
+            個別計画
+        </a>
+                    <i class="xiconbasic-chevron-down tags_openclose"></i>
+            <div class="tags_dropdown__box" style="display: none;">
+                                    <div class="tags_dropdown__item  ">
+        <a href="https://mitaka-e-book.actibookone.com/category/list?param=eyJjYXRlZ29yeV9udW0iOjI4MDl9" data-tooltip="行政全般">
+            行政全般
+        </a>
+            </div>
+
+
+                                    <div class="tags_dropdown__item  ">
+        <a href="https://mitaka-e-book.actibookone.com/category/list?param=eyJjYXRlZ29yeV9udW0iOjI4MTB9" data-tooltip="防災">
+            防災
+        </a>
+            </div>
+
+
+                                    <div class="tags_dropdown__item  ">
+        <a href="https://mitaka-e-book.actibookone.com/category/list?param=eyJjYXRlZ29yeV9udW0iOjI4MTJ9" data-tooltip="スポーツと文化">
+            スポーツと文化
+        </a>
+            </div>
+
+
+                                    <div class="tags_dropdown__item  ">
+        <a href="https://mitaka-e-book.actibookone.com/category/list?param=eyJjYXRlZ29yeV9udW0iOjI4MTN9" data-tooltip="健康福祉">
+            健康福祉
+        </a>
+            </div>
+
+
+                                    <div class="tags_dropdown__item  ">
+        <a href="https://mitaka-e-book.actibookone.com/category/list?param=eyJjYXRlZ29yeV9udW0iOjI4MTR9" data-tooltip="子育て・教育">
+            子育て・教育
+        </a>
+            </div>
+
+
+                                    <div class="tags_dropdown__item  ">
+        <a href="https://mitaka-e-book.actibookone.com/category/list?param=eyJjYXRlZ29yeV9udW0iOjI4MTV9" data-tooltip="都市整備">
+            都市整備
+        </a>
+            </div>
+
+
+                            </div>
+            </div>
+
+
+<div class="tags_dropdown__item  has-child">
+        <a href="https://mitaka-e-book.actibookone.com/category/list?param=eyJjYXRlZ29yeV9udW0iOjMxODd9" data-tooltip="データ・統計">
+            データ・統計
+        </a>
+                    <i class="xiconbasic-chevron-down tags_openclose"></i>
+            <div class="tags_dropdown__box" style="display: none;">
+                                    <div class="tags_dropdown__item  ">
+        <a href="https://mitaka-e-book.actibookone.com/category/list?param=eyJjYXRlZ29yeV9udW0iOjI4MTF9" data-tooltip="環境保全のあらまし">
+            環境保全のあらまし
+        </a>
+            </div>
+
+
+                                    <div class="tags_dropdown__item  ">
+        <a href="https://mitaka-e-book.actibookone.com/category/list?param=eyJjYXRlZ29yeV9udW0iOjI4MTZ9" data-tooltip="データ集・用語集">
+            データ集・用語集
+        </a>
+            </div>
+
+
+                                    <div class="tags_dropdown__item  ">
+        <a href="https://mitaka-e-book.actibookone.com/category/list?param=eyJjYXRlZ29yeV9udW0iOjI4MTd9" data-tooltip="市民意向調査・実態調査">
+            市民意向調査・実態調査
+        </a>
+            </div>
+
+
+                                    <div class="tags_dropdown__item  ">
+        <a href="https://mitaka-e-book.actibookone.com/category/list?param=eyJjYXRlZ29yeV9udW0iOjI4MTh9" data-tooltip="まちづくりディスカッション">
+            まちづくりディスカッション
+        </a>
+            </div>
+
+
+                            </div>
+            </div>
+
+
+<div class="tags_dropdown__item  has-child">
+        <a href="https://mitaka-e-book.actibookone.com/category/list?param=eyJjYXRlZ29yeV9udW0iOjMxODh9" data-tooltip="案内・情報誌">
+            案内・情報誌
+        </a>
+                    <i class="xiconbasic-chevron-down tags_openclose"></i>
+            <div class="tags_dropdown__box" style="display: none;">
+                                    <div class="tags_dropdown__item  ">
+        <a href="https://mitaka-e-book.actibookone.com/category/list?param=eyJjYXRlZ29yeV9udW0iOjI4MTl9" data-tooltip="Shall we?">
+            Shall we?
+        </a>
+            </div>
+
+
+                                    <div class="tags_dropdown__item  ">
+        <a href="https://mitaka-e-book.actibookone.com/category/list?param=eyJjYXRlZ29yeV9udW0iOjI4MjF9" data-tooltip="みぃむ">
+            みぃむ
+        </a>
+            </div>
+
+
+                                    <div class="tags_dropdown__item  ">
+        <a href="https://mitaka-e-book.actibookone.com/category/list?param=eyJjYXRlZ29yeV9udW0iOjI4MjB9" data-tooltip="For Foreign Citizen">
+            For Foreign Citizen
+        </a>
+            </div>
+
+
+                            </div>
+            </div>
+
+
+<div class="tags_dropdown__item  ">
+        <a href="https://mitaka-e-book.actibookone.com/category/list?param=eyJjYXRlZ29yeV9udW0iOjI4MjJ9" data-tooltip="マップ">
+            マップ
+        </a>
+            </div>
+
+
+                                                                                    </div>
+                                    </li>
+                                </ul>
+                            </li>
+                                                                                <!--v1.1 add 只有user_module_status为on时,才显示user相关信息-->
+                                                    </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+</header>    
+<!-- home画面：banner / content detail画面:viewer -->
+            <!--tablet时-->
+                    <div class="book-viewer" style="background-color: #3e3e3e;">
+                <!-- ひとまずダミーの枠と画像を入れています-->
+                
+                <div class="book-viewer-dummy">
+                
+                <!--viewer iframe-->
+                    <script type="text/javascript">
+    var terminalSdType = '';
+    var terminalPadType = '';
+    var infoStr =
+        {
+            cover: '1',
+            direction: 'l',
+            speadMode: '1',
+            linkColor: '#FFFF00',
+            link_alpha: '0.5',
+            linkTwinkle: '1',
+            baseUrl: 'https://files.actibookone.com/contents/1827/32853-20200304112556/',
+            urlSignature: '?Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNzU0MjUxMn19fV19&Signature=i5WahMpaHETno0~4x3e8edJ8CcjSCISu2IdO8jxsmokSadOkO9GaN0TO~IJIII4aud0QjSOHIZmR4rWANiryEV0NfJbPiPGYH7fjl~G1ka9M~ZihhQMau0pU2NHGyOtUwVmKHoBK9roB96he6HF3GAFqf96fChHwNzmaNFSYtmbuSZabtnkBQyTgzuGn2Jt4o~YCjI2cl2pUddT1qx9a7xrz-R1TZ4HTZawCAMOnEoqLKY6C6KbEDy7-ZxLlSFSBYEVreqeROpbgxQcLRRvLNICx~iDMi1L9fWjpP2RzapP35ZUFZxfCyEATq63RsuIztcVfQxESHJsmcj6iPRokfQ__&Key-Pair-Id=APKAJBZGQAONT53PE2FA',
+            readProgress: '1',
+            contentTitle: '三鷹を考える論点データ集2018',
+            readType: '1',
+            readFrom: '1',
+            contentDetailUrl: 'https://mitaka-e-book.actibookone.com/content/detail?param=eyJjb250ZW50TnVtIjozMjg1M30=',
+            customizeDate: '20200304112556',
+            totalPageTime: '88',
+            contentNum: '32853',
+            callAppUrl: 'poste:///readType=1&amp;contentNum=32853&amp;pageNo=1&amp;userNum=0&amp;readFrom=1&amp;keyword=論点',
+            embedFlg: '0',
+            userNum: '0',
+            keyword: '論点',
+            shareBaseUrl: 'https://mitaka-e-book.actibookone.com/',
+            printableFlg: '1',
+            apiUrl: 'https://api-v2.actibookone.com',
+            shareableFlg: '1',
+            contentInfoDispFlg: '1',
+            appButtonDispFlg: '1', //v3.0
+            dispLanguage: '1', //v3.0
+            envType: 'prod', //v3.0
+            clientNum: '1827', //v3.0
+            compatibleFlg: '0', //v4.1.0
+            contentUpdateDate: '2020-03-04 11:25:56', //v4.1.0
+            contentType: 'pdf', //v4.1.0
+            siteTitle: 'みたかe-bookポータル',
+            enlargeSizes: '300', //v5.9.0
+            cutFlg: '0', //v5.9.0
+            ccfp_URL: 'https://ccfp.cloudcircus.ai/ccfp.js', //v6.7.0
+            imgType: 'png', //v6.8.0
+            freeuseFlg: '0', //v7.1.0
+        };
+
+    //1. viewer初始化时，返回content的基本信息
+    function initViewer() {
+        str = infoStr.contentTitle;
+        str = str.replace(/&amp;/g, '&');
+        str = str.replace(/&lt;/g, '<');
+        str = str.replace(/&gt;/g, '>');
+        str = str.replace(/&quot;/g, '"');
+        str = str.replace(/&#039;/g, "'");
+        infoStr.contentTitle = str;
+
+        siteTitle = infoStr.siteTitle;
+        siteTitle = siteTitle.replace(/&amp;/g, '&');
+        siteTitle = siteTitle.replace(/&lt;/g, '<');
+        siteTitle = siteTitle.replace(/&gt;/g, '>');
+        siteTitle = siteTitle.replace(/&quot;/g, '"');
+        siteTitle = siteTitle.replace(/&#039;/g, "'");
+        infoStr.siteTitle = siteTitle;
+
+        //将包含content基本信息的json返回给viewer
+        return infoStr;
+    }
+
+    // 置顶方法，供h5调用
+    function gotoTop_poste() {
+        $('body,html').scrollTop(0);
+    }
+
+    //生成office文件下载url，供h5调用
+    function getOfficeDownloadUrl() {
+        url = '';
+        jQuery.ajax({
+            async: false, //同步
+            url: "https://mitaka-e-book.actibookone.com/content/getOfficeDownloadUrl",
+            type: 'POST',
+            data: {
+                'contentNum': '32853'
+            },
+            success: function (result) {
+                //location.href = result;
+                url = result;
+            },
+            error: function (msg) {
+                //调用assets_js_list中处理ajax异常的共通方法
+                commonAjaxError(msg);
+            }
+        });
+        if (url == 'notExist') {
+            location.href = 'https://mitaka-e-book.actibookone.com/error/404';
+        } else if (url == 'expired') {
+            location.href = 'https://mitaka-e-book.actibookone.com/error/expired';
+        } else if (url == 'needlogin') {
+            location.href = 'https://mitaka-e-book.actibookone.com/auth/login';
+        } else {
+            return url;
+        }
+    }
+
+    //2. viewer中切换通常/扩大状态
+    var iframe_zoomType;
+
+    function resizeParentSize(zoomType) {
+        iframe_zoomType = zoomType;
+        var header = 44;
+        if (terminalSdType == '1') { //sd
+            header = 0;
+            if (zoomType == "in") { //扩大 （screenSize_height:屏幕的高度）
+                $(".book-detail-block__viewer-dummy").animate({height: screenSize_height - bar_height}, 500);
+            } else { //通常 (viewer_init_height:定义在site_sd_detail中，sd viewer的初始高度)
+                //$(".book-detail-block__viewer-dummy").animate({height: viewer_init_height}, 500);
+                $(".book-detail-block__viewer-dummy").animate({height: $(window).height() - header - bar_height - bottom_height}, 500);
+            }
+        } else {
+            if (terminalPadType == '1') { //tablet
+                if (zoomType == "in") { //扩大
+                    $(".book-detail-block__viewer-dummy").animate({height: $(window).height() - header - bar_height}, 500);
+                } else { //通常 (viewer_init_height:定义在site_sd_detail中，sd viewer的初始高度)
+                    $(".book-detail-block__viewer-dummy").animate({height: $(window).height() - header - bar_height - bottom_height}, 500);
+                }
+            } else { //pc
+                if (zoomType == "in") { //扩大 44(header部的height)
+                    if ($(window).height() - header - bar_height < 683) {
+                        $(".book-viewer-dummy").animate({height: 683}, 500);
+                    } else {
+                        $(".book-viewer-dummy").animate({height: $(window).height() - header - bar_height}, 500);
+                    }
+                } else { //通常 683(book-viewer-dummy)
+                    $(".book-viewer-dummy").animate({height: 683}, 500);
+                }
+            }
+        }
+        gotoTop_poste();
+    }
+
+    //region v3.0 add 参考wangcheng h5 viewer DL pc_index.html中的的代码,pad横屏时改变iframe的高度
+    var isTilted = false; // Android の特殊端末対策
+    if (navigator.userAgent.indexOf('Android') > 0) {
+        var orientation = screen.orientation || screen.mozOrientation || screen.msOrientation;
+        if (orientation.type === "portrait-secondary" || orientation.type === "landscape-primary") {
+            isTilted = true;
+        }
+    }
+    var window_width = $(window).width();
+    var window_height = $(window).height();
+    var maxHeight = Math.max($(window).height(), $(window).width());
+    var minHeight = Math.min($(window).height(), $(window).width());
+    var screenSize_height = $(window).height();
+
+    var bar_height = 0;
+    var bottom_height = 0; //底部需要空出的高度
+    if ($(".book-detail-block__action").length > 0) {
+        bar_height = $(".book-detail-block__action:first").height();
+    }
+    var contentInfoDispFlg = '1';
+    if (1 == '' && contentInfoDispFlg == '1') {
+        bottom_height = 30;
+    }
+    if (1 == '' && contentInfoDispFlg == '1') {
+        bottom_height = 30;
+    }
+
+    setInterval(function () {
+        if (window_width != $(window).width() || window_height != $(window).height()) {
+
+            window_width = $(window).width();
+            window_height = $(window).height();
+
+            clearInterval(window["windowResize_page_setInterval"]);
+
+            window["windowResize_page_setInterval"] = setInterval(function () {
+                maxHeight = Math.max($(window).height(), $(window).width());
+                minHeight = Math.min($(window).height(), $(window).width());
+
+                $(window).trigger('orientationchange.normal');
+                clearInterval(window["windowResize_page_setInterval"]);
+            }, 100);
+        }
+    }, 100);
+    $(window).on('orientationchange.normal', function (e) {
+        var orientation = window.orientation;
+        maxHeight = Math.max($(window).height(), $(window).width());
+        minHeight = Math.min($(window).height(), $(window).width());
+        if (terminalSdType == '1') { //SD设备
+            var header = 0; //SD 上header为0
+        } else {
+            var header = 44; //pc或者pad上header的高度
+        }
+        if (isTilted) {
+            if (orientation === 0) {  // 横
+                screenSize_height = minHeight;
+                viewer_init_height = screenSize_height - header - bar_height - bottom_height;
+            } else {  // 縦
+                screenSize_height = maxHeight;
+                viewer_init_height = screenSize_height - header - bar_height - bottom_height;
+            }
+        } else {
+            if (orientation === 0) {  // 縦
+                screenSize_height = maxHeight;
+                viewer_init_height = screenSize_height - header - bar_height - bottom_height;
+            } else {  // 横
+                screenSize_height = minHeight;
+                viewer_init_height = screenSize_height - header - bar_height - bottom_height;
+            }
+        }
+        resizeParentSize(iframe_zoomType);
+    }).trigger('orientationchange.normal');
+    //endregion
+</script>
+
+
+<iframe id="actibookoneFrame" src="https://mitaka-e-book.actibookone.com/pdfViewer/actibook.html?v=20240924" frameborder="0" width="100%" height="100%"
+        allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" >
+</iframe>
+                </div>
+            </div>
+            
+
+    <div class="book-detail-block__action">
+        <div class="book-detail-block__action__inner">
+            <div class="book-detail-block__action__reacts">
+                <!-- verison 7.10.0 -->
+                                                                                                                            <a class="book-detail-block__action__reacts__share waves-effect waves-light"
+                       href="javascript:showShareContent();">
+                        <div class="book-detail-block__action__reacts__share__icon"></div>
+                        <div class="book-detail-block__action__reacts__share__title">シェア</div>
+                    </a>
+                                 <!--只有pc上才显示印刷按钮-->
+                <a class="book-detail-block__action__reacts__print waves-effect waves-light"
+                   href="javascript:showPrintDialogContent();">
+                    <div class="book-detail-block__action__reacts__print__icon"></div>
+                    <div class="book-detail-block__action__reacts__print__title">印刷</div>
+                </a>
+                                            </div>
+
+            <!--tablet时，才显示app呼出按钮-->
+                                                <div class="book-detail-block__action__extend">
+                        <div class="book-detail-block__action__extend__wrapper">
+                            <!--无说明文时，不显示通常和扩大按钮-->
+                                                            <a class="book-detail-block__action__extend__normal waves-effect action__extend_active"
+                                   href="javascript:void(0);">
+                                    <div class="book-detail-block__action__extend__normal__icon"></div>
+                                    <div class="book-detail-block__action__extend__normal__text">通常</div>
+                                </a>
+                                <a class="book-detail-block__action__extend__larger waves-effect"
+                                   href="javascript:void(0);">
+                                    <div class="book-detail-block__action__extend__larger__icon"></div>
+                                    <div class="book-detail-block__action__extend__larger__text">拡大</div>
+                                </a>
+                            
+                        <!--video类型时，全屏按钮显示在viewer里面，外面不显示全屏按钮-->
+                                                            <a class="book-detail-block__action__extend__zoomin waves-effect"
+                                   href="javascript:void(0);" onclick="triggerFullScreenFun()">
+                                    <div class="book-detail-block__action__extend__zoomin__icon"></div>
+                                    <div class="book-detail-block__action__extend__zoomin__text">全画面</div>
+                                </a>
+                                                    </div>
+                    </div>
+                                    </div>
+    </div>
+
+<!--SD search-->
+
+    <main role="main">
+        <div class="main-inner clearfix">
+            <div class="main-content clearfix">
+                <!--specific main content-->
+                        <!--v1.2-->
+    <div class="detail-texts">
+                                    <div class="detail-texts__breadcrumbs">
+                                                                        <a class="breadcrumb" href="https://mitaka-e-book.actibookone.com">HOME</a>
+                                                                                                <span class="breadcrumb breadcrumb--contentsdetail"><span>コンテンツ詳細</span></span>
+                                                            </div>
+                            <div class="detail-texts__book-title">三鷹を考える論点データ集2018</div>
+        <div class="detail-texts__explain">
+                            <div class="detail-texts__explain__body"
+                     style="word-break: break-all;white-space: pre-wrap;">「三鷹を考える論点データ集」は、基本計画を策定・改定する際に、市民の皆様と市政の現状や課題を共有し、幅広く市民の皆様のご意見を伺うために作成している基礎資料です。
+　三鷹市は、市民の皆様から市政に対するご意見をいただくには、三鷹市の状況を知っていただき、課題を共有することが必要と考えています。論点データ集は、特に重要なテーマに絞って、市の現状と課題を様々なデータにより明らかにしています。
+（平成11年11月に初版刊行、2018年度版で第６版となります）</div>
+                    </div>
+
+            </div>
+
+    <!--v3.0 content comment html-->
+    <!--region v3.0 add comment-->
+<input type="hidden" id="contentNum" name="contentNum" value="32853" />
+    <!--endregion-->
+
+    <!--environment_block-->
+    <div class="environment-block">
+    <div class="environment-block__title">動作確認環境
+        <div class="environment-block__openclose environment-block__openclose--closed" id="environment_openclose">
+            <div class="environment-block__openclose__inner"></div>
+        </div>
+    </div>
+    <div class="environment-block__body" id="environment_body" style="display: none;">
+        <div class="environment-block__body__left">
+            <div class="environment-block__body__left__body">
+                <div class="environment-block__body__left__body__header01">HTML5 Viewer</div>
+                <div class="environment-block__body__left__body__header02">OS及びブラウザ</div>
+                <div class="environment-block__body__left__body__content">
+                    <ul class="browser-default">
+                        <li>Windows 10<br>Microsoft Edge (Chromium) 最新版 / Google Chrome 最新版</li>
+                        <li>macOS 14.3.1<br>Safari 最新版</li>
+                        <li>iOS 最新版 (17.3)<br>Safari</li>
+                        <li>Android 13.0以上、14.0未満<br>Google Chrome 最新版 (OSの標準ブラウザは未対応)</li>
+                    </ul><br>（一部機種は正常に動作しない場合があります）
+                </div>
+                <div class="environment-block__body__left__body__header01">アプリ推奨環境</div>
+                <div class="environment-block__body__left__body__header02">動作確認端末</div>
+                <div class="environment-block__body__left__body__content">各アプリストアの詳細説明 をご覧ください。<br><a href="https://itunes.apple.com/jp/app/poste/id1340030905?mt=8" target="_blank" rel="noopener">App Store</a><br><a href="https://play.google.com/store/apps/details?id=com.startialab.poste" target="_blank" rel="noopener">Google play</a></div>
+            </div>
+        </div>
+        <div class="environment-block__body__right">※Apple、Apple のロゴ、macOS は、米国および他の国々で登録されたApple Inc.の商標です。<br>※iOSは、Apple Inc.のOS名称です。IOSは、Cisco Systems, Inc.またはその関連会社の米国およびその他の国における登録商標または商標であり、ライセンスに基づき使用されています。<br><br>※Google および Android、Google Chrome、Google Play は、米国および他の国々で登録されたGoogle Inc.の商標又は登録商標です。<br><br>※Microsoft、Windows、Windows 10 またはその他のマイクロソフト製品の名称および製品名は、米国Microsoft Corporationの米国およびその他の国における商標または登録商標です。</div>
+    </div>
+</div>            </div>
+        </div>
+    </main>
+    <!--v3.0 content comment modal-->
+    <div class="modal modal-confirm" id="modal-confirm-snitch">
+    <div class="modal-content">
+        <h4>コメント通報の確認</h4>
+        <p>このコメントを通報します。<br><br>よろしいですか？</p>
+    </div>
+    <div class="modal-footer"><a class="modal-action modal-close btn-flat waves-effect waves-red red-text" id="snitch-button" href="javascript:void(0)">通報</a><a class="modal-action modal-close btn-flat waves-effect">キャンセル</a></div>
+</div>
+<div class="modal modal-confirm" id="modal-confirm-delete">
+    <div class="modal-content">
+        <h4>コメント削除の確認</h4>
+        <p>このコメントを削除します。<br><br>よろしいですか？</p>
+    </div>
+    <div class="modal-footer"><a class="modal-action modal-close btn-flat waves-effect waves-red red-text" id="delete-button" href="javascript:void(0)">削除</a><a class="modal-action modal-close btn-flat waves-effect">キャンセル</a></div>
+</div><!--footer显示部分-->
+            <!--common footer-->
+        <footer>
+    <div class="page-footer">
+        <div class="footer-inner">
+            <div class="footer-main container white-text">
+                <!--当前画面如果是显示个人情报保护方针画面，则不需要显示此link-->
+                                    <a class="pc-items" href="https://mitaka-e-book.actibookone.com/privacy" target="_blank" rel="noopener">
+                        <i class="fa fa-arrow-circle-o-right"></i> 個人情報保護方針
+                    </a>
+                    <a class="pc-items" href="https://cloudcircus.jp/company/info/agreement_soft/ActiBook_privacypolicy/" target="_blank" rel="noopener">
+                        <i class="fa fa-arrow-circle-o-right"></i> ActiBook プライバシーポリシー
+                    </a>
+                    <a class="sd-items" href="https://mitaka-e-book.actibookone.com/privacy" target="_blank" rel="noopener">
+                        <i class="fa fa-arrow-circle-o-right"></i> 個人情報保護方針
+                    </a>
+                    <a class="sd-items" href="https://cloudcircus.jp/company/info/agreement_soft/ActiBook_privacypolicy/" target="_blank" rel="noopener">
+                        <i class="fa fa-arrow-circle-o-right"></i> ActiBook プライバシーポリシー
+                    </a>
+                            </div>
+        </div>
+        <div class="footer-copyright">
+            <div class="footer-inner">
+                <div class="container center-align">
+                    <a href="https://cloudcircus.jp/company/" target="_blank" rel="noopener">
+                        2020mitaka city
+                        
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>    
+<div class="gototop" id="gototop">
+    <div class="gototop__tip"><a class="gotocomment_input" id="gotocomment_input" href="javascript:void(0)"><i
+                    class="xiconbasic-pencil"></i></a><a class="gototop_link" id="gototop_link"
+                                                         href="javascript:void(0)"><i class="xiconbasic-arrow-left"></i></a>
+    </div>
+</div>
+
+<!-- .modal-->
+<div class="modal modal-confirm modal-maintenance-notice" id="modal-maintenance-notice">
+    <div class="modal-content">
+                <h4>
+            <i class="fa fa-exclamation-circle maintenance-warning"></i> メンテナンスのお知らせ
+        </h4>
+        <p> 
+        </p>
+        <div class="onetime-check-wrap">
+            <input class="filled-in" id="onetime_check" name="maintenance_message" type="checkbox"
+                   value="maintenance_message">
+            <label for="onetime_check">今後、このメッセージを表示しない</label>
+        </div>
+    </div>
+    <div class="modal-footer"><a class="modal-action modal-close waves-effect waves-blue btn-flat"
+                                 id="maintenance-notice-button">閉じる</a>
+    </div>
+</div>
+<!-- /.modal-->
+<script type="text/javascript">
+    //version5.6.0
+    function setCookieCategory(cname, cvalue) {
+        var strdomain = window.location.host;
+        document.cookie = cname + "=" + cvalue + ";domain=" + strdomain + ";path=/;secure";
+    }
+
+    $(".tags_dropdown__item").on("click", function () {
+        setCookieCategory("display_method", "1")
+    })
+
+    function setCookieMaintenance(cname, cvalue) {
+        var d = new Date();
+        d.setTime(d.getTime() + (12 * 30 * 24 * 60 * 60 * 1000));
+        var expires = "expires=" + d.toGMTString();
+        document.cookie = cname + "=" + cvalue + ";domain=actibookone.com;" + expires + ";path=/;secure";
+    }
+
+    function getCookieMaintenance(cname) {
+        var name = cname + "=";
+        var ca = document.cookie.split(';');
+        for (var i = 0; i < ca.length; i++) {
+            var c = ca[i].trim();
+            if (c.indexOf(name) == 0) return c.substring(name.length, c.length);
+        }
+        return "null";
+    }
+
+    $(document).ready(function () {
+        $(".modal-maintenance-notice-a").on('click', function (e) {
+            e.preventDefault();
+            $('#modal-maintenance-notice').modal();
+            $('#modal-maintenance-notice').trigger("openModal");
+        })
+                        //到维护公告时间
+                        $(".noticebar").css("height", 0);
+        $(".nav-afterlogin.show-noticebar header.navbar-fixed nav, .nav-beforelogin.show-noticebar header.navbar-fixed nav").css("top", 0);
+                $(".nav-afterlogin.show-noticebar header.navbar-fixed, .nav-beforelogin.show-noticebar header.navbar-fixed").css("height", 44);
+                $('.modal-maintenance-notice-a').attr('href', '#modal-maintenance-notice-new');
+                
+        // ヘッダのアイコンにツールチップを追加
+        $('.nav-pc-rightside__item a[data-tooltip]').on('open', function () {
+            if ($(this).is('.active')) $(this).trigger('mouseleave.tooltip');
+        }).tooltip({position: 'bottom', offset: 0, delay: 50});
+    });
+
+</script>
+
+<script type="text/javascript">
+    //--SD画面，如果前一个画面存在，则显示返回箭头
+    function displayBackButton() {
+        if (window.history.length > 1) {
+            //除sd content详细画面以外的
+            $('body').addClass('has-headernavi');
+            //sd content详细画面
+            $('.book-detail-block__top__navigation').show();
+        }
+    }
+</script>
+<script type="text/javascript" src="https://mitaka-e-book.actibookone.com/assets/js/script.js?v=20240924"></script>
+<script type="text/javascript" src="https://mitaka-e-book.actibookone.com/assets/js/Base64.js?v=20240924"></script>
+
+<!-- page specific plugin scripts-->
+ <!--specific page js file-->
+<script type="text/javascript">
+//js方法将HTML特殊符号转义成html实体
+function js_htmlspecialchars(str){
+    str = str.replace(/&/g, '&amp;');
+    str = str.replace(/</g, '&lt;');
+    str = str.replace(/>/g, '&gt;');
+    str = str.replace(/"/g, '&quot;');
+    str = str.replace(/'/g, '&#039;');
+    return str;
+}
+
+function js_htmlspecialchars_decode(str){
+    str = str.replace(/&amp;/g, '&');
+    str = str.replace(/&lt;/g, '<');
+    str = str.replace(/&gt;/g, '>');
+    str = str.replace(/&quot;/g, '"');
+    str = str.replace(/&#039;/g, "'");
+    return str;
+}
+
+//字符串格式化的方法
+function stringFormat(str,args) {
+    var result = str;
+    if (arguments.length > 0) {
+        for (var key in args) {
+            if(args[key]!=undefined){
+                var reg = new RegExp("({" + key + "})", "g");
+                var replaceStr = args[key].toString().replace(/\$/g, '$$$'); //$=> $$$ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace
+                result = result.replace(reg, replaceStr);
+            }
+        }
+    }
+    return result;
+}
+
+//v1.2 呼起APP
+function openApp(callAppUrl) {
+    var subWindow = $("#actibookoneFrame")[0] && $("#actibookoneFrame")[0].contentWindow;
+    if(subWindow && subWindow.openApp) {
+        subWindow.openApp();
+    }
+}
+
+//v3.0 格式化comment总数(格式为9,999+)
+function formatCommentLikeCnt(commentCnt) {
+    var base = String(commentCnt).split('.'),
+        former = base[0],
+        latter = base.length == 2 ? base[1] : '',
+        tmp = '';
+    while(former != (tmp = former.replace(/^([+-]?\d+)(\d{3})/,'$1,$2'))){
+        former = tmp;
+    }
+    var format1 = former + (latter === '' ? '' : '.' + latter);
+    if (parseInt(commentCnt) > 9999) {
+        format1 = '9,999+';
+    }
+    return format1;
+}
+</script>
+ <!-- 常用的js工具类-->
+<!-- common behavior-->
+<script type="text/javascript">
+    //CSRF 安全校验
+    $.ajaxSetup({
+        headers: {
+            'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
+        }
+    });
+    $(document).ready(function () {
+        // パンくずリストで、カテゴリの文字列量が多いときの対応
+        // 「HOME」の想定表示幅
+        var homeWidth = 40;
+        var categoriesMax = 5;
+        if ($('.breadcrumb_wrap, .detail-texts__breadcrumbs, .book-detail-block__texts__breadcrumbs').length) {
+            var parent = $($('.breadcrumb_wrap, .detail-texts__breadcrumbs, .book-detail-block__texts__breadcrumbs')[0]),
+                breadcrumbWrapWidth = parent.prop('offsetWidth') - parseInt(parent.css('padding-left')) - parseInt(parent.css('padding-right')),
+                isSD = $('body').is('.book-detail--sd'),
+                breadcrumbWrapWidthDivided = parseInt((breadcrumbWrapWidth - homeWidth - (isSD ? parseInt($($('.breadcrumb')[0]).css('margin-right')) * ($('.breadcrumb').length) : 0)) / ($('.breadcrumb').length - 1));
+            var breadcrumbs = parent.find('.breadcrumb'),
+                totalWidth = 0;
+            breadcrumbs.each(function (index) {
+                if ($(this).prop('offsetWidth') > breadcrumbWrapWidthDivided) {
+                    $(this).css('width', (breadcrumbWrapWidthDivided + (isSD ? (index === breadcrumbs.length - 1) ? parseInt($($('.breadcrumb')[0]).css('margin-right')) : 0 : 0)) + 'px').attr({'data-tooltip': $(this).text()});
+                } else {
+                    $(this).removeAttr('data-tooltip');
+                }
+                if (index === breadcrumbs.length - 1) {
+                    $(this).css('width', $(this).is('.breadcrumb--contentsdetail') ? 'auto' : parseInt(breadcrumbWrapWidth - totalWidth) + 'px');
+                } else {
+                    totalWidth += $(this).prop('offsetWidth') + 1 + parseInt($(this).css('margin-right'));
+                }
+            });
+            parent.find('[data-tooltip]').tooltip({position: 'top', offset: 0, delay: 50});
+            parent.find('[data-tooltip]').each(function () {
+                $('#' + $(this).attr('data-tooltip-id')).addClass('width-400');
+            });
+            parent.addClass('breadcrumb_wrap--checked');
+        }
+    });
+</script>
+<!-- inline scripts related to this page-->
+<script type="text/javascript">
+    $(document).ready(function () {
+        // カテゴリの上端からの表示余白
+        var categoryTopMargin = 30;
+        // ヘッダナビゲーションのボタン内のアイコンクリック時
+        $('#nav-pc-tags').find('i').on('click', function (e) {
+            e.preventDefault();
+            e.stopPropagation();
+            if ($('#category_dropdown').is(':visible')) {
+                $('#nav-pc-tags').dropdown('close');
+            } else {
+                $('#nav-pc-tags').dropdown('open');
+            }
+        });
+        // ヘッダナビゲーションのフォーカス時
+        $('.item-searchinput').on('focus click', function (e) {
+            e.stopPropagation();
+            if (!$('body').is('.template1') && !$('body').is('.template2')) {	// テンプレート1 か 2 でない場合にのみ。検索の入力欄が伸び縮みする
+                $('.item-searchinput__wrap').addClass('focused');
+            }
+        });
+        // ヘッダナビゲーションの検索表示
+        $('#nav-pc_templatesearch').on('click', function () {
+            $('#nav-right').addClass('show-search');
+            setTimeout(function () {
+                $('#search-input').focus();
+            }, 10);
+        });
+        $('#search_overlay').on('click', function () {
+            $('#nav-pc_search').one('transitionend', function () {
+                $('#nav-right').removeClass('hide-search show-search');
+            });
+            $('#nav-right').addClass('hide-search');
+        });
+
+        //点击画面上的其他地方,pc检索的输入框收回
+        $(document).on('click', function (e) {
+            if (typeof ($('#search-input')) != "undefined") { //soft add 只有pc search input框存在时
+                if (!$(this).parents('.item-searchinput__wrap').length && !$('#search-input').val()) {
+                    $('.item-searchinput__wrap').removeClass('focused');
+                }
+            }
+        });
+        // 検索のドロップダウン起動
+        if ($('#item-dropdown').length) {
+            $('#item-dropdown').dropdown({
+                belowOrigin: true
+            });
+            $('#nav-category-dropdown').find('a').on('click', function (e) {
+                var _this = $(this);
+                $('#item-dropdown').text(_this.text()).dropdown('close');
+            });
+        }
+        // ヘッダナビゲーションの検索アイコンクリック時
+        $('#searchicon').on('click', function (e) {
+            e.stopPropagation();
+            if ($('#search-input').val() == '') {
+                $('#search-input').trigger('focus');
+            } else {
+                // 検索ボックスが空ではない場合は、検索アイコンクリックで検索実行
+            }
+        });
+        // ヘッダナビゲーションのカテゴリ
+        $('#nav-pc-tags').dropdown({belowOrigin: true, alignment: 'right', stopPropagation: true});
+        var _getDropDownHeight = function (scrollArea, ancestorIsHeader) {
+            var result = 0;
+            if (ancestorIsHeader) {
+                result = $('#tags_dropdown').prop('offsetHeight') - parseInt($('#tags_dropdown').css('margin-top'));
+            } else {
+                var scrollAreaTop = scrollArea.offset().top;
+                var scrollAreaHeight = scrollArea.prop('offsetHeight');
+                var windowScroll = $(_isHtmlScrollable ? 'html' : 'body');
+                var windowScrollTop = windowScroll.prop('scrollTop');
+                if (windowScrollTop + $('.nav-upper').prop('offsetHeight') + categoryTopMargin > scrollAreaTop) {
+                    scrollAreaHeight = Math.min(windowScrollTop + $(window).prop('innerHeight'), scrollAreaTop + scrollAreaHeight - windowScrollTop) - ($('.nav-upper').prop('offsetHeight') + categoryTopMargin);
+                }
+                var notBottom = $(window).prop('innerHeight') - ($('#open_tags').offset().top - windowScrollTop);
+                var scrollHeightToBe = Math.min(notBottom, scrollAreaHeight);
+                if (scrollHeightToBe === notBottom) {
+                    scrollHeightToBe -= 10;
+                }
+                result = scrollHeightToBe;
+            }
+            return result;
+        };
+        var _slimScrollInitializeTimer;
+        $('#nav-pc-tags').on('open', function (e) {
+            var _this = $(this),
+                _parent = $('#tags_dropdown'),
+                _content = _parent.find('.tags_dropdown__content__inner'),
+                isHeader = !!_this.next('#tags_dropdown').length;
+            if (_parent.find('.slimScrollDiv').length) {
+                _content.off('initialized').slimScroll({destroy: true});
+                _content.removeAttr('style');
+            }
+            clearTimeout(_slimScrollInitializeTimer);
+            _slimScrollInitializeTimer = setTimeout(function () {
+                if (_this.is('.active')) {
+                    _content.on('initialized', function () {
+                        setTimeout(function () {
+                            _content.trigger('mouseout');
+                            setTimeout(function () {
+                                _content.trigger('mouseover');
+                            }, 200);
+                        }, 200);
+                    });
+                    _content.slimScroll({
+                        axis: 'y',
+                        railVisible: true,
+                        height: _getDropDownHeight(_content, isHeader)
+                    });
+                }
+            }, 410);
+        });
+        $(window).on('resize', $.debounce(200, function () {
+            if ($('#nav-pc-tags').is('.active')) {
+                $('#nav-pc-tags').dropdown('close');
+            }
+        }));
+
+
+        // カテゴリの展開/閉じ込み
+        $(document).on('click', '.tags_openclose', function () {
+            var _this = $(this),
+                cond = !_this.is('.tags_openclose--open'),
+                slimscrollwrap = _this.closest('.tags_dropdown__content__inner'),
+                ancestorIsHeader = !!_this.closest('#tags_dropdown').length;
+            slimscrollwrap.off('initialized').slimScroll({destroy: true});
+            slimscrollwrap.css('height', 'auto');
+            _this.toggleClass('tags_openclose--open', cond).next('.tags_dropdown__box')[cond ? 'slideDown' : 'slideUp'](cond ? 'normal' : 'fast', function () {
+                slimscrollwrap.on('initialized', function () {
+                    setTimeout(function () {
+                        slimscrollwrap.trigger('mouseout');
+                        setTimeout(function () {
+                            slimscrollwrap.trigger('mouseover');
+                        }, 200);
+                    }, 200);
+                });
+                slimscrollwrap.slimScroll({
+                    axis: 'y',
+                    railVisible: true,
+                    height: _getDropDownHeight(slimscrollwrap, ancestorIsHeader)
+                });
+            });
+        });
+
+        // セレクトボックスの起動
+        // Chrome で material_select がクリック時に見た目がおかしくなるため、見た目を似せてドロップダウンで実装
+        if ($('select').length && $('select').closest('.sort-select').length && $('select').closest('.sort-select').find('.select-alike').length) {
+            var tapev = window.ontouchstart === null ? 'touchstart' : 'click';
+            var select = $('select').closest('.sort-select').find('.select-alike');
+            select.each(function (index) {
+                var selectbox = $(this),
+                    dropdown_id = 'sort_dropdown_' + (index + 1),
+                    dropdown = selectbox.next('.dropdown-content'),
+                    selecttag = dropdown.next('select');
+                selectbox.attr('data-activates', dropdown_id);
+                dropdown.attr('id', dropdown_id);
+                select.on(tapev, function (e) {
+                    e.stopPropagation();
+                    var current = selecttag.find('option:selected').val();
+                    dropdown.find('li').removeClass('selected');
+                    dropdown.find('[data-value="' + current + '"]').addClass('selected');
+                });
+                dropdown.find('a').on(tapev, function (e) {
+                    e.stopPropagation();
+                    var selected = $(this).closest('li'),
+                        selected_value = selected.attr('data-value');
+                    if (!selected.is('.selected')) {
+                        selecttag.val(selected_value);
+                        selectbox.text(selecttag.find('option:selected').text());
+                    }
+                    selectbox.dropdown('close');
+                });
+                selectbox.dropdown();
+            });
+        }
+
+        // テンプレートでのカテゴリの移動
+        if ($('body').is('.has-open-category')) {
+            $(window).on('scroll', function () {
+                var scrollArea = $(_isHtmlScrollable ? 'html' : 'body');
+                var scrollTop = scrollArea.prop('scrollTop');
+                var headerHeight = $('.nav-upper').prop('offsetHeight');
+                var categoryColumnTop = $('#category_column').offset().top;
+                $('#open_tags').toggleClass('open-tags--sticky', (scrollTop + headerHeight + categoryTopMargin > categoryColumnTop));
+                setTimeout(function () {
+                    $(window).trigger('resize');
+                }, 300);
+            });
+            $(window).on('resize', $.debounce(200, function () {
+                if ($('#open_tags:visible').length) {
+                    var slimscrollwrap = $('#open_tags').find('.tags_dropdown__content__inner');
+                    slimscrollwrap.off('initialized').slimScroll({destroy: true});
+                    slimscrollwrap.css('height', 'auto');
+                    slimscrollwrap.slimScroll({
+                        axis: 'y',
+                        railVisible: true,
+                        height: _getDropDownHeight(slimscrollwrap, false)
+                    });
+                }
+            }));
+        }
+
+        if (typeof $("#search-input").val() != 'undefined') {
+            if ($("#search-input").val().length > 0) {
+                $('#nav-right').addClass('show-search');
+            }
+        }
+    });
+</script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        // 固定値
+        // コンテンツエリアの幅
+        var _contentWidth = 1168;
+        // トップに戻るチップの幅
+        var _gototopWidth = 108;
+        // トップに戻るチップの下端
+        var _gototopMarginBottom = 28;
+        // コンテンツエリア左端からのチップ位置
+        var _gototopLeft = 69;
+        // チップ表示位置を考慮した最低ウィンドウサイズ
+        var _minWindowWidth = (_gototopWidth + _gototopLeft) * 2 + _contentWidth;
+        // SD の場合の右端の位置
+        var _gototopSDMarginRight = 14;
+        // トップに戻る所要時間
+        var _gototopRequiredTime = 700;
+
+        // 表示非表示の切り替えポイント
+        var _gototopShowingHeight = window.matchMedia(_sdMedia).matches ?
+            $('body').is('.home') ? 170 : 80 :
+            $('body').is('.home') ? 300 : 160;
+
+        // 「トップに戻る」の位置調整
+        var _adjustBottomPos = function () {
+            var _scrollArea = $(_isHtmlScrollable ? 'html' : 'body'),
+                _windowHeight = $(window).prop('innerHeight'),
+                _scrollHeight = _scrollArea.prop('scrollHeight'),
+                _scrollPos = _scrollArea.prop('scrollTop'),
+                _footerHeight = $('footer').prop('offsetHeight');
+            var _bottomPos = (_scrollPos + _windowHeight <= _scrollHeight - _footerHeight) ? _gototopMarginBottom : _gototopMarginBottom + (_scrollPos + _windowHeight - (_scrollHeight - _footerHeight));
+            return _bottomPos;
+        };
+        var _adjustRightPos = function () {
+            if (!window.matchMedia(_sdMedia).matches) {
+                var _rightPos = ($(window).prop('innerWidth') > _minWindowWidth) ? ($(window).prop('innerWidth') - _contentWidth) / 2 - (_gototopLeft + _gototopWidth) : 10;
+                return _rightPos;
+            } else {
+                return _gototopSDMarginRight;
+            }
+        };
+        var _adjustGoToTopPos = function () {
+            $('#gototop').css({'right': _adjustRightPos() + 'px'/*,'bottom':_adjustBottomPos()+'px'*/});
+        };
+        // ウィンドウのリサイズ時に位置調整
+        $(window).on('resize', $.debounce(200, function () {
+            _adjustGoToTopPos();
+        })).trigger('resize');
+        // スクロール時の処理
+        var _initAdjusted = false;
+        $(window).on('scroll', function () {
+            var _this = $(this);
+            if (!_initAdjusted) {
+                _initAdjusted = true;
+                $('#gototop').css('right', _adjustRightPos() + 'px');
+            }
+            if (_this.scrollTop() > _gototopShowingHeight) {
+                if (!$('#gototop').is('.fadein')) {
+                    $('#gototop').addClass('fadein');
+                }
+            } else {
+                if ($('#gototop').is('.fadein') && !$('#gototop').is('.fadeout')) {
+                    $('#gototop').on('animationend.gototop webkitAnimationEnd.gototop oAnimationEnd.gototop mozAnimationEnd.gototop', function () {
+                        $('#gototop').off('.gototop').removeClass('fadein').removeClass('fadeout');
+                    });
+                    $('#gototop').addClass('fadeout');
+                }
+            }
+        }).trigger('scroll');
+        // トップに移動する
+        $('#gototop_link').on('click', function (e) {
+            e.preventDefault();
+            $(this).blur();
+            if ($('#gototop').is('.fadein')) {
+                $('body').velocity('scroll', {duration: _gototopRequiredTime, easing: 'ease', mobileHA: false});
+            }
+        });
+        // コメント入力欄がない場合は移動アイコンを非表示
+        if (!$('#commentanchor').length) {
+            $('#gotocomment_input').css({'display': 'none'});
+        } else {
+            // コメント入力欄に移動する
+            $('#gotocomment_input').on('click', function (e) {
+                e.preventDefault();
+                $(this).blur();
+                if ($('#gototop').is('.fadein')) {
+                    $('#commentanchor').velocity('scroll', {
+                        duration: _gototopRequiredTime,
+                        easing: 'ease',
+                        mobileHA: false
+                    });
+                }
+            });
+        }
+    });
+</script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        // ヘッダのアイコンにツールチップを追加
+        $('.nav-pc-rightside__item a[data-tooltip]').on('open', function () {
+            if ($(this).is('.active')) $(this).trigger('mouseleave.tooltip');
+        }).tooltip({position: 'bottom', offset: 0, delay: 50});
+    });
+</script>
+<div class="fullscreen-loader">
+    <div class="preloader-wrapper big active">
+        <div class="spinner-layer spinner-blue">
+            <div class="circle-clipper left">
+                <div class="circle"></div>
+            </div>
+            <div class="gap-patch">
+                <div class="circle"></div>
+            </div>
+            <div class="circle-clipper right">
+                <div class="circle"></div>
+            </div>
+        </div>
+        <div class="spinner-layer spinner-red">
+            <div class="circle-clipper left">
+                <div class="circle"></div>
+            </div>
+            <div class="gap-patch">
+                <div class="circle"></div>
+            </div>
+            <div class="circle-clipper right">
+                <div class="circle"></div>
+            </div>
+        </div>
+        <div class="spinner-layer spinner-yellow">
+            <div class="circle-clipper left">
+                <div class="circle"></div>
+            </div>
+            <div class="gap-patch">
+                <div class="circle"></div>
+            </div>
+            <div class="circle-clipper right">
+                <div class="circle"></div>
+            </div>
+        </div>
+        <div class="spinner-layer spinner-green">
+            <div class="circle-clipper left">
+                <div class="circle"></div>
+            </div>
+            <div class="gap-patch">
+                <div class="circle"></div>
+            </div>
+            <div class="circle-clipper right">
+                <div class="circle"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.fullscreen-loader').on('animationend webkitAnimationEnd oAnimationEnd mozAnimationEnd', function () {
+            if ($('body').is('.hide-fullscreen-loader')) {
+                $('body').removeClass('show-fullscreen-loader hide-fullscreen-loader');
+            }
+        });
+    });
+</script>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+                if ($('body').is('.notice')) {
+            $('#nav-pc-notice').addClass('item-icon--active');
+            $('#nav-pc-history').removeClass('item-icon--active');
+        } else if ($('body').is('.readhistory')) {
+            $('#nav-pc-history').addClass('item-icon--active');
+            $('#nav-pc-notice').removeClass('item-icon--active');
+        } else {
+            $('#nav-pc-notice').removeClass('item-icon--active');
+            $('#nav-pc-history').removeClass('item-icon--active');
+        }
+            });
+</script>
+
+
+<script type="text/javascript">
+    //SD的返回事件
+    function back() {
+        window.history.go(-1); //跳转到前一个画面
+    }
+
+    //处理ajax异常的共通方法
+    function commonAjaxError(errorMsg) {
+        if (errorMsg.status == 401) { //1. 由middleware Authenticate中返回，session失效时跳转到login画面
+            location.href = 'https://mitaka-e-book.actibookone.com/auth/login';
+        } else if (errorMsg.status == 402) { //2. conetnauth 登录
+            location.href = 'https://mitaka-e-book.actibookone.com/auth/login?contentAuth=true';
+        } else if (errorMsg.status == 403) { //2. ip限制
+            location.href = 'https://mitaka-e-book.actibookone.com/error/403';
+        } else if (errorMsg.status == 404) { //2. 访问无权限的页面,跳转到404画面
+            location.href = 'https://mitaka-e-book.actibookone.com/error/404';
+        } else if (errorMsg.status == 422) { //3. request validate返回，参数验证错误时，由各个画面自己处理 displayError
+            displayError(errorMsg.responseJSON);
+        } else { //3. 其他异常错误，跳转到500画面
+            location.href = 'https://mitaka-e-book.actibookone.com/error/500';
+        }
+    }
+
+    //endregion
+</script>
+<script>
+    /**
+     * version 5.8.0 对应 看书时滚动条自动下滑到下面
+     */
+    function gotoTopByViewer() {
+        $('body,html').scrollTop(0);
+        document.body.scrollTop = 0;
+        document.documentElement.scrollTop = 0;
+    }
+</script>
+
+
+<!-- version 6.7.0 -->
+<script src='https://ccfp.cloudcircus.ai/ccfp.js'></script>
+<!-- 用户登录后执行ccpf的setProperty -->
+
+
+<!--specific page js -->
+    <script type="text/javascript">
+        var viewer_init_height;  //viewer的初始高度，供viewer_iframe中resizeParentSize方法使用
+        var bar_height = 0; // 底部分享按钮bar的高度
+        var bottom_height = 0; //通常状态时,底部需要空出的高度
+        var screenSize_height = $(window).height(); //屏幕的初始高度
+
+        $(document).ready(function () {
+
+
+            // 動作環境の開閉
+            $('.environment-block__title').on('click', function () {
+                var _this = $(this),
+                    _arrow = _this.find('.environment-block__openclose'),
+                    _cond = !_arrow.is('.environment-block__openclose--closed');
+                $('#environment_body')[_cond ? 'slideUp' : 'slideDown']();
+                _arrow.toggleClass('environment-block__openclose--closed', _cond);
+            });
+            // Google Maps 対策
+            if ($('.detail-texts__htmlblock__body').find('iframe').length) {
+                $(window).on('resize', $.debounce(200, function () {
+                    var _parent = $('.detail-texts__htmlblock__body'),
+                        _iframe = _parent.find('iframe'),
+                        _iframeWidth = (_iframe.attr('width')) ? parseInt(_iframe.attr('width')) : 0,
+                        _outerwrap = _iframe.closest('div');
+                    if (_iframeWidth > _parent.prop('offsetWidth')) {
+                        if (!_outerwrap.is('.detail-texts__htmlblock__body__googlemaps')) {
+                            $(_iframe).wrap($('<div class="detail-htmlblock__body__googlemaps"></div>'));
+                        }
+                        if (_iframeWidth && _iframe.attr('height')) {
+                            var _ratio = parseInt(_iframe.attr('height')) / _iframeWidth * 100;
+                            $('style#iframeratio').remove();
+                            $.additionalStyle.insertRule(['.detail-texts__htmlblock__body__googlemaps:before'], 'padding-top:' + _ratio + '% !important;', 'iframeratio');
+                        }
+                    } else {
+                        if (_outerwrap.is('.detail-texts__htmlblock__body__googlemaps')) {
+                            $(_iframe).unwrap();
+                        }
+                    }
+                })).trigger('resize');
+            }
+            // 端末の向き変更時
+            var isTilted = false;	// Android の特殊端末対策
+            if (navigator.userAgent.indexOf('Android') > 0) {
+                var orientation = screen.orientation || screen.mozOrientation || screen.msOrientation;
+                if (orientation.type === "portrait-secondary" || orientation.type === "landscape-primary") {
+                    isTilted = true;
+                }
+            }
+            var portlaitViewport = function () {
+                    $('head').append('<meta name="viewport" content="width=device-width">');
+                },
+                landscapeViewport = function () {
+                    $('head').append('<meta name="viewport" content="width=device-width">');
+                };
+            //v3.0 此处的横屏事件为参考mockup中的方法，动态改变viewport的值
+            //viewer_iframe中的orientationchange方法为动态改变iframe viewer的值
+            $(window).on('orientationchange', function () {
+                var orientation = window.orientation;
+                $('meta[name="viewport"]').remove();
+                if (isTilted) {
+                    if (orientation === 0) {	// 横
+                        landscapeViewport();
+                    } else {	// 縦
+                        portlaitViewport();
+                    }
+                } else {
+                    if (orientation === 0) {	// 縦
+                        portlaitViewport();
+                    } else {	// 横
+                        landscapeViewport();
+                    }
+                }
+            }).trigger('orientationchange');
+        });
+    </script>
+    <script type="text/javascript">
+
+        $(document).ready(function () {
+            //region v3.0 add 没有comment输入框时,隐藏底部笔形状的标签
+            if ($('#comment-input').length == 0) {
+                $('.gotocomment_input').hide();
+            }
+            //endregion
+
+            $('.lower').each(function () {
+                $(this).closest('.material-tooltip').addClass('material-tooltip--lower');
+            });
+
+            //v3.0 c.sun add 如果viewer下部的bar上的按钮一个也不显示时，则整个bar都不显示
+            if ($('.book-detail-block__action').find('a[class^="book-detail-block__action__"]').length == 0
+                && $('.book-detail-block__action').find('div[class="book-detail-block__action__app-button"]').length == 0
+            ) {
+                $('.book-detail-block__action').remove();
+            }
+
+            //region v3.0 soft add 计算bar_height
+            var contentInfoDispFlg = '1';
+            if ($(".book-detail-block__action").length > 0) {
+                bar_height = $(".book-detail-block__action:first").height();
+            }
+
+            //pad时没有详细说明的情况，viewer处于扩大状态
+            if (1 == '') {
+                var header = 44;
+                if (contentInfoDispFlg == '0') {
+                    $(".book-detail-block__viewer-dummy").animate({height: $(window).height() - header - bar_height}, 0); //44:header部分高度
+                } else {
+                    bottom_height = 30;
+                    $(".book-detail-block__viewer-dummy").animate({height: $(window).height() - header - bar_height - bottom_height}, 0); //44:header部分高度
+                }
+            }
+            viewer_init_height = $(".book-detail-block__viewer-dummy").height();
+            //endregion
+
+            //通常，扩大方法
+            $(".book-detail-block__action__extend__normal, .book-detail-block__action__extend__larger")
+                .on("click", function () {
+                    $(".action__extend_active").removeClass("action__extend_active");
+                    $(this).addClass("action__extend_active");
+
+                    if ($(this).hasClass("book-detail-block__action__extend__normal")) {
+                        resizeParentSize("out");
+                    } else if ($(this).hasClass("book-detail-block__action__extend__larger")) {
+                        resizeParentSize("in");
+                    }
+                });
+        });
+
+        //调用h5的显示share 模态框方法
+        function showShareContent() {
+            var subWindow = $("#actibookoneFrame")[0] && $("#actibookoneFrame")[0].contentWindow;
+            if (subWindow && subWindow.showShareContent) {
+                subWindow.showShareContent();
+            }
+        }
+
+        //调用h5的显示pc 打印方法
+        function showPrintDialogContent() {
+            var subWindow = $("#actibookoneFrame")[0] && $("#actibookoneFrame")[0].contentWindow;
+            if (subWindow && subWindow.showPrintDialogContent) {
+                subWindow.showPrintDialogContent();
+            }
+        }
+
+
+        //region 调用h5的显示全屏方法
+        var book_viewer_width = $(window).width();
+        var book_viewer_height = $(window).height();
+
+        setInterval(function () {
+            if (book_viewer_width != $(window).width() || book_viewer_height != $(window).height()) {
+
+                book_viewer_width = $(window).width();
+                book_viewer_height = $(window).height();
+
+                clearTimeout(window["windowResize_page"]);
+
+                window["windowResize_page"] = setTimeout(function () {
+
+                    // 1.2.判断是否全屏
+                    var isFullscreen = isFullscreenForNoScroll();
+
+                    if (isFullscreen) {
+                        $("body").addClass("fullScreen_extend");
+                        fullscreen_type = "out";
+                    } else {
+                        $("body").removeClass("fullScreen_extend");
+                        fullscreen_type = "in";
+                    }
+
+                }, 100);
+            }
+        }, 100);
+        var isFullscreenForNoScroll = function () {
+            var explorer = window.navigator.userAgent.toLowerCase();
+            if (explorer.indexOf('chrome') > 0 || explorer.indexOf('applewebkit') > 0) {//webkit
+                if ($(".nav-afterlogin .book-viewer").height() === window.screen.height
+                    && $(".nav-afterlogin .book-viewer").width() === window.screen.width) {
+                    return true;
+                } else {
+                    return false;
+                }
+            } else {//IE 9+  fireFox
+                if (window.outerHeight === window.screen.height && window.outerWidth === window.screen.width) {
+                    return true;
+                } else {
+                    return false;
+                }
+            }
+        };
+
+        var isFirefox = function () {
+            var explorer = window.navigator.userAgent.toLowerCase();
+            if (explorer.indexOf('firefox') > 0) {
+                return true;
+            } else {
+                return false;
+            }
+        };
+
+        if (isFirefox()) {
+            $("body").addClass("firefox-browser");
+        }
+
+        var fullscreen_type = "in";
+
+        function triggerFullScreenFun() {
+            if (fullscreen_type == "in") {
+                var subWindow = $("#actibookoneFrame")[0] && $("#actibookoneFrame")[0].contentWindow;
+                if (subWindow && subWindow.triggerFullScreenFun) {
+                    subWindow.triggerFullScreenFun(fullscreen_type);
+                }
+            }
+            if (isFirefox()) {
+                if (fullscreen_type == "in") {
+                    fullscreen_type = "out";
+
+                    $("body").addClass("fullScreen_extend");
+
+                    var docElm = document.documentElement;
+                    //W3C
+                    if (docElm.requestFullscreen) {
+                        docElm.requestFullscreen();
+                    }
+                    //FireFox
+                    else if (docElm.mozRequestFullScreen) {
+                        docElm.mozRequestFullScreen();
+                    }
+                    //ChromeµÈ
+                    else if (docElm.webkitRequestFullScreen) {
+                        docElm.webkitRequestFullScreen();
+                    }
+                    //IE11
+                    else if (docElm.msRequestFullscreen) {
+                        docElm.msRequestFullscreen();
+                    } else {
+
+                    }
+
+                } else {
+
+                    fullscreen_type = "in";
+
+                    $("body").removeClass("fullScreen_extend");
+
+                    if (document.exitFullscreen) {
+                        document.exitFullscreen();
+                    } else if (document.mozCancelFullScreen) {
+                        document.mozCancelFullScreen();
+                    } else if (document.webkitCancelFullScreen) {
+                        document.webkitCancelFullScreen();
+                    } else if (document.msExitFullscreen) {
+                        document.msExitFullscreen();
+                    } else {
+
+                    }
+
+                }
+            } else {
+                if (fullscreen_type == "in") {
+                    fullscreen_type = "out";
+                } else {
+                    fullscreen_type = "in";
+                }
+            }
+
+
+        }
+
+        //endregion
+    </script>
+
+    <!--v3.0 content comment js-->
+    <script type="text/javascript">
+    $(document).ready(function(){
+        var tapev = window.ontouchstart===null?'touchstart':'click';
+        // コメントの開閉
+        $('.book-detail-block__comments__title').on('click', function(){
+            var _this = $(this),
+                    _arrow = _this.find('.comments_openclose'),
+                    _cond = !_arrow.is('.comments_openclose--closed');
+            $('#commentblock_body')[_cond ? 'slideUp' : 'slideDown']();
+            _arrow.toggleClass('comments_openclose--closed', _cond);
+        });
+        // コメント入力欄の文字数の閾値
+        var commentMaxlength = 200,
+                commentMaxlengthUpper = 250,
+                commentLengthWarning = Math.max(1,Math.min(commentMaxlength - 10, Math.floor(commentMaxlength * 0.9)));
+        // コメント入力欄の mcInput
+        $('#comment-input').mcInputEvent().on('mcinput',function(e){
+            // 文字数のカウンター
+            var textLength = $('#comment-input').val().length,
+                    textLengthDisplay = (textLength <= commentMaxlengthUpper) ? textLength : commentMaxlengthUpper+'+';
+            $('#comment-counter-value').text(textLengthDisplay);
+            $('#comment-counter').toggleClass('comment-counter--warning', textLength >= commentLengthWarning && textLength <= commentMaxlength).toggleClass('comment-counter--alert', textLength > commentMaxlength);
+            // 入力内容が空でない場合、クラスを操作してボタン色を変更
+            $('.comment-input-area').toggleClass('comment-input-area--inputted', (e.lastVal.trim() !== '' && textLength <= commentMaxlength));
+        });
+        // コメント入力欄の autosize
+        $('#comment-input').autosize();
+        // コメントごとのドロップダウンを起動
+        var activate_comment_dropdown = function(){
+            $('.book-detail-block__comments__item').each(function(index){
+                var root = $(this),
+                        dropdownbutton = $(this).find('.comment-operate-button'),
+                        id = 'comment-operate-menu'+root.attr('data-comment-id');
+                if(!dropdownbutton.attr('data-activates')){
+                    dropdownbutton.attr('data-activates', id);
+                    dropdownbutton.next('.dropdown-content').attr('id',id);
+                    dropdownbutton.dropdown({
+                        belowOrigin: true,
+                        alignment: 'right',
+                        stopPropagation: true,
+                        dropup: true
+                    });
+                    // メニューの初回クリック時にがくがく動いてしまうので、いったん動かしてしまう
+                    var trigger = window.ontouchstart===null?'touchstart':'click';
+                    dropdownbutton.trigger(trigger).trigger(trigger);
+                    // 同時に複数のメニューを出さないようにする
+                    dropdownbutton.on(trigger,function(e){
+                        var _this = $(this),
+                                target = _this.attr('data-activates')
+                        status = _this.is('.active');
+                        if(status){
+                            $('.comment-operate-button').each(function(){
+                                if($(this).is('.active') && $(this).attr('data-activates') !== target){
+                                    $(this).trigger('close');
+                                }
+                            });
+                        }
+                    });
+                }
+            });
+        };
+        activate_comment_dropdown();	// ←新しいコメントを読み込んだときに実行しないと、メニューが表示されないので注意
+
+        // コメントに「いいね」したとき
+        $('.comment-like').unbind(tapev); //v3.0 c.sun add
+        $('.comment-like').on(tapev, function(e){
+            e.stopPropagation();
+            var target = $(this).closest('.book-detail-block__comments__item__operation__like');
+            if($('body').is('.nav-beforelogin')){	// ログイン前の場合
+
+                Materialize.toast('コメントに「いいね」するにはログインしてください。', 4000);
+            } else {
+                var status = target.is('[class*="--liked"]');
+                // Ajax のコールバックで下記の 2 つを実行し、状態変更とユーザーへの通知を行う
+                // target.toggleClass('book-detail-block__comments__item__operation__like--liked',!status);
+                // Materialize.toast(status ? 'コメントの「いいね」を解除しました。' : 'コメントに「いいね」しました。', 4000);
+                //v3.0 c.sun add 点赞/取消点赞comment
+                commentLike(target,status);
+            }
+        });
+        // コンテンツに「いいね」したとき
+        $('.book-detail-block__action__reacts__like').on(tapev, function(e){
+            e.stopPropagation();
+            if($('body').is('.nav-beforelogin')){	// ログイン前の場合
+                Materialize.toast('コンテンツに「いいね」するにはログインしてください。', 4000);
+            } else {
+                var target = $(this),
+                        status = target.is('[class*="--liked"]');
+                //v3.0 c.sun add 点赞/取消点赞content
+                contentLike(target, status);
+            }
+        });
+
+        // PC 版の詳細の場合
+        if($('body').is('.book-detail--pc') && $('#comments__input__block').length){
+            var inputblock = $('#comments__input__block'),
+                    changepoint = inputblock.offset().top - $('.navbar-fixed').prop('offsetHeight');
+            $(window).on('scroll', function(){
+                var _this = $(this);
+                if(_this.scrollTop() > changepoint){
+                    if(!inputblock.is('.comments__input__block--fixed')){
+                        $('#comments__input__block__dummy').css({'height': inputblock.prop('offsetHeight')+'px'});
+                        inputblock.addClass('comments__input__block--fixed');
+                    }
+                } else {
+                    if(inputblock.is('.comments__input__block--fixed')){
+                        inputblock.removeClass('comments__input__block--fixed');
+                    }
+                }
+            }).trigger('scroll');
+        }
+        // モーダルの起動
+        $('.modal').modal({
+            complete: function(){
+                $('body').removeClass('body-no-overflowhidden');
+            }
+        });
+        // 通報/削除実行時
+        $('.call-modal').on('click', function(){
+            $(this).closest('.comment-operate-menu').prev('.comment-operate-button').dropdown('close');
+            $('body').addClass('body-no-overflowhidden');
+            $($(this).is('.call-modal-snitch')?'#modal-confirm-snitch':'#modal-confirm-delete').attr('data-caller-id',$(this).closest('.book-detail-block__comments__item').attr('data-comment-id'));
+            //c.sun add
+            $($(this).is('.call-modal-snitch')?'#modal-confirm-snitch':'#modal-confirm-delete').attr('data-caller-usernum',$(this).closest('.book-detail-block__comments__item').attr('data-comment-usernum'));
+        });
+        // 通報
+        $('#snitch-button').unbind('click'); //v3.0 c.sun add
+        $('#snitch-button').on('click', function(){
+            // $('.book-detail-block__comments__item[data-comment-id="'+$('#modal-confirm-snitch').attr('data-caller-id')+'"]').addClass('snitched');
+            // Materialize.toast('コメントを通報しました。', 4000);
+            commentReport();
+        });
+        // 削除
+        $('#delete-button').unbind('click'); //v3.0 c.sun add
+        $('#delete-button').on('click', function(){
+            var target = $('.book-detail-block__comments__item[data-comment-id="'+$('#modal-confirm-delete').attr('data-caller-id')+'"]');
+            deleteMyComment(target);
+//                target.velocity({opacity: 0}, {duration: 150, easing: 'easeInOutCubic', mobileHA: false}).velocity({height: 0}, {duration: 150, delay: 200, easing: 'easeInOutCubic', display: 'none', complete: function(){
+//                    Materialize.toast('自分のコメントを削除しました。', 4000);
+//                }, mobileHA: false});
+        })
+    });
+
+    //ajax取得更多comment
+    function getMoreComment() {
+        //显示loading中
+        if($('#book-list-more-block__wrap').hasClass('book-list-block__more-block__wrap--loading')){
+            return false;
+        }
+        $('#book-list-more-block__wrap').addClass('book-list-block__more-block__wrap--loading');
+
+        jQuery.ajax({
+            async:true, //异步
+            url: "https://mitaka-e-book.actibookone.com/comment/getMore",
+            type: 'POST',
+            data: {
+                'contentNum':$('#contentNum').val(),
+                'LastEvaluatedKey':$('#LastEvaluatedKey').val()
+            },
+            success: function (result) {
+                //显示comment数据
+                displayComment(result['Items'], 'append', result['LastEvaluatedKey']);
+            },
+            error: function (msg) {
+                //调用assets_js_list中处理ajax异常的共通方法
+                commonAjaxError(msg);
+            }
+        });
+    }
+
+    //显示comment
+    function displayComment(commentsData, mode, LastEvaluatedKey) {
+        var commentTemplate =
+                '<div class="book-detail-block__comments__item {ismyitem}" data-comment-id="{content_comment_sortkey_id}" data-comment-usernum="{comment_usernum}">\
+                    <div class="book-detail-block__comments__item__mycomment">自分のコメント</div>\
+                    <div class="book-detail-block__comments__item__text" style="white-space: pre-wrap;">{comment_detail}\
+                    </div>\
+                    <div class="book-detail-block__comments__item__operation">\
+                        <div class="book-detail-block__comments__item__operation__rightside">\
+                            <div class="book-detail-block__comments__item__operation__snitched" {isDisplay}><i class="xiconbasic-ok"></i>\
+                                <div class="book-detail-block__comments__item__operation__snitched__text">通報済み</div>\
+                            </div>\
+                            <div class="book-detail-block__comments__item__operation__menu" {isDisplay}>\
+                                <a class="comment-operate-button waves-effect" href="javascript:void(0)"><i class="xiconbasic-misc-vertical"></i></a>\
+                                <ul class="comment-operate-menu dropdown-content">\
+                                    <li class="comment-operate-menu-snitch"><a class="call-modal call-modal-snitch" href="#modal-confirm-snitch"><i class="xiconbasic-separate"></i>コメントを通報</a></li>\
+                                    <li class="comment-operate-menu-delete"><a class="call-modal call-modal-delete" href="#modal-confirm-delete"><i class="xiconbasic-dustbox"></i>コメントを削除</a></li>\
+                                </ul>\
+                            </div>\
+                            <div class="book-detail-block__comments__item__operation__like {like_status}">\
+                                <a class="comment-like waves-effect" href="javascript:void(0)">\
+                                    <div class="book-detail-block__comments__item__operation__like__icon"></div>\
+                                    <div class="book-detail-block__comments__item__operation__like__number" data-original-cnt="{original_comment_like_cnt}">{comment_like_cnt}</div>\
+                                </a>\
+                            </div>\
+                        </div>\
+                    </div>\
+                </div>\
+        ';
+
+        var htmlStr = '';
+        for (var i = 0; i < commentsData.length; i++) {
+            var value = commentsData[i];
+
+            //判断是不是自己的comment
+            var ismyitem = '';
+            if (value['user_num'] == '0') {
+                ismyitem = 'ismyitem';
+            }
+
+            //判断comment的like状态
+            var like_status = '';
+            if (value['comment_like_sts'] == 1) {
+                like_status = 'book-detail-block__comments__item__operation__like--liked';
+            }
+
+            var isDisplay = '';
+            if ($('body').is('.nav-beforelogin')) {
+                isDisplay = 'style="display:none;"';
+            }
+
+            htmlStr += stringFormat(commentTemplate,
+                    {
+                        'ismyitem': ismyitem,
+                        'content_comment_sortkey_id': String(value['content_comment_sortkey_id']),
+                        'comment_usernum' :  String(value['user_num']),
+                        'comment_detail': String(value['comment_detail']),
+                        'original_comment_like_cnt': String(value['comment_like_cnt']),
+                        'comment_like_cnt': formatCommentLikeCnt(value['comment_like_cnt']),
+                        'like_status': like_status,
+                        'isDisplay': isDisplay
+                    }
+            );
+        }
+
+        //显示comment
+        if (mode == 'append') {
+            $('.book-detail-block__comments__items').append(htmlStr);
+        }else if(mode == 'prepend') {
+            $('.book-detail-block__comments__items').prepend(htmlStr);
+        }else {
+            $('.book-detail-block__comments__items').html(htmlStr);
+        }
+
+        //region c.sun修改:ajax加载更多comment后，无法绑定事件的问题修改
+        // コメントごとのドロップダウンを起動
+        var activate_comment_dropdown = function () {
+            $('.book-detail-block__comments__item').each(function (index) {
+                var root = $(this),
+                        dropdownbutton = $(this).find('.comment-operate-button'),
+                        id = 'comment-operate-menu' + root.attr('data-comment-id');
+                if (!dropdownbutton.attr('data-activates')) {
+                    dropdownbutton.attr('data-activates', id);
+                    dropdownbutton.next('.dropdown-content').attr('id', id);
+                    dropdownbutton.dropdown({
+                        belowOrigin: true,
+                        alignment: 'right',
+                        stopPropagation: true,
+                        dropup: true
+                    });
+                    // メニューの初回クリック時にがくがく動いてしまうので、いったん動かしてしまう
+                    var trigger = window.ontouchstart === null ? 'touchstart' : 'click';
+                    dropdownbutton.trigger(trigger).trigger(trigger);
+                    // 同時に複数のメニューを出さないようにする
+                    dropdownbutton.on(trigger, function (e) {
+                        var _this = $(this),
+                                target = _this.attr('data-activates')
+                        status = _this.is('.active');
+                        if (status) {
+                            $('.comment-operate-button').each(function () {
+                                if ($(this).is('.active') && $(this).attr('data-activates') !== target) {
+                                    $(this).trigger('close');
+                                }
+                            });
+                        }
+                    });
+                }
+            });
+        };
+        activate_comment_dropdown();
+        //endregion
+
+        //重新加载事件
+        reloadEvent();
+
+        //此次取得数据后的LastEvaluatedKey的值
+        $('#LastEvaluatedKey').val(LastEvaluatedKey);
+        //取消显示loading中的状态
+        $('#book-list-more-block__wrap').removeClass('book-list-block__more-block__wrap--loading');
+        //数据取完时，显示'加载完成'
+        if('' == LastEvaluatedKey) {
+            $('.book-list-block__more-block').addClass('all-loaded');
+        } else {
+            $('.book-list-block__more-block').removeClass('all-loaded');
+        }
+    }
+
+    //ajax加载数据后，重新加载事件
+    function reloadEvent() {
+        var tapev = window.ontouchstart === null ? 'touchstart' : 'click';
+        // コメントに「いいね」したとき
+        $('.comment-like').unbind(tapev); //v3.0 c.sun add
+        $('.comment-like').on(tapev, function (e) {
+            e.stopPropagation();
+            var target = $(this).closest('.book-detail-block__comments__item__operation__like');
+            if ($('body').is('.nav-beforelogin')) {	// ログイン前の場合
+
+                Materialize.toast('コメントに「いいね」するにはログインしてください。', 4000);
+            } else {
+                var status = target.is('[class*="--liked"]');
+                //v3.0 c.sun add 点赞/取消点赞comment
+                commentLike(target, status);
+            }
+        });
+        // 通報/削除実行時
+        $('.call-modal').on('click', function () {
+            $(this).closest('.comment-operate-menu').prev('.comment-operate-button').dropdown('close');
+            $('body').addClass('body-no-overflowhidden');
+            $($(this).is('.call-modal-snitch') ? '#modal-confirm-snitch' : '#modal-confirm-delete').attr('data-caller-id', $(this).closest('.book-detail-block__comments__item').attr('data-comment-id'));
+            //c.sun add
+            $($(this).is('.call-modal-snitch')?'#modal-confirm-snitch':'#modal-confirm-delete').attr('data-caller-usernum',$(this).closest('.book-detail-block__comments__item').attr('data-comment-usernum'));
+        });
+        // 通報
+        $('#snitch-button').unbind('click'); //v3.0 c.sun add
+        $('#snitch-button').on('click', function () {
+            // $('.book-detail-block__comments__item[data-comment-id="'+$('#modal-confirm-snitch').attr('data-caller-id')+'"]').addClass('snitched');
+            // Materialize.toast('コメントを通報しました。', 4000);
+            commentReport();
+        });
+        // 削除
+        $('#delete-button').unbind('click'); //v3.0 c.sun add
+        $('#delete-button').on('click', function () {
+            var target = $('.book-detail-block__comments__item[data-comment-id="' + $('#modal-confirm-delete').attr('data-caller-id') + '"]');
+            deleteMyComment(target);
+//                target.velocity({opacity: 0}, {duration: 150, easing: 'easeInOutCubic', mobileHA: false}).velocity({height: 0}, {duration: 150, delay: 200, easing: 'easeInOutCubic', display: 'none', complete: function(){
+//                    Materialize.toast('自分のコメントを削除しました。', 4000);
+//                }, mobileHA: false});
+        });
+    }
+
+    //追加comment
+    function addComment() {
+        //送信按钮为非活性
+        $('.comment-input-area').removeClass('comment-input-area--inputted');
+
+        jQuery.ajax({
+            async: true, //异步
+            url: "https://mitaka-e-book.actibookone.com/comment/add",
+            type: 'POST',
+            data: {
+                'contentNum': $('#contentNum').val().trim(),
+                'commentDetail': $('#comment-input').val().trim()
+            },
+            success: function (result) {
+                if ('length_error' != result) {
+                    //追加comment成功后,ajax追加第一条comment
+                    displayComment(result['Items'], 'prepend', $('#LastEvaluatedKey').val());
+
+                    //清空comment输入框，送信按钮为非活性,输入框的计数清0
+                    $('#comment-input').val('');
+                    $('.comment-input-area').removeClass('comment-input-area--inputted');
+                    $('.comment-counter').removeClass('comment-counter--warning').removeClass('comment-counter--alert');
+                    $('#comment-counter-value').text(0);
+                    // comment 输入框恢复到原始高度
+                    $('#comment-input').trigger("autosize.resizeIncludeStyle");
+
+                    //c.sun add content comment总数改变
+                    var before_content_comment_cnt = $(".book-detail-block__action__reacts__comment__number").attr('data-original-cnt').trim();
+                    before_content_comment_cnt = parseInt(before_content_comment_cnt);
+                    var now_content_comment_cnt = before_content_comment_cnt + 1;
+                    $(".book-detail-block__action__reacts__comment__number").attr('data-original-cnt', now_content_comment_cnt);
+                    $(".book-detail-block__action__reacts__comment__number").text(formatCommentLikeCnt(now_content_comment_cnt));
+                }
+            },
+            error: function (msg) {
+                //送信按钮为活性
+                $('.comment-input-area').addClass('comment-input-area--inputted');
+
+                //调用assets_js_list中处理ajax异常的共通方法
+                commonAjaxError(msg);
+            }
+        });
+    }
+
+    //删除comment
+    function deleteMyComment(objTarget) {
+        var commentId = $('#modal-confirm-delete').attr('data-caller-id');
+        var commentUserNum = $('#modal-confirm-delete').attr('data-caller-usernum');
+        jQuery.ajax({
+            async: true, //异步
+            url: "https://mitaka-e-book.actibookone.com/comment/delete",
+            type: 'POST',
+            data: {
+                'contentNum': $('#contentNum').val().trim(),
+                'commentId': commentId,
+                'commentUserNum' : commentUserNum
+            },
+            success: function (result) {
+                if('auth_error' == result) {
+                    Materialize.toast('ログインユーザーが変わりました、操作できません。<br/>リフレッシュしてもう一度試してください。', 4000);
+                } else {
+                    //画面上删除comment，并显示提示文言
+                    objTarget.velocity({opacity: 0}, {
+                        duration: 150,
+                        easing: 'easeInOutCubic',
+                        mobileHA: false
+                    }).velocity({height: 0}, {
+                        duration: 150,
+                        delay: 200,
+                        easing: 'easeInOutCubic',
+                        display: 'none',
+                        complete: function () {
+                            Materialize.toast('自分のコメントを削除しました。', 4000);
+                        },
+                        mobileHA: false
+                    });
+                    //c.sun delete content comment总数改变
+                    var before_content_comment_cnt = $(".book-detail-block__action__reacts__comment__number").attr('data-original-cnt').trim();
+                    before_content_comment_cnt = parseInt(before_content_comment_cnt);
+                    var now_content_comment_cnt = before_content_comment_cnt - 1;
+                    $(".book-detail-block__action__reacts__comment__number").attr('data-original-cnt', now_content_comment_cnt);
+                    $(".book-detail-block__action__reacts__comment__number").text(formatCommentLikeCnt(now_content_comment_cnt));
+                }
+            },
+            error: function (msg) {
+                //调用assets_js_list中处理ajax异常的共通方法
+                commonAjaxError(msg);
+            }
+        });
+    }
+
+    //点赞/取消点赞 content
+    function contentLike(target, status) {
+        //按钮变为非活性
+        var tapev = window.ontouchstart === null ? 'touchstart' : 'click';
+        $('.book-detail-block__action__reacts__like').unbind(tapev);
+
+        var likeFlg = status ? 0 : 1;
+        jQuery.ajax({
+            async: true, //异步
+            url: "https://mitaka-e-book.actibookone.com/content/like",
+            type: 'POST',
+            data: {
+                'likeFlg': likeFlg,
+                'contentNum': $('#contentNum').val().trim()
+            },
+            success: function (result) {
+                // Ajax のコールバックで下記の 2 つを実行し、状態変更とユーザーへの通知を行う
+                target.toggleClass('book-detail-block__action__reacts__like--liked', !status);
+                Materialize.toast(status ? 'コンテンツの「いいね」を解除しました。' : 'コンテンツに「いいね」しました。', 4000);
+                //c.sun add content点赞总数改变
+                var before_content_like_cnt = $(".book-detail-block__action__reacts__like__number").attr('data-original-cnt').trim();
+                var before_content_like_cnt = parseInt(before_content_like_cnt);
+                var now_content_like_cnt = status ? before_content_like_cnt - 1 : before_content_like_cnt + 1;
+                $(".book-detail-block__action__reacts__like__number").attr('data-original-cnt', now_content_like_cnt);
+                $(".book-detail-block__action__reacts__like__number").text(formatCommentLikeCnt(now_content_like_cnt));
+
+                //ajax返回成功后,重新绑定click事件
+                // コンテンツに「いいね」したとき
+                $('.book-detail-block__action__reacts__like').on(tapev, function(e){
+                    e.stopPropagation();
+                    if($('body').is('.nav-beforelogin')){	// ログイン前の場合
+                        Materialize.toast('コンテンツに「いいね」するにはログインしてください。', 4000);
+                    } else {
+                        var target = $(this),
+                                status = target.is('[class*="--liked"]');
+                        //v3.0 c.sun add 点赞/取消点赞content
+                        contentLike(target, status);
+                    }
+                });
+            },
+            error: function (msg) {
+                //调用assets_js_list中处理ajax异常的共通方法
+                commonAjaxError(msg);
+            }
+        });
+    }
+
+    //点赞/取消点赞 comment
+    function commentLike(target, status) {
+        //按钮变为非活性
+        var tapev = window.ontouchstart === null ? 'touchstart' : 'click';
+        $('.comment-like').unbind(tapev);
+
+        var likeFlg = status ? 0 : 1;
+        var commentId = target.closest('.book-detail-block__comments__item').attr('data-comment-id');
+        jQuery.ajax({
+            async: true, //异步
+            url: "https://mitaka-e-book.actibookone.com/comment/like",
+            type: 'POST',
+            data: {
+                'likeFlg': likeFlg,
+                'contentNum': $('#contentNum').val().trim(),
+                'commentId': commentId
+            },
+            success: function (result) {
+                // Ajax のコールバックで下記の 2 つを実行し、状態変更とユーザーへの通知を行う
+                target.toggleClass('book-detail-block__comments__item__operation__like--liked', !status);
+                Materialize.toast(status ? 'コメントの「いいね」を解除しました。' : 'コメントに「いいね」しました。', 4000);
+                //c.sun add comment点赞总数改变
+                var before_comment_like_cnt = target.find(".book-detail-block__comments__item__operation__like__number").attr('data-original-cnt').trim();
+                before_comment_like_cnt = parseInt(before_comment_like_cnt);
+                var now_comment_like_cnt = status ? before_comment_like_cnt - 1 : before_comment_like_cnt + 1;
+                target.find(".book-detail-block__comments__item__operation__like__number").attr('data-original-cnt', now_comment_like_cnt);
+                target.find(".book-detail-block__comments__item__operation__like__number").text(formatCommentLikeCnt(now_comment_like_cnt));
+
+                //ajax返回成功后,重新绑定click事件
+                $('.comment-like').on(tapev, function (e) {
+                    e.stopPropagation();
+                    var target = $(this).closest('.book-detail-block__comments__item__operation__like');
+                    if ($('body').is('.nav-beforelogin')) {	// ログイン前の場合
+
+                        Materialize.toast('コメントに「いいね」するにはログインしてください。', 4000);
+                    } else {
+                        var status = target.is('[class*="--liked"]');
+                        //v3.0 c.sun add 点赞/取消点赞comment
+                        commentLike(target, status);
+                    }
+                });
+            },
+            error: function (msg) {
+                //调用assets_js_list中处理ajax异常的共通方法
+                commonAjaxError(msg);
+            }
+        });
+    }
+
+    //举报 comment
+    function commentReport() {
+        var commentId = $('#modal-confirm-snitch').attr('data-caller-id');
+        jQuery.ajax({
+            async: true, //异步
+            url: "https://mitaka-e-book.actibookone.com/comment/report",
+            type: 'POST',
+            data: {
+                'contentNum': $('#contentNum').val().trim(),
+                'commentId': commentId
+            },
+            success: function (result) {
+                $('.book-detail-block__comments__item[data-comment-id="' + $('#modal-confirm-snitch').attr('data-caller-id') + '"]').addClass('snitched');
+                Materialize.toast('コメントを通報しました。', 4000);
+            },
+            error: function (msg) {
+                //调用assets_js_list中处理ajax异常的共通方法
+                commonAjaxError(msg);
+            }
+        });
+    }
+</script> <!--common js list & specific js list-->
+
+</body>
+</html>

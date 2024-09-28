@@ -1,0 +1,963 @@
+﻿<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="keywords" content="">
+<meta name="description" content="">
+<title>過去データ｜東京都高潮防災総合情報システム</title>
+<link href="../../css/import.css" rel="stylesheet" type="text/css">
+	<!-- PMWB №840対応 start -->
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-TVJGJPS');</script>
+	<!-- End Google Tag Manager -->
+	<!-- PMWB №840対応 end -->
+</head>
+<body>
+	<!-- PMWB №840対応 start -->
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TVJGJPS" title="Google Tag Manager"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+	<!-- PMWB №840対応 end -->
+<header id="top"> <a class="hamburger" onclick="opennav();">
+<div class="hamburger__icon"> </div>
+</a>
+<nav>
+<p class="guide">このサイトは、東京都にて観測している水位等の気象・海象情報や海面のライブ映像、水門の開閉状況などをリアルタイムで提供しています。</p>
+<ul>
+<li><a href="tkim0101g.html#mappoint">観測地点マップ</a></li>
+<li><a href="tkim0101g.html#datapoint">観測値一覧</a></li>
+<li><a href="tkim0101g.html#alertpoint">高潮特別警戒水位</a></li>
+</ul>
+<h1>リンク集</h1>
+<ul>
+<li><a href="https://hazard.tokyo.kts-map.com/pub/hazard/consent.html">高潮リスク検索サービス</a></li>
+<li><a href="https://www.kasen-suibo.metro.tokyo.lg.jp/im/uryosuii/tsim0102g.html">水防災総合情報システム</a></li>
+<li><a href="https://www.bousai.metro.tokyo.lg.jp/">東京都防災ホームページ</a></li>
+<li><a href="https://www.kouwan.metro.tokyo.lg.jp/yakuwari/takashio/index.html">東京都の津波・高潮対策</a></li>
+<li><a href="https://www.takashio-bosai.metro.tokyo.lg.jp/kyoiku/index.html">高潮防災に関する学習サイト</a></li>
+</ul>
+</nav>
+<!-- header_in -->
+<div id="header_in">
+<h1><a href="../tkim0101g.html"><img src="../../img/icon/TKicon.png" width="36" height="38" alt=""/>東京都高潮防災総合情報システム</a></h1>
+<div class="select_area">
+<p class="header_time">2024/09/28 00:59時点の情報</p>
+<div class="language">
+<select id="selectlanguage" title="select language">
+<option value="tkim0104g.html" hidden selected>日本語</option>
+<option value="tkim0104g_en.html">English</option>
+<option value="tkim0104g_cn.html">中文</option>
+<option value="tkim0104g_kr.html">한국어</option>
+</select>
+</div>
+</div>
+</div>
+<!-- /header_in -->
+<div id="wave">
+<!-- 波 -->
+<svg>
+<path id="wave_anime" d=""/>
+</svg>
+<!-- /波 -->
+<h2>&nbsp;</h2>
+</div>
+</header>
+<!-- contents -->
+<section class="contents">
+<h1>過去データ</h1>
+<p>過去のデータをダウンロードできます。参照したい過去データの日付をクリックしてください。<br>
+CSV形式にて、1日分の過去データをダウンロードできます。</p>
+<!-- ダウンロードコンテンツ -->
+<div class="calendar_wrap">
+	<h2 class="ttl sp_none">観測データ
+		<span class="select">
+		<select id="select_observe" title="" onChange="changeSuiiPulldown()">
+											<option value="202310">2023年 10月</option>
+																<option value="202311">2023年 11月</option>
+																<option value="202312">2023年 12月</option>
+																<option value="20241">2024年 1月</option>
+																<option value="20242">2024年 2月</option>
+																<option value="20243">2024年 3月</option>
+																<option value="20244">2024年 4月</option>
+																<option value="20245">2024年 5月</option>
+																<option value="20246">2024年 6月</option>
+																<option value="20247">2024年 7月</option>
+																<option value="20248">2024年 8月</option>
+																<option value="20249" selected>2024年 9月</option>
+									</select>
+		</span>
+	</h2>
+
+
+	<div class="MainText marginTopL">
+									<table class="borderNormal CalendarTable calendar" style="display: none;" id="CalendarTable_202310">
+							<thead>
+				<tr class="heightCalendar">
+					<th colspan="7" scope="col"  class="center bColorThinBlue fColorWhite">2023年 10月 </th>
+				</tr>
+				</thead>
+				<tbody>
+				<tr class="heightCalendar">
+					<td class="widthCalendar">日</td>
+					<td class="widthCalendar">月</td>
+					<td class="widthCalendar">火</td>
+					<td class="widthCalendar">水</td>
+					<td class="widthCalendar">木</td>
+					<td class="widthCalendar">金</td>
+					<td class="widthCalendar">土</td>
+				</tr>
+
+							<tr class="heightCalendar">
+											    										<td><a class="attachedhref" href="Tokyo_Suii_20231001.csv">1日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231002.csv">2日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231003.csv">3日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231004.csv">4日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231005.csv">5日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231006.csv">6日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231007.csv">7日</a></td>
+		    					   					  						</tr>
+							<tr class="heightCalendar">
+											    										<td><a class="attachedhref" href="Tokyo_Suii_20231008.csv">8日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231009.csv">9日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231010.csv">10日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231011.csv">11日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231012.csv">12日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231013.csv">13日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231014.csv">14日</a></td>
+		    					   					  						</tr>
+							<tr class="heightCalendar">
+											    										<td><a class="attachedhref" href="Tokyo_Suii_20231015.csv">15日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231016.csv">16日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231017.csv">17日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231018.csv">18日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231019.csv">19日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231020.csv">20日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231021.csv">21日</a></td>
+		    					   					  						</tr>
+							<tr class="heightCalendar">
+											    										<td><a class="attachedhref" href="Tokyo_Suii_20231022.csv">22日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231023.csv">23日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231024.csv">24日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231025.csv">25日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231026.csv">26日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231027.csv">27日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231028.csv">28日</a></td>
+		    					   					  						</tr>
+							<tr class="heightCalendar">
+											    										<td><a class="attachedhref" href="Tokyo_Suii_20231029.csv">29日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231030.csv">30日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231031.csv">31日</a></td>
+		    					   					  													<td><a></a></td>
+		   					  													<td><a></a></td>
+		   					  													<td><a></a></td>
+		   					  													<td><a></a></td>
+		   					  						</tr>
+						</tbody>
+			</table>
+									<table class="borderNormal CalendarTable calendar" style="display: none;" id="CalendarTable_202311">
+							<thead>
+				<tr class="heightCalendar">
+					<th colspan="7" scope="col"  class="center bColorThinBlue fColorWhite">2023年 11月 </th>
+				</tr>
+				</thead>
+				<tbody>
+				<tr class="heightCalendar">
+					<td class="widthCalendar">日</td>
+					<td class="widthCalendar">月</td>
+					<td class="widthCalendar">火</td>
+					<td class="widthCalendar">水</td>
+					<td class="widthCalendar">木</td>
+					<td class="widthCalendar">金</td>
+					<td class="widthCalendar">土</td>
+				</tr>
+
+							<tr class="heightCalendar">
+															<td><a></a></td>
+		   					  													<td><a></a></td>
+		   					  													<td><a></a></td>
+		   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231101.csv">1日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231102.csv">2日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231103.csv">3日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231104.csv">4日</a></td>
+		    					   					  						</tr>
+							<tr class="heightCalendar">
+											    										<td><a class="attachedhref" href="Tokyo_Suii_20231105.csv">5日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231106.csv">6日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231107.csv">7日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231108.csv">8日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231109.csv">9日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231110.csv">10日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231111.csv">11日</a></td>
+		    					   					  						</tr>
+							<tr class="heightCalendar">
+											    										<td><a class="attachedhref" href="Tokyo_Suii_20231112.csv">12日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231113.csv">13日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231114.csv">14日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231115.csv">15日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231116.csv">16日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231117.csv">17日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231118.csv">18日</a></td>
+		    					   					  						</tr>
+							<tr class="heightCalendar">
+											    										<td><a class="attachedhref" href="Tokyo_Suii_20231119.csv">19日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231120.csv">20日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231121.csv">21日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231122.csv">22日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231123.csv">23日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231124.csv">24日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231125.csv">25日</a></td>
+		    					   					  						</tr>
+							<tr class="heightCalendar">
+											    										<td><a class="attachedhref" href="Tokyo_Suii_20231126.csv">26日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231127.csv">27日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231128.csv">28日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231129.csv">29日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231130.csv">30日</a></td>
+		    					   					  													<td><a></a></td>
+		   					  													<td><a></a></td>
+		   					  						</tr>
+						</tbody>
+			</table>
+									<table class="borderNormal CalendarTable calendar" style="display: none;" id="CalendarTable_202312">
+							<thead>
+				<tr class="heightCalendar">
+					<th colspan="7" scope="col"  class="center bColorThinBlue fColorWhite">2023年 12月 </th>
+				</tr>
+				</thead>
+				<tbody>
+				<tr class="heightCalendar">
+					<td class="widthCalendar">日</td>
+					<td class="widthCalendar">月</td>
+					<td class="widthCalendar">火</td>
+					<td class="widthCalendar">水</td>
+					<td class="widthCalendar">木</td>
+					<td class="widthCalendar">金</td>
+					<td class="widthCalendar">土</td>
+				</tr>
+
+							<tr class="heightCalendar">
+															<td><a></a></td>
+		   					  													<td><a></a></td>
+		   					  													<td><a></a></td>
+		   					  													<td><a></a></td>
+		   					  													<td><a></a></td>
+		   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231201.csv">1日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231202.csv">2日</a></td>
+		    					   					  						</tr>
+							<tr class="heightCalendar">
+											    										<td><a class="attachedhref" href="Tokyo_Suii_20231203.csv">3日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231204.csv">4日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231205.csv">5日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231206.csv">6日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231207.csv">7日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231208.csv">8日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231209.csv">9日</a></td>
+		    					   					  						</tr>
+							<tr class="heightCalendar">
+											    										<td><a class="attachedhref" href="Tokyo_Suii_20231210.csv">10日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231211.csv">11日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231212.csv">12日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231213.csv">13日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231214.csv">14日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231215.csv">15日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231216.csv">16日</a></td>
+		    					   					  						</tr>
+							<tr class="heightCalendar">
+											    										<td><a class="attachedhref" href="Tokyo_Suii_20231217.csv">17日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231218.csv">18日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231219.csv">19日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231220.csv">20日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231221.csv">21日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231222.csv">22日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231223.csv">23日</a></td>
+		    					   					  						</tr>
+							<tr class="heightCalendar">
+											    										<td><a class="attachedhref" href="Tokyo_Suii_20231224.csv">24日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231225.csv">25日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231226.csv">26日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231227.csv">27日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231228.csv">28日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231229.csv">29日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20231230.csv">30日</a></td>
+		    					   					  						</tr>
+							<tr class="heightCalendar">
+											    										<td><a class="attachedhref" href="Tokyo_Suii_20231231.csv">31日</a></td>
+		    					   					  													<td><a></a></td>
+		   					  													<td><a></a></td>
+		   					  													<td><a></a></td>
+		   					  													<td><a></a></td>
+		   					  													<td><a></a></td>
+		   					  													<td><a></a></td>
+		   					  						</tr>
+						</tbody>
+			</table>
+									<table class="borderNormal CalendarTable calendar" style="display: none;" id="CalendarTable_20241">
+							<thead>
+				<tr class="heightCalendar">
+					<th colspan="7" scope="col"  class="center bColorThinBlue fColorWhite">2024年 1月 </th>
+				</tr>
+				</thead>
+				<tbody>
+				<tr class="heightCalendar">
+					<td class="widthCalendar">日</td>
+					<td class="widthCalendar">月</td>
+					<td class="widthCalendar">火</td>
+					<td class="widthCalendar">水</td>
+					<td class="widthCalendar">木</td>
+					<td class="widthCalendar">金</td>
+					<td class="widthCalendar">土</td>
+				</tr>
+
+							<tr class="heightCalendar">
+															<td><a></a></td>
+		   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240101.csv">1日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240102.csv">2日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240103.csv">3日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240104.csv">4日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240105.csv">5日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240106.csv">6日</a></td>
+		    					   					  						</tr>
+							<tr class="heightCalendar">
+											    										<td><a class="attachedhref" href="Tokyo_Suii_20240107.csv">7日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240108.csv">8日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240109.csv">9日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240110.csv">10日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240111.csv">11日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240112.csv">12日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240113.csv">13日</a></td>
+		    					   					  						</tr>
+							<tr class="heightCalendar">
+											    										<td><a class="attachedhref" href="Tokyo_Suii_20240114.csv">14日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240115.csv">15日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240116.csv">16日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240117.csv">17日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240118.csv">18日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240119.csv">19日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240120.csv">20日</a></td>
+		    					   					  						</tr>
+							<tr class="heightCalendar">
+											    										<td><a class="attachedhref" href="Tokyo_Suii_20240121.csv">21日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240122.csv">22日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240123.csv">23日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240124.csv">24日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240125.csv">25日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240126.csv">26日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240127.csv">27日</a></td>
+		    					   					  						</tr>
+							<tr class="heightCalendar">
+											    										<td><a class="attachedhref" href="Tokyo_Suii_20240128.csv">28日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240129.csv">29日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240130.csv">30日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240131.csv">31日</a></td>
+		    					   					  													<td><a></a></td>
+		   					  													<td><a></a></td>
+		   					  													<td><a></a></td>
+		   					  						</tr>
+						</tbody>
+			</table>
+									<table class="borderNormal CalendarTable calendar" style="display: none;" id="CalendarTable_20242">
+							<thead>
+				<tr class="heightCalendar">
+					<th colspan="7" scope="col"  class="center bColorThinBlue fColorWhite">2024年 2月 </th>
+				</tr>
+				</thead>
+				<tbody>
+				<tr class="heightCalendar">
+					<td class="widthCalendar">日</td>
+					<td class="widthCalendar">月</td>
+					<td class="widthCalendar">火</td>
+					<td class="widthCalendar">水</td>
+					<td class="widthCalendar">木</td>
+					<td class="widthCalendar">金</td>
+					<td class="widthCalendar">土</td>
+				</tr>
+
+							<tr class="heightCalendar">
+															<td><a></a></td>
+		   					  													<td><a></a></td>
+		   					  													<td><a></a></td>
+		   					  													<td><a></a></td>
+		   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240201.csv">1日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240202.csv">2日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240203.csv">3日</a></td>
+		    					   					  						</tr>
+							<tr class="heightCalendar">
+											    										<td><a class="attachedhref" href="Tokyo_Suii_20240204.csv">4日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240205.csv">5日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240206.csv">6日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240207.csv">7日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240208.csv">8日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240209.csv">9日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240210.csv">10日</a></td>
+		    					   					  						</tr>
+							<tr class="heightCalendar">
+											    										<td><a class="attachedhref" href="Tokyo_Suii_20240211.csv">11日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240212.csv">12日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240213.csv">13日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240214.csv">14日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240215.csv">15日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240216.csv">16日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240217.csv">17日</a></td>
+		    					   					  						</tr>
+							<tr class="heightCalendar">
+											    										<td><a class="attachedhref" href="Tokyo_Suii_20240218.csv">18日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240219.csv">19日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240220.csv">20日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240221.csv">21日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240222.csv">22日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240223.csv">23日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240224.csv">24日</a></td>
+		    					   					  						</tr>
+							<tr class="heightCalendar">
+											    										<td><a class="attachedhref" href="Tokyo_Suii_20240225.csv">25日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240226.csv">26日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240227.csv">27日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240228.csv">28日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240229.csv">29日</a></td>
+		    					   					  													<td><a></a></td>
+		   					  													<td><a></a></td>
+		   					  						</tr>
+						</tbody>
+			</table>
+									<table class="borderNormal CalendarTable calendar" style="display: none;" id="CalendarTable_20243">
+							<thead>
+				<tr class="heightCalendar">
+					<th colspan="7" scope="col"  class="center bColorThinBlue fColorWhite">2024年 3月 </th>
+				</tr>
+				</thead>
+				<tbody>
+				<tr class="heightCalendar">
+					<td class="widthCalendar">日</td>
+					<td class="widthCalendar">月</td>
+					<td class="widthCalendar">火</td>
+					<td class="widthCalendar">水</td>
+					<td class="widthCalendar">木</td>
+					<td class="widthCalendar">金</td>
+					<td class="widthCalendar">土</td>
+				</tr>
+
+							<tr class="heightCalendar">
+															<td><a></a></td>
+		   					  													<td><a></a></td>
+		   					  													<td><a></a></td>
+		   					  													<td><a></a></td>
+		   					  													<td><a></a></td>
+		   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240301.csv">1日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240302.csv">2日</a></td>
+		    					   					  						</tr>
+							<tr class="heightCalendar">
+											    										<td><a class="attachedhref" href="Tokyo_Suii_20240303.csv">3日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240304.csv">4日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240305.csv">5日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240306.csv">6日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240307.csv">7日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240308.csv">8日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240309.csv">9日</a></td>
+		    					   					  						</tr>
+							<tr class="heightCalendar">
+											    										<td><a class="attachedhref" href="Tokyo_Suii_20240310.csv">10日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240311.csv">11日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240312.csv">12日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240313.csv">13日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240314.csv">14日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240315.csv">15日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240316.csv">16日</a></td>
+		    					   					  						</tr>
+							<tr class="heightCalendar">
+											    										<td><a class="attachedhref" href="Tokyo_Suii_20240317.csv">17日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240318.csv">18日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240319.csv">19日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240320.csv">20日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240321.csv">21日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240322.csv">22日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240323.csv">23日</a></td>
+		    					   					  						</tr>
+							<tr class="heightCalendar">
+											    										<td><a class="attachedhref" href="Tokyo_Suii_20240324.csv">24日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240325.csv">25日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240326.csv">26日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240327.csv">27日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240328.csv">28日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240329.csv">29日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240330.csv">30日</a></td>
+		    					   					  						</tr>
+							<tr class="heightCalendar">
+											    										<td><a class="attachedhref" href="Tokyo_Suii_20240331.csv">31日</a></td>
+		    					   					  													<td><a></a></td>
+		   					  													<td><a></a></td>
+		   					  													<td><a></a></td>
+		   					  													<td><a></a></td>
+		   					  													<td><a></a></td>
+		   					  													<td><a></a></td>
+		   					  						</tr>
+						</tbody>
+			</table>
+									<table class="borderNormal CalendarTable calendar" style="display: none;" id="CalendarTable_20244">
+							<thead>
+				<tr class="heightCalendar">
+					<th colspan="7" scope="col"  class="center bColorThinBlue fColorWhite">2024年 4月 </th>
+				</tr>
+				</thead>
+				<tbody>
+				<tr class="heightCalendar">
+					<td class="widthCalendar">日</td>
+					<td class="widthCalendar">月</td>
+					<td class="widthCalendar">火</td>
+					<td class="widthCalendar">水</td>
+					<td class="widthCalendar">木</td>
+					<td class="widthCalendar">金</td>
+					<td class="widthCalendar">土</td>
+				</tr>
+
+							<tr class="heightCalendar">
+															<td><a></a></td>
+		   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240401.csv">1日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240402.csv">2日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240403.csv">3日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240404.csv">4日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240405.csv">5日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240406.csv">6日</a></td>
+		    					   					  						</tr>
+							<tr class="heightCalendar">
+											    										<td><a class="attachedhref" href="Tokyo_Suii_20240407.csv">7日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240408.csv">8日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240409.csv">9日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240410.csv">10日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240411.csv">11日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240412.csv">12日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240413.csv">13日</a></td>
+		    					   					  						</tr>
+							<tr class="heightCalendar">
+											    										<td><a class="attachedhref" href="Tokyo_Suii_20240414.csv">14日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240415.csv">15日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240416.csv">16日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240417.csv">17日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240418.csv">18日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240419.csv">19日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240420.csv">20日</a></td>
+		    					   					  						</tr>
+							<tr class="heightCalendar">
+											    										<td><a class="attachedhref" href="Tokyo_Suii_20240421.csv">21日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240422.csv">22日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240423.csv">23日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240424.csv">24日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240425.csv">25日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240426.csv">26日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240427.csv">27日</a></td>
+		    					   					  						</tr>
+							<tr class="heightCalendar">
+											    										<td><a class="attachedhref" href="Tokyo_Suii_20240428.csv">28日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240429.csv">29日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240430.csv">30日</a></td>
+		    					   					  													<td><a></a></td>
+		   					  													<td><a></a></td>
+		   					  													<td><a></a></td>
+		   					  													<td><a></a></td>
+		   					  						</tr>
+						</tbody>
+			</table>
+									<table class="borderNormal CalendarTable calendar" style="display: none;" id="CalendarTable_20245">
+							<thead>
+				<tr class="heightCalendar">
+					<th colspan="7" scope="col"  class="center bColorThinBlue fColorWhite">2024年 5月 </th>
+				</tr>
+				</thead>
+				<tbody>
+				<tr class="heightCalendar">
+					<td class="widthCalendar">日</td>
+					<td class="widthCalendar">月</td>
+					<td class="widthCalendar">火</td>
+					<td class="widthCalendar">水</td>
+					<td class="widthCalendar">木</td>
+					<td class="widthCalendar">金</td>
+					<td class="widthCalendar">土</td>
+				</tr>
+
+							<tr class="heightCalendar">
+															<td><a></a></td>
+		   					  													<td><a></a></td>
+		   					  													<td><a></a></td>
+		   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240501.csv">1日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240502.csv">2日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240503.csv">3日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240504.csv">4日</a></td>
+		    					   					  						</tr>
+							<tr class="heightCalendar">
+											    										<td><a class="attachedhref" href="Tokyo_Suii_20240505.csv">5日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240506.csv">6日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240507.csv">7日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240508.csv">8日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240509.csv">9日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240510.csv">10日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240511.csv">11日</a></td>
+		    					   					  						</tr>
+							<tr class="heightCalendar">
+											    										<td><a class="attachedhref" href="Tokyo_Suii_20240512.csv">12日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240513.csv">13日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240514.csv">14日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240515.csv">15日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240516.csv">16日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240517.csv">17日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240518.csv">18日</a></td>
+		    					   					  						</tr>
+							<tr class="heightCalendar">
+											    										<td><a class="attachedhref" href="Tokyo_Suii_20240519.csv">19日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240520.csv">20日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240521.csv">21日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240522.csv">22日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240523.csv">23日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240524.csv">24日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240525.csv">25日</a></td>
+		    					   					  						</tr>
+							<tr class="heightCalendar">
+											    										<td><a class="attachedhref" href="Tokyo_Suii_20240526.csv">26日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240527.csv">27日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240528.csv">28日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240529.csv">29日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240530.csv">30日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240531.csv">31日</a></td>
+		    					   					  													<td><a></a></td>
+		   					  						</tr>
+						</tbody>
+			</table>
+									<table class="borderNormal CalendarTable calendar" style="display: none;" id="CalendarTable_20246">
+							<thead>
+				<tr class="heightCalendar">
+					<th colspan="7" scope="col"  class="center bColorThinBlue fColorWhite">2024年 6月 </th>
+				</tr>
+				</thead>
+				<tbody>
+				<tr class="heightCalendar">
+					<td class="widthCalendar">日</td>
+					<td class="widthCalendar">月</td>
+					<td class="widthCalendar">火</td>
+					<td class="widthCalendar">水</td>
+					<td class="widthCalendar">木</td>
+					<td class="widthCalendar">金</td>
+					<td class="widthCalendar">土</td>
+				</tr>
+
+							<tr class="heightCalendar">
+															<td><a></a></td>
+		   					  													<td><a></a></td>
+		   					  													<td><a></a></td>
+		   					  													<td><a></a></td>
+		   					  													<td><a></a></td>
+		   					  													<td><a></a></td>
+		   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240601.csv">1日</a></td>
+		    					   					  						</tr>
+							<tr class="heightCalendar">
+											    										<td><a class="attachedhref" href="Tokyo_Suii_20240602.csv">2日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240603.csv">3日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240604.csv">4日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240605.csv">5日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240606.csv">6日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240607.csv">7日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240608.csv">8日</a></td>
+		    					   					  						</tr>
+							<tr class="heightCalendar">
+											    										<td><a class="attachedhref" href="Tokyo_Suii_20240609.csv">9日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240610.csv">10日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240611.csv">11日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240612.csv">12日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240613.csv">13日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240614.csv">14日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240615.csv">15日</a></td>
+		    					   					  						</tr>
+							<tr class="heightCalendar">
+											    										<td><a class="attachedhref" href="Tokyo_Suii_20240616.csv">16日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240617.csv">17日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240618.csv">18日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240619.csv">19日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240620.csv">20日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240621.csv">21日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240622.csv">22日</a></td>
+		    					   					  						</tr>
+							<tr class="heightCalendar">
+											    										<td><a class="attachedhref" href="Tokyo_Suii_20240623.csv">23日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240624.csv">24日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240625.csv">25日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240626.csv">26日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240627.csv">27日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240628.csv">28日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240629.csv">29日</a></td>
+		    					   					  						</tr>
+							<tr class="heightCalendar">
+											    										<td><a class="attachedhref" href="Tokyo_Suii_20240630.csv">30日</a></td>
+		    					   					  													<td><a></a></td>
+		   					  													<td><a></a></td>
+		   					  													<td><a></a></td>
+		   					  													<td><a></a></td>
+		   					  													<td><a></a></td>
+		   					  													<td><a></a></td>
+		   					  						</tr>
+						</tbody>
+			</table>
+									<table class="borderNormal CalendarTable calendar" style="display: none;" id="CalendarTable_20247">
+							<thead>
+				<tr class="heightCalendar">
+					<th colspan="7" scope="col"  class="center bColorThinBlue fColorWhite">2024年 7月 </th>
+				</tr>
+				</thead>
+				<tbody>
+				<tr class="heightCalendar">
+					<td class="widthCalendar">日</td>
+					<td class="widthCalendar">月</td>
+					<td class="widthCalendar">火</td>
+					<td class="widthCalendar">水</td>
+					<td class="widthCalendar">木</td>
+					<td class="widthCalendar">金</td>
+					<td class="widthCalendar">土</td>
+				</tr>
+
+							<tr class="heightCalendar">
+															<td><a></a></td>
+		   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240701.csv">1日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240702.csv">2日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240703.csv">3日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240704.csv">4日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240705.csv">5日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240706.csv">6日</a></td>
+		    					   					  						</tr>
+							<tr class="heightCalendar">
+											    										<td><a class="attachedhref" href="Tokyo_Suii_20240707.csv">7日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240708.csv">8日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240709.csv">9日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240710.csv">10日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240711.csv">11日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240712.csv">12日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240713.csv">13日</a></td>
+		    					   					  						</tr>
+							<tr class="heightCalendar">
+											    										<td><a class="attachedhref" href="Tokyo_Suii_20240714.csv">14日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240715.csv">15日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240716.csv">16日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240717.csv">17日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240718.csv">18日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240719.csv">19日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240720.csv">20日</a></td>
+		    					   					  						</tr>
+							<tr class="heightCalendar">
+											    										<td><a class="attachedhref" href="Tokyo_Suii_20240721.csv">21日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240722.csv">22日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240723.csv">23日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240724.csv">24日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240725.csv">25日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240726.csv">26日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240727.csv">27日</a></td>
+		    					   					  						</tr>
+							<tr class="heightCalendar">
+											    										<td><a class="attachedhref" href="Tokyo_Suii_20240728.csv">28日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240729.csv">29日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240730.csv">30日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240731.csv">31日</a></td>
+		    					   					  													<td><a></a></td>
+		   					  													<td><a></a></td>
+		   					  													<td><a></a></td>
+		   					  						</tr>
+						</tbody>
+			</table>
+									<table class="borderNormal CalendarTable calendar" style="display: none;" id="CalendarTable_20248">
+							<thead>
+				<tr class="heightCalendar">
+					<th colspan="7" scope="col"  class="center bColorThinBlue fColorWhite">2024年 8月 </th>
+				</tr>
+				</thead>
+				<tbody>
+				<tr class="heightCalendar">
+					<td class="widthCalendar">日</td>
+					<td class="widthCalendar">月</td>
+					<td class="widthCalendar">火</td>
+					<td class="widthCalendar">水</td>
+					<td class="widthCalendar">木</td>
+					<td class="widthCalendar">金</td>
+					<td class="widthCalendar">土</td>
+				</tr>
+
+							<tr class="heightCalendar">
+															<td><a></a></td>
+		   					  													<td><a></a></td>
+		   					  													<td><a></a></td>
+		   					  													<td><a></a></td>
+		   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240801.csv">1日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240802.csv">2日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240803.csv">3日</a></td>
+		    					   					  						</tr>
+							<tr class="heightCalendar">
+											    										<td><a class="attachedhref" href="Tokyo_Suii_20240804.csv">4日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240805.csv">5日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240806.csv">6日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240807.csv">7日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240808.csv">8日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240809.csv">9日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240810.csv">10日</a></td>
+		    					   					  						</tr>
+							<tr class="heightCalendar">
+											    										<td><a class="attachedhref" href="Tokyo_Suii_20240811.csv">11日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240812.csv">12日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240813.csv">13日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240814.csv">14日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240815.csv">15日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240816.csv">16日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240817.csv">17日</a></td>
+		    					   					  						</tr>
+							<tr class="heightCalendar">
+											    										<td><a class="attachedhref" href="Tokyo_Suii_20240818.csv">18日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240819.csv">19日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240820.csv">20日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240821.csv">21日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240822.csv">22日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240823.csv">23日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240824.csv">24日</a></td>
+		    					   					  						</tr>
+							<tr class="heightCalendar">
+											    										<td><a class="attachedhref" href="Tokyo_Suii_20240825.csv">25日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240826.csv">26日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240827.csv">27日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240828.csv">28日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240829.csv">29日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240830.csv">30日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240831.csv">31日</a></td>
+		    					   					  						</tr>
+						</tbody>
+			</table>
+									<table class="borderNormal CalendarTable calendar" id="CalendarTable_20249">
+							<thead>
+				<tr class="heightCalendar">
+					<th colspan="7" scope="col"  class="center bColorThinBlue fColorWhite">2024年 9月 </th>
+				</tr>
+				</thead>
+				<tbody>
+				<tr class="heightCalendar">
+					<td class="widthCalendar">日</td>
+					<td class="widthCalendar">月</td>
+					<td class="widthCalendar">火</td>
+					<td class="widthCalendar">水</td>
+					<td class="widthCalendar">木</td>
+					<td class="widthCalendar">金</td>
+					<td class="widthCalendar">土</td>
+				</tr>
+
+							<tr class="heightCalendar">
+											    										<td><a class="attachedhref" href="Tokyo_Suii_20240901.csv">1日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240902.csv">2日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240903.csv">3日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240904.csv">4日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240905.csv">5日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240906.csv">6日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240907.csv">7日</a></td>
+		    					   					  						</tr>
+							<tr class="heightCalendar">
+											    										<td><a class="attachedhref" href="Tokyo_Suii_20240908.csv">8日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240909.csv">9日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240910.csv">10日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240911.csv">11日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240912.csv">12日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240913.csv">13日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240914.csv">14日</a></td>
+		    					   					  						</tr>
+							<tr class="heightCalendar">
+											    										<td><a class="attachedhref" href="Tokyo_Suii_20240915.csv">15日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240916.csv">16日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240917.csv">17日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240918.csv">18日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240919.csv">19日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240920.csv">20日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240921.csv">21日</a></td>
+		    					   					  						</tr>
+							<tr class="heightCalendar">
+											    										<td><a class="attachedhref" href="Tokyo_Suii_20240922.csv">22日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240923.csv">23日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240924.csv">24日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240925.csv">25日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240926.csv">26日</a></td>
+		    					   					  									    										<td><a class="attachedhref" href="Tokyo_Suii_20240927.csv">27日</a></td>
+		    					   					  									    										<td><a class="nonhref">28日</a></td>
+		    					   					  						</tr>
+							<tr class="heightCalendar">
+											    										<td><a class="nonhref">29日</a></td>
+		    					   					  									    										<td><a class="nonhref">30日</a></td>
+		    					   					  													<td><a></a></td>
+		   					  													<td><a></a></td>
+		   					  													<td><a></a></td>
+		   					  													<td><a></a></td>
+		   					  													<td><a></a></td>
+		   					  						</tr>
+						</tbody>
+			</table>
+		
+
+	<p class="att sp_none">※Safariをご利用の場合、「日付を右クリック」⇒「リンク先のファイルをダウンロード」を選択してください。</p>
+	<p class="att pc_none">※スマートフォン、タブレットではダウンロードはできません。PCよりご利用の方はウィンドウサイズを広げてください。</p>
+	</div>
+</div>
+<!-- ダウンロードコンテンツ -->
+</section>
+<!-- /contents -->
+<footer>
+<div id="footer_in">
+<ul>
+<li><a href="../tkim0101g.html">トップページへ戻る</a></li>
+<li><a href="../common/sitepolicy_jp.html">情報提供について</a></li>
+<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfGO6Zw9X2xhTrJMuQBVNE9ZhGU0hzyYAzrgZSWRBuNQtfrzA/viewform" target="_blank">お問い合わせ</a></li>
+</ul>
+<p>Copyright (C) 2021 Tokyo Metropolitan Government. All Rights Reserved.</p>
+</div>
+</footer>
+<p id="page-top"><a href="#top"><img src="../../img/icon/pagetop.svg" alt="このページのTOPへ"></a></p>
+<script src="../../js/jquery-3.5.1.min.js"></script>
+<script src="../../js/modaal.min.js"></script>
+<script src="../../js/TweenMax.min.js"></script>
+<script src="../../js/wavify.js"></script>
+<script src="../../js/jquery.wavify.js"></script>
+<script src="../../js/common.js"></script>
+<script src="../../js/popper.min.js"></script>
+<script src="../../js/tippy-bundle.umd.js"></script>
+<script src="../../js/footerFixed.js"></script>
+<script src="../../js/selectLang.js"></script>
+<script>
+/* 画像無しのツールチップ */
+tippy('[data-tippy-content]');
+
+/* 画像有りのツールチップ(複数処理) */
+const cnt = $(".tooltip").length;
+const temp = {};
+
+for(let num = 1;num <= cnt;num++){
+  temp[num] = document.getElementById('tip' + num);
+
+  tippy('.tip' + num, {
+	  content: temp[num].innerHTML,
+    allowHTML: true
+  });
+}
+</script>
+	<script>
+function changeSuiiPulldown() {
+
+	var value = $("#select_observe").val();
+
+	// すべてのカレンダーを非表示にする。
+	$(".CalendarTable").css('display', 'none');
+
+	//プルダウンで選択された月のカレンダーを表示する。
+	var CalendarTableId = "CalendarTable_" + value;
+	$("#" + CalendarTableId).css('display', '');
+}
+</script>
+
+<style>
+.tab-switch:checked + .tab-label span.active{
+ color: #fff;
+ border: 1px solid #fff;
+ background-color: #005AFF;
+}
+</style>
+</body>
+</html>

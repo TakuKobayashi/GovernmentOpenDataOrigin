@@ -1,0 +1,137 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.728093,
+                    35.656193,
+                    0
+                ]
+            },
+            "properties": {
+                "名称":"アラブイスラーム学院",
+                "郵便番号":"106-0046",
+                "住所":"東京都港区元麻布三丁目4番18号",
+                "電話番号":"03-3404-6622",
+                "URL":"<a href='http://www.aii-t.org/' target='_blank'>http://www.aii-t.org/</a>"
+            }
+        }
+        ,
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.728207,
+                    35.729104,
+                    0
+                ]
+            },
+            "properties": {
+                "名称":"大塚マスジド　",
+                "郵便番号":"170-0005",
+                "住所":"東京都豊島区南大塚三丁目42番7号",
+                "電話番号":"03-3971-5631",
+                "URL":"<a href='http://www.islam.or.jp/' target='_blank'>http://www.islam.or.jp/</a>"
+            }
+        }
+        ,
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.777832,
+                    35.706013,
+                    0
+                ]
+            },
+            "properties": {
+                "名称":"マスジド・サラーム（御徒町モスク）",
+                "郵便番号":"110-0016",
+                "住所":"東京都台東区台東四丁目6番7号",
+                "電話番号":"",
+                "URL":"<a href='http://www.islam.co.jp/masjid/assalaam/index.html' target='_blank'>http://www.islam.co.jp/masjid/assalaam/index.html</a>"
+            }
+        }
+        ,
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.801444,
+                    35.721751,
+                    0
+                ]
+            },
+            "properties": {
+                "名称":"マスジドダルルArqam（浅草モスク）",
+                "郵便番号":"111-0025",
+                "住所":"東京都台東区東浅草一丁目9番12号",
+                "電話番号":"03-3871-6061",
+                "URL":"<a href='http://www.islam.co.jp/masjid/dar_al-arqam/index.html' target='_blank'>http://www.islam.co.jp/masjid/dar_al-arqam/index.html</a>"
+            }
+        }
+        ,
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.717093,
+                    35.56444,
+                    0
+                ]
+            },
+            "properties": {
+                "名称":"蒲田マスジド",
+                "郵便番号":"144-0052",
+                "住所":"東京都大田区蒲田五丁目1番2号",
+                "電話番号":"081-80-5545-0666",
+                "URL":"<a href='https://www.halalmedia.jp/ja/masjid/kamata-masjidkamata-mosque/' target='_blank'>https://www.halalmedia.jp/ja/masjid/kamata-masjidkamata-mosque/</a>"
+            }
+        }
+        ,
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.84325,
+                    35.744266,
+                    0
+                ]
+            },
+            "properties": {
+                "名称":"マッキーマスジド東京（お花茶屋マスジド）　",
+                "郵便番号":"124-0011",
+                "住所":"東京都葛飾区四つ木五丁目22番11号",
+                "電話番号":"03-5670-7426",
+                "URL":"<a href='http://www2.dokidoki.ne.jp/islam/benri/m_ohanajaya.htm' target='_blank'>http://www2.dokidoki.ne.jp/islam/benri/m_ohanajaya.htm</a>"
+            }
+        }
+        ,
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.676556,
+                    35.668191,
+                    0
+                ]
+            },
+            "properties": {
+                "名称":"東京ジャーミイ（東京モスク）　",
+                "郵便番号":"151-0065",
+                "住所":"東京都渋谷区大山町一丁目19番",
+                "電話番号":"03-5790-0760",
+                "URL":"<a href='https://tokyocamii.org/ja/' target='_blank'>https://tokyocamii.org/ja/</a>"
+            }
+        }
+    ]
+}

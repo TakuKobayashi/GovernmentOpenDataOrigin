@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<!--[if IE 9]> <html lang="ja" class="ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="ja"> <!--<![endif]-->
+  <head>
+    <meta charset="utf-8" />
+      <meta name="generator" content="ckan 2.9.6" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>東京都交通局 列車時刻表 / Train timetable of Bureau of Transportation, Tokyo Metropolitan Government - データセット - 公共交通オープンデータセンター データカタログサイト</title>
+
+    
+    <link rel="shortcut icon" href="/images/icons/favicon.ico" />
+    
+  
+      
+      
+      
+    
+  
+  
+
+
+    
+      
+      
+    
+  
+  <meta property="og:title" content="東京都交通局 列車時刻表 / Train timetable of Bureau of Transportation, Tokyo Metropolitan Government - 公共交通オープンデータセンター データカタログサイト">
+  <meta property="og:description" content="東京都交通局の都営地下鉄、東京さくらトラム（都電荒川線）、日暮里・舎人ライナーの列車時刻表を提供します。 / Train timetable of Bureau of Transportation, Tokyo Metropolitan Government
+※大江戸線の列車番号は、末尾の1や2を省いて表記します。(例: 1001A1 → 1001A)...">
+
+
+    
+    <link href="/webassets/base/4f3188fa_main.css" rel="stylesheet"/>
+<link href="/webassets/webassets-external/a982bdda489f6cabb84a5db0614758d0_odpt.css" rel="stylesheet"/>
+    
+  </head>
+
+  
+  <body data-site-root="https://ckan.odpt.org/" data-locale-root="https://ckan.odpt.org/" >
+
+    
+    <div class="sr-only sr-only-focusable"><a href="#content">スキップして内容へ</a></div>
+  
+
+  
+     
+<div class="account-masthead">
+  <div class="container">
+     
+    <nav class="account not-authed" aria-label="Account">
+      <ul class="list-unstyled">
+        
+
+      </ul>
+    </nav>
+     
+  </div>
+</div>
+
+<header class="navbar navbar-static-top masthead">
+    
+  <div class="container">
+    <div class="navbar-right">
+      <button data-target="#main-navigation-toggle" data-toggle="collapse" class="navbar-toggle collapsed" type="button" aria-label="expand or collapse" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="fa fa-bars"></span>
+      </button>
+    </div>
+    <hgroup class="header-image navbar-left">
+      
+  <a class="logo" href="https://www.odpt.org/"><img src="/images/dc-logo.png" alt="公共交通オープンデータセンター" title="公共交通オープンデータセンター" /></a>
+
+    </hgroup>
+
+    <div class="collapse navbar-collapse" id="main-navigation-toggle">
+      
+      <nav class="section navigation">
+        <ul class="nav nav-pills">
+            
+		<li><a href="/dataset/">データセット</a></li><li><a href="/organization/">組織</a></li><li><a href="/group/">グループ</a></li><li><a href="/about">About</a></li>
+	    
+        </ul>
+      </nav>
+       
+      <form class="section site-search simple-input" action="/dataset/" method="get">
+        <div class="field">
+          <label for="field-sitewide-search">データセットを検索</label>
+          <input id="field-sitewide-search" type="text" class="form-control" name="q" placeholder="検索" aria-label="データセット検索"/>
+          <button class="btn-search" type="submit" aria-label="Submit"><i class="fa fa-search"></i></button>
+        </div>
+      </form>
+      
+    </div>
+  </div>
+</header>
+
+  
+    <div class="main">
+      <div id="content" class="container">
+        
+          
+            <div class="flash-messages">
+              
+                
+              
+            </div>
+          
+
+          
+            <div class="toolbar" role="navigation" aria-label="Breadcrumb">
+              
+                
+                  <ol class="breadcrumb">
+                    
+<li class="home"><a href="/" aria-label="ホーム"><i class="fa fa-home"></i><span> ホーム</span></a></li>
+                    
+  
+    
+    
+      
+      
+      <li><a href="/organization/">組織</a></li>
+      <li><a href="/organization/toei">東京都交通局 / Bureau of...</a></li>
+    
+    <li class="active"><a href="/dataset/r_train_timetable-toei">東京都交通局 列車時刻表 / Train...</a></li>
+  
+
+                  </ol>
+                
+              
+            </div>
+          
+
+          <div class="row wrapper">
+            
+            
+            
+
+            
+              <aside class="secondary col-sm-3">
+                
+                
+
+  
+
+  
+    
+
+  
+    <section class="module module-narrow">
+      <div class="module context-info">
+        <div class="module-content">
+          
+            
+              <h1 class="heading">東京都交通局 列車時刻表 / Train timetable of Bureau of Transportation, Tokyo Metropolitan Government</h1>
+            
+            
+
+            
+              
+                <div class="follow_button">
+                  
+                </div>
+              
+            
+          
+        </div>
+      </div>
+    </section>
+  
+
+  
+
+  
+    
+      
+      
+
+
+
+
+  
+  <div class="module module-narrow module-shallow context-info">
+    
+      <h2 class="module-heading"><i class="fa fa-building-o"></i> 組織</h2>
+    
+    <section class="module-content">
+      
+      
+        <div class="image">
+          <a href="/organization/toei">
+            <img src="/base/images/placeholder-organization.png" width="200" alt="toei" />
+          </a>
+        </div>
+      
+      
+      <h1 class="heading">東京都交通局 / Bureau of Transportation, Tokyo Metropolitan Government
+        
+      </h1>
+      
+      
+  
+
+      
+      
+    </section>
+  </div>
+  
+    
+  
+
+  
+    
+
+
+  
+
+  
+    
+
+
+  
+      
+        <section class="module module-narrow module-shallow license">
+          
+            <h2 class="module-heading"><i class="fa fa-lock"></i> ライセンス</h2>
+          
+          
+            <p class="module-content">
+              
+                
+  
+    <a href="https://creativecommons.org/licenses/by/4.0/" rel="dc:rights">Creative Commons Attribution 4.0 International (CC BY 4.0)</a>
+  
+
+                
+              
+            </p>
+          
+        </section>
+      
+  
+
+  
+
+
+              </aside>
+            
+
+            
+              <div class="primary col-sm-9 col-xs-12" role="main">
+                
+                
+                  <article class="module">
+                    
+                      <header class="module-content page-header">
+                        
+                        <ul class="nav nav-tabs">
+                          
+  <li class="active"><a href="/dataset/r_train_timetable-toei">データセット</a></li>
+
+                        </ul>
+                      </header>
+                    
+                    <div class="module-content">
+                      
+                      
+  
+                      
+  
+    
+    
+      
+    
+    <h1>
+      
+        東京都交通局 列車時刻表 / Train timetable of Bureau of Transportation, Tokyo Metropolitan Government
+        
+        
+      
+    </h1>
+    
+      
+        <div class="notes embedded-content">
+          <p>東京都交通局の都営地下鉄、東京さくらトラム（都電荒川線）、日暮里・舎人ライナーの列車時刻表を提供します。 / Train timetable of Bureau of Transportation, Tokyo Metropolitan Government</p>
+<p>※大江戸線の列車番号は、末尾の1や2を省いて表記します。(例: 1001A1 → 1001A)</p>
+<p>※東京さくらトラム(都電荒川線)では、列車番号の代わりに ODPTnnnn 形式の番号を表記します。</p>
+<p>※本コンテンツ等は<a href="https://creativecommons.org/licenses/by/4.0/deed.ja">CC BY 4.0</a>の下でライセンスされています。クレジット表示については、<a href="https://developer.odpt.org/ja/faq-info#cc-by-credit">こちらのFAQ</a>をご参照ください。 / This content, etc. is licensed under <a href="https://creativecommons.org/licenses/by/4.0/deed.en">CC BY 4.0</a>. Please refer to <a href="https://developer.odpt.org/en/faq-info#cc-by-credit">this FAQ</a> for crediting this content, etc.</p>
+<p><strong>クレジット表示に関する情報</strong>:</p>
+<ul>
+<li>コンテンツ等の提供者名: 東京都交通局・公共交通オープンデータ協議会</li>
+</ul>
+<p><strong>Information for crediting this content, etc.</strong>:</p>
+<ul>
+<li>Provider name of content, etc.: Bureau of Transportation, Tokyo Metropolitan Government / Association for Open Data of Public Transportation</li>
+</ul>
+        </div>
+      
+    
+    
+    <span class="insert-comment-thread"></span>
+  
+
+  
+    
+<section id="dataset-resources" class="resources">
+  
+    
+      <h3>データとリソース</h3>
+      <ul class="resource-list">
+        
+          
+          
+            
+
+
+
+<li class="resource-item" data-id="81bed0ce-2321-4422-aac9-9c94155306d3">
+  
+  <a class="heading" href="/dataset/r_train_timetable-toei/resource/81bed0ce-2321-4422-aac9-9c94155306d3" title="列車時刻表 / Train timetable">
+    列車時刻表 / Train timetable<span class="format-label" property="dc:format" data-format="json">JSON</span>
+    
+
+  </a>
+  
+  
+    <p class="description">
+      
+        東京都交通局の列車時刻表を提供します。 / Train timetable of Bureau of Transportation, Tokyo...
+      
+    </p>
+  
+  
+
+</li>
+          
+        
+      </ul>
+    
+    
+</section>
+  
+
+  
+    
+
+  <section class="tags">
+    
+
+
+  <ul class="tag-list well">
+    
+      <li>
+        <a class="tag" href="/dataset/?tags=%E5%88%97%E8%BB%8A%E6%99%82%E5%88%BB%E8%A1%A8-train_timetable">列車時刻表-train_timetable</a>
+      </li>
+    
+      <li>
+        <a class="tag" href="/dataset/?tags=%E9%89%84%E9%81%93-railway">鉄道-railway</a>
+      </li>
+    
+  </ul>
+
+  </section>
+
+  
+
+  
+
+
+
+                    </div>
+                  </article>
+                
+              </div>
+            
+          </div>
+        
+      </div>
+    </div>
+  
+    <footer class="site-footer">
+  <div class="container">
+    
+    <div class="row">
+      <div class="col-md-8 footer-links">
+        
+          <ul class="list-unstyled">
+            
+  <li><a href="https://www.odpt.org/">公共交通オープンデータ協議会</a></li>
+
+          </ul>
+          <ul class="list-unstyled">
+            
+
+          </ul>
+        
+      </div>
+      <div class="col-md-4 attribution">
+        
+  
+  <p><strong>Powered by</strong> CKAN</p>
+
+        
+          
+<form class="form-inline form-select lang-select" action="/util/redirect" data-module="select-switch" method="POST">
+  <label for="field-lang-select">言語</label>
+  <select id="field-lang-select" name="url" data-module="autocomplete" data-module-dropdown-class="lang-dropdown" data-module-container-class="lang-container">
+    
+      <option value="/ja/dataset/r_train_timetable-toei" selected="selected">
+        日本語
+      </option>
+    
+      <option value="/en/dataset/r_train_timetable-toei" >
+        English
+      </option>
+    
+  </select>
+  <button class="btn btn-default js-hide" type="submit">Go</button>
+</form>
+        
+      </div>
+    </div>
+    
+  </div>
+
+  
+    
+  
+</footer>
+  
+  
+  
+  
+  
+    
+
+      
+
+    
+    
+    <link href="/webassets/vendor/f3b8236b_select2.css" rel="stylesheet"/>
+<link href="/webassets/vendor/0b01aef1_font-awesome.css" rel="stylesheet"/>
+    <script src="/webassets/vendor/d8ae4bed_jquery.js" type="text/javascript"></script>
+<script src="/webassets/vendor/fb6095a0_vendor.js" type="text/javascript"></script>
+<script src="/webassets/vendor/580fa18d_bootstrap.js" type="text/javascript"></script>
+<script src="/webassets/base/15a18f6c_main.js" type="text/javascript"></script>
+<script src="/webassets/base/2448af8b_ckan.js" type="text/javascript"></script>
+  </body>
+</html>

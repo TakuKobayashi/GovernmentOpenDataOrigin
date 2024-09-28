@@ -1,0 +1,241 @@
+【 図書館資料受取窓口利用状況】,,,,,,,,
+種別,詳細,"受取
+窓口名","高野台
+受取窓口","豊玉
+受取窓口","石神井公園駅　
+受取窓口","大泉学園駅
+受取窓口","北町
+受取窓口","上石神井
+受取窓口"
+個人利用登録者数,,人,572,744,"3,206","4,397",783,"1,053"
+来館者数,,人,"15,125","25,040","77,748","56,558","15,907","22,277"
+貸出　,個人貸出者数,人,"17,498","27,473","82,802","68,223","16,941","25,788"
+貸出　,個人貸出点数,点,"43,786","65,308","192,712","152,469","42,978","61,766"
+貸出　,一般図書,冊,"39,916","57,933","175,530","138,127","37,000","51,811"
+貸出　,雑誌,冊,"1,683","2,155","6,773","4,889","1,246","2,072"
+貸出　,ＣＤ・ｶｾｯﾄﾃｰﾌﾟ・ﾚｺｰﾄﾞ,組,"2,035","4,953","9,855","9,050","4,563","7,479"
+貸出　,DVD・ビデオ・その他,組,152,267,554,403,169,404
+予約,個人予約点数,点,"36,341","56,053","164,280","125,724","38,474","53,895"
+予約,図書等,冊,"33,036","49,600","148,967","112,568","32,594","44,522"
+予約,雑誌等,冊,"1,335","1,742","5,472","4,181","1,110","1,572"
+予約,ＣＤ・DVD・ビデオ等,点,"1,970","4,711","9,841","8,975","4,770","7,801"
+返却点数,,点,"45,231","73,579","234,831","159,533","46,861","65,906"
+開館日数,,日,319,305,319,319,319,319
+19,3s/common.css">
+<link rel="stylesheet" href="/assets/common/css/shared.css">
+<link rel="stylesheet" href="/assets/common/css/smartphone.css" id="tmp_smartphone_css">
+<link rel="stylesheet" href="/assets/css/detail.css">
+<!-- 莉･荳句�騾咾SS -->
+<!-- over 480px -->
+<link rel="stylesheet" href="/assets/common/css/layout.css">
+<link rel="stylesheet" href="/assets/common/css/decoration.css">
+<link rel="stylesheet" href="/assets/common/css/decoration_black.css">
+<link rel="stylesheet" href="/assets/common/css/decoration_white.css">
+<!-- print -->
+<link rel="stylesheet" href="/assets/common/css/layout.css" media='print' />
+<link rel="stylesheet" href="/assets/common/css/decoration.css" media='print' />
+<link rel="stylesheet" href="/assets/common/css/decoration_black.css" media='print' />
+<link rel="stylesheet" href="/assets/common/css/decoration_white.css" media='print' />
+<!-- 莉･荳雁�騾咾SS -->
+<script src="https://tsutaeru.cloud/assets/snippet/js/tsutaeru.js?api_key=0131f15e-f11f-4b95-a457-1f4984310c4e&amp;button=easy"></script>
+</head>
+<body class="format_top used_javascript">
+<noscript>
+<p class='noscript'>JavaScript繧呈怏蜉ｹ縺ｫ縺吶ｋ縺ｨ譁�ｭ励し繧､繧ｺ繝ｻ閭梧勹濶ｲ縺ｮ螟画峩縺悟�譚･縺ｾ縺�</p>
+</noscript>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PPR92LJ"
+height="0" width="0" style="display:none;visibility:hidden" title="Google Tag Manager"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div id="tmp_wrapper">
+<header id="tmp_wrap_header">
+<div id="tmp_header">
+<div id="tmp_hlogo">
+<!-- 莉･荳句推繝壹�繧ｸ縺ｫ蜷医ｏ縺帙ｋ -->
+<p><a href="/"><span>譚ｱ莠ｬ驛ｽ縺ｮ邨ｱ險�</span></a></p>
+<!-- 莉･荳雁推繝壹�繧ｸ縺ｫ蜷医ｏ縺帙ｋ -->
+</div>
+<!-- #tmp_hlogo end -->
+<ul id="tmp_hnavi_s">
+<li id="tmp_hnavi_lmenu"><a href="javascript:void(0);"><span>繝｡繝九Η繝ｼ</span></a></li>
+</ul>
+<div id="tmp_means">
+<div id="tmp_means_primary">
+<div class="topMenu disPc">
+<ul class="topMenuList">
+<li><a href="/faq/fq-faq.htm">繧医￥縺ゅｋ雉ｪ蝠�</a></li>
+<li><script>_tsutaeru.speech.button()</script></li>
+<li class="fsize_btn"><span>譁�ｭ励し繧､繧ｺ</span><a href="javascript:void(0);" class='changeSizeReduce'>蟆�</a><a href="javascript:void(0);" class='changeSizeEnlarge'>螟ｧ</a></li>
+<li class="bgcol_btn"><span>閭梧勹濶ｲ繧貞､画峩</span><a href="javascript:location.reload();" id='changeBgWhite'>逋ｽ</a><a href="javascript:location.reload();" id='changeBgBlack'>鮟�</a><a href="javascript:location.reload();" id='changeBgNormal'>騾壼ｸｸ</a></li>
+<li><a href="http://www.metro.tokyo.jp/" target="_blank">驛ｽ蠎∫ｷ丞粋繝医ャ繝�</a></li>
+</ul>
+<ul class="topMenuList lgList">
+<li lang="ja"><olang><a href="/hterrs/404.htm">譌･譛ｬ隱�</a></olang></li>
+<li><a tabindex="0" class="tsutaeru-button tsutaeru-button-easy" href="//tsutaeru.cloud/easy.php?uri=https%3A%2F%2Fwww.toukei.metro.tokyo.lg.jp%2F">繧�＆縺励＞譌･譛ｬ隱�</a></li>
+<li lang="en"><olang><a href="https://honyaku.j-server.com/LUCTOUKEAI/ns/tl_ex.cgi?SURL=https://www.toukei.metro.tokyo.lg.jp/hterrs/404.htm&SLANG=ja&TLANG=en&XMODE=0">English</a></olang></li>
+<li lang="cmn-hant"><olang><a href="https://honyaku.j-server.com/LUCTOUKEAI/ns/tl_ex.cgi?SURL=https://www.toukei.metro.tokyo.lg.jp/hterrs/404.htm&SLANG=ja&TLANG=zh&XMODE=0">荳ｭ譁�ｮ�蛹�</a></olang></li>
+<li lang="cmn-hans"><olang><a href="https://honyaku.j-server.com/LUCTOUKEAI/ns/tl_ex.cgi?SURL=https://www.toukei.metro.tokyo.lg.jp/hterrs/404.htm&SLANG=ja&TLANG=zhb&XMODE=0">郢�ｫ比ｸｭ譁�</a></olang></li>
+<li lang="ko"><olang><a href="https://honyaku.j-server.com/LUCTOUKEAI/ns/tl_ex.cgi?SURL=https://www.toukei.metro.tokyo.lg.jp/hterrs/404.htm&SLANG=ja&TLANG=ko&XMODE=0">﨑懋ｵｭ�ｴ</a></olang></li>
+</ul>
+</div>
+<!-- #topMenu end -->
+<ul id="tmp_hnavi" class="disSp">
+<li class="search_btn"><a href="/search/index.htm">讀懃ｴ｢繝壹�繧ｸ</a></li>
+<li class="kind_btn" lang="ja"><olang><a href="/hterrs/404.htm">譌･譛ｬ隱�</a></olang></li>
+<li class="read_btn"><a tabindex="0" class="tsutaeru-button tsutaeru-button-easy" href="//tsutaeru.cloud/easy.php?uri=https%3A%2F%2Fwww.toukei.metro.tokyo.lg.jp%2F">繧�＆縺励＞譌･譛ｬ隱�</a></li>
+<li class="kind_btn" lang="en"><olang><a href="https://honyaku.j-server.com/LUCTOUKEAI/ns/tl_ex.cgi?SURL=https://www.toukei.metro.tokyo.lg.jp/hterrs/404.htm&SLANG=ja&TLANG=en&XMODE=0">English</a></olang></li>
+<li class="read_btn" lang="cmn-hant"><olang><a href="https://honyaku.j-server.com/LUCTOUKEAI/ns/tl_ex.cgi?SURL=https://www.toukei.metro.tokyo.lg.jp/hterrs/404.htm&SLANG=ja&TLANG=zh&XMODE=0">荳ｭ譁�ｮ�蛹�</a></olang></li>
+<li class="kind_btn" lang="cmn-hans"><olang><a href="https://honyaku.j-server.com/LUCTOUKEAI/ns/tl_ex.cgi?SURL=https://www.toukei.metro.tokyo.lg.jp/hterrs/404.htm&SLANG=ja&TLANG=zhb&XMODE=0">郢�ｫ比ｸｭ譁�</a></olang></li>
+<li class="read_btn" lang="ko"><olang><a href="https://honyaku.j-server.com/LUCTOUKEAI/ns/tl_ex.cgi?SURL=https://www.toukei.metro.tokyo.lg.jp/hterrs/404.htm&SLANG=ja&TLANG=ko&XMODE=0">﨑懋ｵｭ�ｴ</a></olang></li>
+<li class="kind_btn"><script>_tsutaeru.speech.button()</script></li>
+<li class="read_btn"><a href="/homepage/ENGLISH.htm">STATISTICAL DATA</a></li>
+<li class="fsize_btn"><span>譁�ｭ励し繧､繧ｺ</span><a href="javascript:void(0);" class='changeSizeReduce'>蟆�</a><a href="javascript:void(0);" class='changeSizeEnlarge'>螟ｧ</a></li>
+<li class="bgcol_btn"><span>閭梧勹濶ｲ繧貞､画峩</span><a href="javascript:location.reload();" id='changeBgWhiteSp'>逋ｽ</a><a href="javascript:location.reload();" id='changeBgBlackSp'>鮟�</a><a href="javascript:location.reload();" id='changeBgNormalSp'>騾壼ｸｸ</a></li>
+<li class="sougou_btn"><a href="http://www.metro.tokyo.jp/" target="_blank">驛ｽ蠎∫ｷ丞粋繝医ャ繝�</a></li>
+</ul>
+</div>
+<!-- #tmp_means_primary end -->
+<div id="tmp_means_secondary">
+<div id="tmp_sitemap_btn">
+<p class="disSp">
+<a href="/faq/fq-faq.htm">繧医￥縺ゅｋ雉ｪ蝠�</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/homepage/sitemap.htm">繧ｵ繧､繝医�繝��</a>
+</p>
+<p class="disPc"><a href="/homepage/ENGLISH.htm">STATISTICAL DATA</a>&nbsp;&nbsp;<a href="/homepage/sitemap.htm">繧ｵ繧､繝医�繝��</a></p>
+</div>
+<div id="tmp_hsearch">
+<form name="tmp_gsearch" action="https://search.metro.tokyo.lg.jp/" method="get" id="tmp_gsearch">
+<input type="text" name="kw" title="繧ｵ繧､繝亥�讀懃ｴ｢" size="" maxlength="256" value="" id="tmp_query" />
+<input type="hidden" name="temp" value="JP" />
+<input type="hidden" name="sitesearch" value="www.toukei.metro.tokyo.lg.jp" />
+<input type="hidden" name="ie" value="u" />
+<input id="tmp_func_sch_btn" type="submit" value="讀懃ｴ｢" />
+</form>
+</div>
+<!-- #tmp_hsearch end -->
+<p id="tmp_hsearch_btn" class="disPc"><a href="/search/index.htm">讀懃ｴ｢繝壹�繧ｸ</a></p>
+</div>
+<!-- #tmp_means_secondary end -->
+</div>
+<!-- #tmp_means end -->
+</div>
+<!-- #tmp_header end -->
+<nav id="tmp_wrap_gnavi">
+<div id="tmp_gnavi">
+<ul class="gnav">
+<li id="tmp_glist1" class="top"><a href="/" class="tmp_glist_link active">繝医ャ繝�</a></li>
+<li id="tmp_glist2" class="tmp_glist_item6"><a href="/homepage/aboutus.htm"  class="tmp_glist_link">譚ｱ莠ｬ驛ｽ縺ｮ邨ｱ險医→縺ｯ</a></li>
+<li id="tmp_glist3" class="tmp_glist_item6"><a href="/homepage/bunya.htm"  class="tmp_glist_link">蛻�㍽縺九ｉ謗｢縺�</a></li>
+<li id="tmp_glist4" class="tmp_glist_item6"><a href="/search/index.htm"  class="tmp_glist_link">讀懃ｴ｢繝壹�繧ｸ<br>(邨ｱ險医ョ繝ｼ繧ｿ縺九ｉ謗｢縺�)</a></li>
+<li id="tmp_glist5" class="tmp_glist_item6"><a href="/tnenkan/tn-index.htm"  class="tmp_glist_link">譚ｱ莠ｬ驛ｽ邨ｱ險亥ｹｴ髑�</a></li>
+<li id="tmp_glist6" class="tmp_glist_item6"><a href="/kidsc/kc-index.htm"  class="tmp_glist_link">繧ｭ繝�ぜ繧ｳ繝ｼ繝翫�</a></li>
+<li id="tmp_glist7" class="tmp_glist_item6"><a href="/hokans/hs-index.htm"  class="tmp_glist_link">邨ｱ險郁ｳ�侭螳､縺ｮ縺疲｡亥�</a></li>
+</ul>
+</div>
+<!-- #tmp_gnavi end -->
+</nav>
+<!-- #tmp_wrap_gnavi end -->
+</header>
+<!-- #tmp_wrap_header end -->
+<main id="tmp_wrap_main" class="column_cnt">
+<div id="tmp_main">
+<div id="tmp_maincontents">
+<!--莉･荳九さ繝ｳ繝�Φ繝�ｧｻ陦�-->
+<div id="contents">
+<div class="breadcrumbWrap">
+<ul class="breadcrumb">
+<li class="breadcrumb_item"><a href="/">繝医ャ繝�</a><span class="symbol">��</span></li>
+<li class="breadcrumb_item">繝壹�繧ｸ縺瑚ｦ九▽縺九ｊ縺ｾ縺帙ｓ</li>
+</ul>
+</div>
+<!-- .breadcrumbWrap -->
+<h2 class="mainTtl">繝壹�繧ｸ縺瑚ｦ九▽縺九ｊ縺ｾ縺帙ｓ</h2>
+<section class="section">
+<p class="share">
+<a class="share_link" href="http://line.me/R/msg/text/?{https://www.toukei.metro.tokyo.lg.jp/hterrs/404.htm}%0a{繝壹�繧ｸ縺瑚ｦ九▽縺九ｊ縺ｾ縺帙ｓ�懈擲莠ｬ驛ｽ縺ｮ邨ｱ險�" target="_blank" rel="nofollow noopener">
+<span>LINE縺ｧ蜈ｱ譛�</span>
+<img src="/assets/common/img/icon_line.png" alt="LINE蜈ｱ譛峨い繧､繧ｳ繝ｳ" width="50" height="50">
+</a>
+</p>
+<div class="cont">
+<h3 class="subTtl01">縺頑爾縺励�繝壹�繧ｸ縺ｯ隕九▽縺九ｊ縺ｾ縺帙ｓ縲�</h3>
+<p>螟ｧ螟臥筏縺苓ｨｳ縺ゅｊ縺ｾ縺帙ｓ縺後�√い繧ｯ繧ｻ繧ｹ縺�◆縺�縺�◆繝壹�繧ｸ縺ｯ遘ｻ蜍輔∪縺溘�蜑企勁縺輔ｌ縺ｦ縺�ｋ蜿ｯ閭ｽ諤ｧ縺後≠繧翫∪縺吶��</p>
+<p>URL繧偵＃遒ｺ隱阪＞縺溘□縺阪�∝�蠎ｦ繧ｵ繧､繝亥�讀懃ｴ｢縺九ｉ讀懃ｴ｢縺励※縺�◆縺�縺上°縲√ヨ繝��繝壹�繧ｸ蜿医�繧ｵ繧､繝医�繝��繧医ｊ讀懃ｴ｢縺励※縺上□縺輔＞縲�</p>
+<p>繧ｵ繧､繝亥�讀懃ｴ｢縺ｯ繝壹�繧ｸ荳企Κ縺ｫ縺ゅｋ繧ゅ�繧偵♀菴ｿ縺�￥縺�縺輔＞縲�<br><br></p>
+<ul class="linkBtnArea">
+<li class="linkBtn"><a href="/">繝医ャ繝励�繝ｼ繧ｸ</a></li>
+<li class="linkBtn"><a href="/homepage/sitemap.htm">繧ｵ繧､繝医�繝��</a></li>
+</ul>
+<p>&nbsp;</p>
+</div>
+<div class="contact">
+<p class="contactTtl">縺雁撫縺�粋繧上○</p>
+<p class="contact_rep">隱ｿ謨ｴ隱ｲ縲�邨ｱ險亥ｺ��ｱ諡�ｽ�</p>
+<div class="contactBox">
+<p class="contact_tel">03-5388-2516�育峩騾夲ｼ�</p>
+</div>
+<p class="contact_mail">*縺頑焔謨ｰ繧偵♀縺九￠縺�◆縺励∪縺吶′(at)繧抵ｼ�繝槭�繧ｯ縺ｫ螟峨∴縺ｦ騾∽ｿ｡縺励※縺上□縺輔＞縲�<br>E繝｡繝ｼ繝ｫ��<a href="mailto:S0000033(at)section.metro.tokyo.jp"><span>S0000033(at)section.metro.tokyo.jp</span></a></p>
+</div>
+</section>
+</div>
+<!-- #contents end -->
+</div>
+<!-- #tmp_maincontents end -->
+</div>
+<!-- #tmp_main end -->
+</main>
+<!-- #tmp_wrap_main end -->
+<footer class="footer">
+<div class="pageTop"><img src="/assets/common/img/btn_top.png" alt="TOP縺ｸ謌ｻ繧�" width="45" height="45"></div>
+<div class="pnavi">
+<p class="ptop"><a href="#tmp_header">繝壹�繧ｸ縺ｮ蜈磯�ｭ縺ｸ謌ｻ繧�</a></p>
+</div>
+<div class="ftBannerWrap">
+<ul class="bnrBlock">
+<li class="bnrBlockItem"><a href="https://www.e-stat.go.jp/" target="_blank"><img class="bnrBlockItem_img" src="/assets/images/bn01.jpg" alt="e-stat"></a></li>
+<li class="bnrBlockItem"><a href="/tyousain/ts-index.htm" target="_blank"><img class="bnrBlockItem_img" src="/assets/images/ts-banner.png" alt="邨ｱ險郁ｪｿ譟ｻ隱ｿ譟ｻ蜩｡蜍滄寔"></a></li>
+<li class="bnrBlockItem"><a href="https://www.soumu.metro.tokyo.lg.jp/" target="_blank"><img class="bnrBlockItem_img" src="/assets/images/bn03.jpg" alt="邱丞漁螻�繝医ャ繝�"></a></li>
+</ul>
+</div>
+<div id="tmp_fnavi">
+<ul>
+<li><a href="/homepage/site-policy.htm">繧ｵ繧､繝医�繝ｪ繧ｷ繝ｼ</a></li>
+<li><a href="/homepage/site-policy.htm#tyosaku">闡嶺ｽ懈ｨｩ</a></li>
+<li><a href="/homepage/security.htm">蛟倶ｺｺ諠��ｱ菫晁ｭｷ譁ｹ驥�</a></li>
+<li><a href="/homepage/renraku.htm">蝠上＞蜷医ｏ縺帛�</a></li>
+<li><a href="/homepage/link.htm">繝ｪ繝ｳ繧ｯ髮�</a></li>
+</ul>
+</div>
+<div id="tmp_faddress">
+<p>譚ｱ莠ｬ驛ｽ邱丞漁螻�邨ｱ險磯Κ Statistics Division, Bureau of General Affairs<br>譚ｱ莠ｬ驛ｽ譁ｰ螳ｿ蛹ｺ隘ｿ譁ｰ螳ｿ莠御ｸ∫岼8逡ｪ1蜿ｷ縲�<br class="disSp">髮ｻ隧ｱ��03-5321-1111(驛ｽ蠎∽ｻ｣陦ｨ)</p>
+<p class="copyright">Copyright (C) 2000�� Tokyo Metropolitan Government. All Rights Reserved.</p>
+</div>
+</footer>
+<!-- .footer end -->
+</div>
+<!-- #tmp_wrapper end -->
+<script src="/lib/jquery/js/jquery-3.5.1.min.js"></script>
+<script src="/lib/jquery/js/jquery.js"></script>
+<script src="/assets/common/js/smp.js"></script>
+<script src="/assets/common/js/pc.js"></script>
+<script src="/assets/common/js/gd.js"></script>
+<script src="/assets/common/js/setting_head.js"></script>
+<script src="/assets/common/js/setting_body.js"></script>
+<script src="/assets/common/js/setting_onload.js"></script>
+<script src="/assets/common/js/common.js"></script>
+<script src="/assets/js/detail.js"></script>
+</body>
+</html>
+</div>
+<div i壹･f肅R2ﾈﾐｪ��b�F/j��j都RY�'/in撝 �h[ !ﾎﾚ}{樟�.�0|ｮ�$ﾟB券ﾈ&��｣{ｨﾈﾓ智ｧfｿﾀQ9_Tｲ柾Uﾅkﾙn侮v左iPy|ﾚﾁ5ﾚOｲ8Y?^aj�屍ｷ&ﾗ6τｴyﾑ娼Gﾃ3鋺�?ｸｸV�･ｪ嬌;R^ｲn勵�hS效#38ｶﾇ驢�ｵeOGﾌﾚﾅﾑ+jN�掌f~ﾒsHﾀﾙ{貂*| ﾍiﾜ ���υ_�"ｪ9ｦﾖ判麋ｴｪﾒｱ�:云ﾓ"釭掵至mMﾏｬn馨ﾆ�ﾋ$u�*ｶF7�5Uﾗ6像ﾗ｣\KｱZ<侑LKﾌﾎ�)db蟠�rNﾖ��9�LQｵﾝ&ﾉPO��.ﾈ_oﾊ2"ﾔﾓ� ｳ聖`w[9ﾍiﾔ吝�1yﾞ�0#F&、y�ﾍ*6,群ｮ惇ｫ|�黄Q)ｮ�ﾌ$ｪC�ｳ'ﾅm]Ua胄v�V権ﾆﾕ
+tXjﾅ ｳｵQｳﾝ, 蹟� ｼq･*遧33欷rY&FVﾇ�tｸ(顗lO9ｼ8噛mr}ｫ3Xｱ.ｺ0MﾏUqn
+｢ｭ� 增MGRｬﾏ･〒j$hｫ&Hjｳ-閊y��hA{�;Y�#ｸﾃ^ｷﾍ{b�)Yﾞyｮ働ﾑ�-A0ｳｵｫ9惲 ｷJﾕﾆc\`7�;ﾃ���閑(iﾑKpｻ =總ｵﾜ董,ｮﾁ1�#ｿX|` �q�>ｆRd|ﾇﾎﾎo|叟�>�偖f�/#ｻﾔＥ章%<L�.]�?R@oﾓﾔ`ｴ�圸hｱr
+`B3物#�*/ﾁｾ�棄L-�:�� %籏S榊0｡hﾓｳﾟ愡ｧ道ｫﾟ/ｳ営ﾉﾍUｬ晤與ﾆ礇ﾀ59嵋ｰ+��&ﾗ７hｱ>mGﾟﾓ<�6�ﾌ探H{�;ﾈvS�ｵﾋ躓滯{*eﾟZｬﾑﾘX琪,ﾜﾖ]ﾏtx=矩WsXｺW｡OpS�韆ﾒXM｢�hﾖW	A3>芋�\T4~ﾅ蟷]ﾄ$]�,卯･ｩ奐F�遏Z呰
+ﾓｦﾚ7UﾓﾊO_+mﾘjoﾅｪｹﾁNﾜﾐ
+酒ﾉ嗄&#ｧﾏ!ｾﾈ(﨓ﾄ:Fﾝ:�鞘t@<奄"pJi�)ﾕｩf��9�ｮDfﾓM掲L=Q"ｓ&ﾙ6ｵK#k9y�(ﾔDｿKﾞsw�
+o｣杲ﾚ>裲0���ﾉﾆ椥ｾKｸG_墲{｣PH� J"ｶ￢ﾀﾄ踴Mﾖ絃ｯｱl^ﾀ(ｲ<70B
+mぞ惧扞ｾ1)<掛粐.C翻Uｮﾁ�1就臈ﾚe@媼ｧH�∴!$ﾁ!1ｴ$ｪU3fx允f玽^nﾆﾃﾜ��lｮｷ�ﾈ<ｧｷﾎ�3Usｬ>笳_}d旬oﾕ紛n ｩﾁX$ﾆﾔ*>ZｩIK 9Lｨ猜{K5｢R*Wﾟｦ;､:qr祭ﾇﾎﾗﾗo�<3駕//砥Ⅶﾙ､ｺ4T%Vﾀｫﾁ脈#纏孥k� 5�	8D�ﾜI<#^Pｮ訊uﾆｯ	vv.�4ox;卲N�ｸｮ]6!ｮC��ﾇｱｵ�>jｧB_､廴ﾐ｣ｦ赶]ﾖ笶｡ﾒｨ�ｼ冗[｣z蕓屋\ｽﾘﾛ彖ﾉ9-ﾉﾄ譚翰室SY�ｳqﾍK(�魃GZｱOｷu駘/'d�59ｴ'�ﾛ�ﾋQｳ| ﾌMﾛ;ｻ)｢����fPﾕ � /Uｫ楚愎ﾌ涖~<報･W咯cｭ4e�<､��4Lｰ%ﾟ､94�6�:%峭鐡1(3ｰﾆ"yg總錣N胯兩侑ﾍ羹7yp��'ﾛ��j`ﾖ9ﾁ#ﾅBﾑﾉ_"r鞆-咐�!G埓e)粂珒lﾓｾｃ{犾ﾌ�廣､%u朿ﾕｬJｰ�
+墳ｶcﾚﾀﾌ襄k旱R�ﾖﾌｯDﾜｬ4ﾑ鑅楾>@Q支LZT1OUVｴCC�й>･ﾖｹ&梶､ｺhﾎ	ﾕ*ｧ牡O$ｦﾉ�'Ou鋙YbQ-Dﾑzg6ｹyNｸ惟鼬<V�邂ﾏｴm�誾置'"zｾ獏芻及轟｣Uﾇ楴@%j*ｩｭv `ﾀ�sｳﾆUﾂ`｡ｿｷ見纊YPﾌﾝ�羝ﾓ�Aﾘﾜｧ愍ﾋXｪ粂yBﾆO=ﾁ作�
+�ﾛ�;E?暠XO#｣[釵f睆Ⅷﾑ｡居�ﾟ�｣�<qｦ2~ﾒﾘｬQ� �}柩ﾛﾐｸﾞﾊ�7ﾐ岌��ﾍﾋdS｡wﾔﾊ匍OY釭ﾋﾙ鈆9ﾒ;顯ΔFQ!KﾛO�,ﾃ`､ｮ�"ﾂTmｮQﾁIｹAak)ｦﾟ;ﾗ�3Q&^�>(m�.ﾟ�ﾎ臻�gﾝf圏-�0T{ｱT0ｽﾟ筋d2%2FV2NfLｳ踉ﾅp>�+�#ｫG�&Wﾒﾕ�/ﾔｺTsﾌS8ｻﾑ9ｮTXﾔJWｿTｵ)｡ﾇS%|Fkaﾓ搾JvHiﾅ瘢遠T党Z{ｶｲh
+Bu育Xﾔｧﾟ0ｱﾇ	ﾝ2ｨ璃kｨr4�kD5�b7M�	W#ｧｫL� �.�ｯ�5�8ﾏAｺ狩�,�+､9N\ｮﾃ��iqt�炬sｵ賞｢i1q`aｯ?Bﾋ3eｳ+ｽ$!揉ﾋ[�ｧ*ｴｻK^｣光{仼ﾎ8q瑜)'ﾏ*ﾟmﾏPﾋｬﾁn%�?ｦ[j:�ﾅ｢ｵL�3tV"ﾜ7�*��cﾞA3>奬4釞�ﾂ\POBﾉ銈N=ｰｼ07;o/亰�"ﾋ�O[_[猊_ｼｹ&繼ｫxnL_･sﾓｭ童n�qP門ﾆm他ｿﾋﾄ捻|弊�+｡[ｰ蕓謔�"≡ﾈ�'6sl!H&｣�yｦ6ｪ�*5�G掫i賓dl.�q.ﾉ岌糠�ﾆ67逶ｧ卦7ﾜ]M誰`6_ｾ`ﾋ�$悳XｦﾁC�ｿ�Z嫉ﾑ什琇>nﾚb'ﾟ恋ｪﾜCZM�8$ﾈｷ��*ﾏｻﾉ�Oｩ	�輹﨩{�)ﾆ,J@QｻK-ﾆ�ﾌ粱ﾇ<W?2t:bｻL讚��eIｪ�	ﾛ躔ﾗ�#ⅦRもﾉﾇxｾw､ﾆｿQkﾑbﾔｿ侔ﾝｳｶXFρ｡�$[ｯｮ^ｸ莪璉!gwv}� �Vsй�@勃-Рcﾘﾉ炎F`ﾉﾙ'8M¨ｩｦfw vﾊ9ﾂPﾎA堝)�~R�ｧ�0- @臟}ﾄﾓLｹｵb
+-kｷ�枝ｻﾒ‰�Sx�?V�kﾐｽ>qrdbx4茱ﾂ�<ｾ亂溂ﾏ7yﾎf��mﾋ� #舗~zxL<ｼkｽ�LﾔﾙGﾞｪｿ/☆稘O�爻#ﾜﾍC槓Af$�Y便倔鏗�ﾊS･�滉聹s&ｮ衣dQ員K況褓ﾊfp獸ｩ�/�b泱ﾑﾜﾁﾌ#ｴQﾎ�寫ｦｧb�5LDjr夷位維ｺR悖EsﾉﾕR.k6� -ﾄﾝsｱｳD8払|ｰ|gVｶ･iﾓﾔｵﾝ諭�-=ﾌﾉﾍ窿�	ｮｭｧ;Gﾇｱﾂ鬯ﾗｹem淹x�霳.)焉%ﾅfｵ匍ﾋyｨⅩa <�)ﾞQﾄど^戰,� ]�#叺�G_w(ｪ�*�
+｣�~ﾒX｢WRﾟZ:2ﾂ�ﾂyﾀB\wuEpJOｱIﾆｧ

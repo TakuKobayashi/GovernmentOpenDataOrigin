@@ -1,0 +1,820 @@
+<!DOCTYPE html>
+<html lang="ja" xml:lang="ja" class="no-js" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, maximum-scale=1.0, user-scalable=yes" />
+<title>
+東京の企業倒産状況｜統計・調査｜東京都産業労働局
+</title>
+<meta name="keywords" content="東京の企業倒産状況,平成27年（2015年）,平成26年（2014年）,平成25年（2013年）,平成24年（2012年）,平成23年（2011年）,平成22年（2010年）,平成21年（2009年）,平成20年（2008年）,平成19年（2007年）,平成18年（2006年）,平成17年（2005年）
+">
+<meta name="description" content="産業労働局では、東京の産業を活性化し、雇用の確保を図るためのさまざまな施策を推進しています。また、農林水産業や観光産業の振興にも取り組んでいます。
+">
+<!-- [ ogp ] -->
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://www.sangyo-rodo.metro.tokyo.jp/" />
+<meta property="og:title" content="東京の企業倒産状況｜統計・調査｜東京都産業労働局
+" />
+<meta property="og:image" content="http://www.sangyo-rodo.metro.tokyo.jp/i/ogp.png" />
+<meta property="og:description" content="産業労働局では、東京の産業を活性化し、雇用の確保を図るためのさまざまな施策を推進しています。また、農林水産業や観光産業の振興にも取り組んでいます。
+" />
+<meta property="og:site_name" content="東京都産業労働局
+" />
+<!-- [ ogp end ] -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link rel="shortcut icon" href="/i/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="/i/icon/apple-touch-icon.png" />
+<link rel="apple-touch-icon" sizes="57x57" href="/i/icon/apple-touch-icon-57x57.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="/i/icon/apple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon" sizes="76x76" href="/i/icon/apple-touch-icon-76x76.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="/i/icon/apple-touch-icon-114x114.png" />
+<link rel="apple-touch-icon" sizes="120x120" href="/i/icon/apple-touch-icon-120x120.png" />
+<link rel="apple-touch-icon" sizes="144x144" href="/i/icon/apple-touch-icon-144x144.png" />
+<link rel="apple-touch-icon" sizes="152x152" href="/i/icon/apple-touch-icon-152x152.png" />
+<link rel="apple-touch-icon" sizes="180x180" href="/i/icon/apple-touch-icon-180x180.png" />
+<link rel="stylesheet" href="/styles/main.css" media="all" />
+<link rel="stylesheet" href="/styles/print.css" media="print" />
+
+<!-- 追加css -->
+<link rel="stylesheet" href="/shared/import.css" media="all" />
+<link href="/shared/style/color/color0.css" rel="stylesheet" type="text/css" media="all" id="tmp_color" title="default" class="tmp_color">
+<link href="/shared/style/color/color1.css" rel="alternate stylesheet" type="text/css" media="all" title="darkblue" class="tmp_color">
+<link href="/shared/style/color/color2.css" rel="alternate stylesheet" type="text/css" media="all" title="yellow" class="tmp_color">
+<link href="/shared/style/color/color3.css" rel="alternate stylesheet" type="text/css" media="all" title="black" class="tmp_color">
+<link href="/shared/style/font/normal.css" rel="stylesheet" type="text/css" id="tmp_font" media="all" title="default" class="tmp_font">
+<link href="/shared/style/font/small.css" rel="alternate stylesheet" type="text/css" media="all" title="small" class="tmp_font">
+<link href="/shared/style/font/big.css" rel="alternate stylesheet" type="text/css" media="all" title="big" class="tmp_font">
+<link href="/shared/style/font/big2.css" rel="alternate stylesheet" type="text/css" media="all" title="big2" class="tmp_font">
+<link href="/shared/style/tablet.css" rel="stylesheet" media="only screen and (min-width : 671px) and (max-width : 959px)" type="text/css" id="tmp_tablet_css">
+<link href="/shared/style/smartphone.css" rel="stylesheet" media="only screen and (max-width : 670px)" type="text/css" id="tmp_smartphone_css">
+<!-- 追加css --> 
+
+<!-- Plugins or Flameworks --> 
+<script src="/scripts/vendor/lib.js"></script> 
+<script src="/scripts/main.js"></script> 
+
+<!-- 追加js --> 
+<script type="text/javascript" src="/shared/js/jquery.js"></script> 
+<script type="text/javascript" src="/shared/js/gd.js"></script> 
+<script type="text/javascript" src="/shared/js/setting_head.js"></script> 
+<!-- 追加js --> 
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-M9947LT');</script>
+<!-- End Google Tag Manager -->
+<script type="text/javascript">
+jQuery(function() {
+    jQuery("a").click(function(e) {
+        var ahref = jQuery(this).attr('href');
+        if (ahref.indexOf("sangyo-rodo.metro.tokyo.jp") != -1 || ahref.indexOf("http") == -1 ) {
+            ga('send', 'event', '内部リンク', 'click', ahref);}
+        else {
+            ga('send', 'event', '外部リンク', 'click', ahref);}
+        });
+    });
+</script>
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M9947LT"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!-- [ Reader Start ] -->
+<div class="pageReader">
+  <p><a id="reader-pagetop" tabindex="-1">ページの先頭です</a></p>
+</div>
+<!-- [ Reader End ] --> 
+
+<!-- [ Reader Start ] -->
+<div class="pageReader">
+  <dl>
+    <dt>ページ内を移動するためのリンク</dt>
+    <dd><a href="#reader-content" accesskey="c" tabindex="-1">本文(c)へ</a></dd>
+    <dd><a href="#reader-gnavi" accesskey="g" tabindex="-1">グローバルナビゲーション(g)へ</a></dd>
+    <dd><a href="#reader-lnavi" accesskey="l" tabindex="-1">ローカルナビ(l)へ</a></dd>
+    <dd><a href="#reader-site" accesskey="i" tabindex="-1">サイトのご利用案内(i)へ</a></dd>
+  </dl>
+</div>
+<!-- [ Reader End ] -->
+
+<div id="base" class="base">
+
+<!-- ヘッダー上側（ナビなし） -->
+
+<div id="tmp_wrapper">
+<noscript>
+<p>このサイトではJavaScriptを使用したコンテンツ・機能を提供しています。JavaScriptを有効にするとご利用いただけます。</p>
+</noscript>
+<div id="tmp_wrap_header">
+<div id="tmp_header">
+  <div id="tmp_hlogo">
+    <h1><a href="/index.html"><span>東京都産業労働局</span></a></h1>
+  </div>
+<a href="https://tokyotokyo.jp/ja/"><img src="https://www.sangyo-rodo.metro.tokyo.lg.jp/images/tokyo_ouen2.jpg" height="200" width="250" alt="tokyotokyo" style="padding-left:20px;　word-spacing: 0.1em;"></a>
+  <ul id="tmp_hnavi_s">
+    <li id="tmp_hnavi_lmenu"><a href="javascript:void(0);"><span>メニュー</span></a> </li>
+  </ul>
+  <div id="tmp_means">
+    <div id="tmp_means_primary">
+      <ul id="tmp_hnavi">
+        <!-- 音声読み上げ削除 <li class="read_btn"><a accesskey="L" onclick="readpage(this.href, 'tmp_readspeaker'); return false;" target="_blank" rel="nofollow" href="//app-as.readspeaker.com/cgi-bin/rsent?customerid=5511&amp;lang=ja_jp&amp;readid=tmp_maincontents&amp;url=">音声読み上げ</a></li> -->
+        <li class="read_btn"><a href="/eng/" class="headerLink__item__link headerLink__item__link--lang">English</a></li>
+        <li class="func_btn"><a href="/moji.html">文字サイズ・色合い変更</a></li>
+        <li class="read_btn" id="bt_sponly"><a href="/sitemap/" class="headerLink__item__link headerLink__item__link--lang">サイトマップ</a></li>
+        <li class="func_btn"><a href="http://www.metro.tokyo.jp/" class="headerLink__item__link" target="_blank">都庁総合トップページ</a></li>
+      </ul>
+    </div>
+    <div id="tmp_means_secondary">
+      <div id="tmp_sitemap_btn">
+        <p><a href="/sitemap/">サイトマップ</a></p>
+      </div>
+      <div id="tmp_hsearch">
+        <form id="tmp_gsearch" name="search_form" action="https://search.metro.tokyo.lg.jp/" class="searchForm" method="GET">
+          <input id="tmp_query" type="text" name="kw" maxlength="256" value="" title="サイト内検索">
+          <input id="tmp_func_sch_btn" type="submit" value="検索">
+          <input type="hidden" name="temp" value="JP">
+          <input type="hidden" name="ie" value="u">
+          <input type="hidden" name="sitesearch" value="www.sangyo-rodo.metro.tokyo.lg.jp">
+          <input type="hidden" name="ord" value="t">
+        </form>
+        
+        <!--						<form id="tmp_gsearch"  action="/search/" class="searchForm" name="tmp_gsearch">   
+							<input type="hidden" name="cx" value="013012569280712919707:sk-xkkyatiy">
+							<input type="hidden" name="ie" value="utf-8" />
+							<input type="hidden" name="hl" value="ja" />
+							<input type="text" name="q" title="ここに検索語を入力" id="tmp_query" value="">
+							<input id="tmp_func_sch_btn" type="submit" name="sa" title="検索" value="検索">
+						</form>--> 
+        <!-- /.searchForm --> 
+        <script type="text/javascript" src="//www.google.com/cse/brand?form=headerSearchbox&amp;lang=ja"></script> 
+      </div>
+      <!-- 詳細検索削除
+					<div id="tmp_hnavi_dsearch">
+						<p><a href="http://www.metro.tokyo.jp/search/index.html">詳細検索</a></p>
+					</div>
+					 --> 
+    </div>
+  </div>
+</div>
+<!-- ヘッダー上側ここまで --> 
+
+<!-- [ Reader Start ] -->
+  <div class="pageReader">
+    <p><a id="reader-gnavi" tabindex="-1">ここからグローバルナビです。</a></p>
+  </div>
+  <!-- [ Reader End ] -->
+ 
+<!-- ヘッダー下側（ナビ） -->
+
+	<div id="tmp_wrap_gnavi">
+		<div id="tmp_gnavi">
+			<ul>
+				<li id="tmp_glist1" class=" top"><a href="/">トップ</a></li>
+				<li id="tmp_glist2" class=""><a href="/about/">産業労働局について</a></li>
+				<li id="tmp_glist3" class=""><a href="/bunya/">分野別のご案内</a></li>
+				<li id="tmp_glist4" class="active"><a href="/toukei/">統計・調査</a></li>
+				<li id="tmp_glist5" class=""><a href="/sinsei/">申請・手続き</a> </li>
+				<li id="tmp_glist6" class=""><a href="/plan/">審議会答申・プラン等</a></li>
+                <li id="tmp_glist8" class=""><a href="/jouhoukoukai/">情報公開</a></li>
+                <li id="tmp_glist7" class=""><a href="/contact/">窓口案内</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+ 
+ <!-- ヘッダー下側（ナビ）ここまで -->
+
+  
+  <!-- [ Reader Start ] -->
+  <div class="pageReader">
+    <p><a id="reader-gnaviEnd" tabindex="-1">グローバルメニューここまでです。</a></p>
+  </div>
+  <!-- [ Reader End ] -->
+
+
+
+  <div id="pnavi" class="pnav">
+<ol class="pnav__list" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+<li class="pnav__list__item">
+<a href="/" class="pnav__list__item__link" itemprop="url">
+<span itemprop="title">
+トップ
+</span>
+</a>
+</li>
+<li class="pnav__list__item">
+<a href="https://www.sangyo-rodo.metro.tokyo.lg.jp/toukei/" class="pnav__list__item__link" itemprop="url">
+<span itemprop="title">
+統計・調査
+</span>
+</a>
+</li>
+<li class="pnav__list__item"><a href="https://www.sangyo-rodo.metro.tokyo.lg.jp/toukei/sangyo/" class="pnav__list__item__link" itemprop="url"><span itemprop="title">産業政策　統計･調査</span></a></li><li class="pnav__list__item"><span itemprop="title">東京の企業倒産状況</span></li>
+</ol>
+</div>
+<!-- /.pnav -->
+
+
+<!-- [ Reader Start ] -->
+ <div class="pageReader">
+  <p><a id="reader-content" tabindex="-1">ここから本文です。</a></p>
+ </div>
+<!-- [ Reader End ] -->
+
+<div id="main" class="main" role="main">
+ <div class="main__body">
+ 
+  
+   <div class="main__body__cont">
+  
+ 
+ 
+<div id="content" class="content">
+
+
+<!-- H1 title -->
+  <div class="content__head ">
+<h1 id="top" class="content__head__title">東京の企業倒産状況</h1>
+</div>
+<!-- /.content__head -->
+
+<!-- body contents -->
+<div class="content__body">
+<p>「東京の企業倒産状況」では、都内企業倒産の件数、負債額等を毎月掲載しています。</p>
+<ul>
+<li><a href="#6">令和6年（2024年）</a></li>
+<li><a href="#5">令和5年（2023年）</a></li>
+<li><a href="#past">過去の年計</a></li>
+</ul>
+<p></p>
+<h2 id="6">令和6年（2024年）</h2>
+<table style="width: 712px; height: 5px;">
+<tbody>
+<tr><th style="width: 150px; text-align: center;">1月</th>
+<td><a href="/toukei/f6a013c5fb3a15bf45717e6d94ee50ac.pdf">PDF形式</a>　<a href="/toukei/corp202401.xlsx">EXCEL形式</a></td>
+</tr>
+<tr><th style="width: 150px; text-align: center;">2月</th>
+<td><a href="/toukei/25cf455a28de4a8c3d12946bca1ab373.pdf">PDF形式</a>　<a href="/toukei/corp202402.xlsx">EXCEL形式</a></td>
+</tr>
+<tr><th style="width: 150px; text-align: center;">3月</th>
+<td><a href="https://www.sangyo-rodo.metro.tokyo.lg.jp/toukei/corp202403.pdf">PDF形式</a>　<a href="https://www.sangyo-rodo.metro.tokyo.lg.jp/toukei/corp202403.xlsx">EXCEL形式</a></td>
+</tr>
+<tr><th style="width: 150px; text-align: center;">4月</th>
+<td><a href="https://www.sangyo-rodo.metro.tokyo.lg.jp/toukei/corp202404.pdf">PDF形式</a>　<a href="https://www.sangyo-rodo.metro.tokyo.lg.jp/toukei/corp202404.xlsx">EXCEL形式</a></td>
+</tr>
+<tr><th style="width: 150px; text-align: center;"><span>5月</span></th>
+<td><a href="https://www.sangyo-rodo.metro.tokyo.lg.jp/toukei/corp202405.pdf">PDF形式</a>　<a href="https://www.sangyo-rodo.metro.tokyo.lg.jp/toukei/corp202405.xlsx">EXCEL形式</a></td>
+</tr>
+<tr><th style="width: 150px; text-align: center;"><span>6月</span></th>
+<td>
+<p><a href="https://www.sangyo-rodo.metro.tokyo.lg.jp/toukei/corp202406.pdf">PDF形式</a>　<a href="https://www.sangyo-rodo.metro.tokyo.lg.jp/toukei/corp202406.xlsx">EXCEL形式</a></p>
+</td>
+</tr>
+<tr><th style="width: 150px; text-align: center;"><span>７月</span></th>
+<td>
+<p><a href="https://www.sangyo-rodo.metro.tokyo.lg.jp/toukei/corp202407.pdf">PDF形式</a>　<a href="https://www.sangyo-rodo.metro.tokyo.lg.jp/toukei/corp202407.xlsx">EXCEL形式</a></p>
+</td>
+</tr>
+<tr><th style="width: 150px; text-align: center;"><span>８月</span></th>
+<td>
+<p><a href="https://www.sangyo-rodo.metro.tokyo.lg.jp/toukei/corp202408.pdf">PDF形式</a>　<a href="https://www.sangyo-rodo.metro.tokyo.lg.jp/toukei/corp202408.xlsx">EXCEL形式</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2 id="5">令和5年（2023年）</h2>
+<table>
+<tbody>
+<tr><th style="width: 150px; text-align: center;">1月</th>
+<td><a href="/toukei/corp202301.pdf">PDF形式</a><span>　</span><a href="/toukei/corp202301.xlsx">EXCEL形式</a></td>
+</tr>
+<tr><th style="width: 150px; text-align: center;"><span>2月</span></th>
+<td><a href="/toukei/docs/corp202302.pdf">PDF形式</a><span>　</span><a href="/toukei/corp202302.xlsx">EXCEL形式</a></td>
+</tr>
+<tr><th style="width: 150px; text-align: center;"><span>3月</span></th>
+<td><a href="/toukei/corp202303.pdf">PDF形式</a><span>　</span><a href="/toukei/corp202303.xlsx">EXCEL形式</a></td>
+</tr>
+<tr><th style="width: 150px; text-align: center;"><span>4月</span></th>
+<td><a href="/toukei/f3387e8c30b574bad79ebb0baadd9583.pdf">PDF形式</a><span>　</span><a href="/toukei/corp202304.xlsx">EXCEL形式</a></td>
+</tr>
+<tr><th style="width: 150px; text-align: center;">
+<p>5月</p>
+</th>
+<td><a href="/toukei/ed04b492c5fb793ad7a258e1398ec7c4.pdf">PDF形式</a><span>　</span><a href="/toukei/corp202305.xlsx">EXCEL形式</a></td>
+</tr>
+<tr><th style="width: 150px; text-align: center;">
+<p>6月</p>
+</th>
+<td><a href="/toukei/779c84a3d2a236a07cd2fa53ed30bd0f.pdf">PDF形式</a><span>　</span><a href="/toukei/corp202306.xlsx">EXCEL形式</a></td>
+</tr>
+<tr><th style="width: 150px; text-align: center;"><span>7月</span></th>
+<td><a href="/toukei/fe309b5040d3c47f9711582e67cfcc56.pdf">PDF形式</a><span>　</span><a href="/toukei/corp202307.xlsx">EXCEL形式</a></td>
+</tr>
+<tr><th style="width: 150px; text-align: center;"><span>8月</span></th>
+<td><a href="/toukei/d7ac858fcfdb742d17cf5e841481fa8e.pdf">PDF形式</a><span>　</span><a href="/toukei/corp202308.xlsx">EXCEL形式</a></td>
+</tr>
+<tr><th style="width: 150px; text-align: center;"><span>9月</span></th>
+<td><a href="/toukei/7a9952ba646bcb3f873fc79ba3f677b1.pdf">PDF形式</a><span>　</span><a href="/toukei/corp202309.xlsx">EXCEL形式</a></td>
+</tr>
+<tr><th style="width: 150px; text-align: center;"><span>10月</span></th>
+<td><a href="/toukei/202310.pdf">PDF形式</a><span>　</span><a href="/toukei/corp202310.xlsx">EXCEL形式</a></td>
+</tr>
+<tr><th style="width: 150px; text-align: center;"><span>11月</span></th>
+<td><a href="/toukei/0769fa8a24fedc2c67795e2a96355847.pdf">PDF形式</a><span>　</span><a href="/toukei/corp202311.xlsx">EXCEL形式</a></td>
+</tr>
+<tr><th style="width: 150px; text-align: center;"><span>12月</span></th>
+<td><a href="/toukei/2692430228b12135b8e05333d3507b43.pdf">PDF形式</a><span>　</span><a href="/toukei/corp202312.xlsx">EXCEL形式</a></td>
+</tr>
+<tr><th style="width: 150px; text-align: center;">年計</th>
+<td><a href="https://www.sangyo-rodo.metro.tokyo.lg.jp/toukei/a674d0a684bae9f062d5a8823c8b4440_2.pdf">PDF形式</a><span>　</span><a href="/toukei/corp2023.xlsx">EXCEL形式</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="past"><span style="font-size: 19px; font-weight: bold;">過去の年計</span></h2>
+<table>
+<tbody>
+<tr><th style="width: 150px; text-align: center;">令和4年（2022年）</th>
+<td>
+<p><a href="/toukei/corp2022.pdf">PDF形式</a>　<a href="/toukei/corp2022.xlsx">EXCEL形式</a></p>
+</td>
+</tr>
+<tr><th style="width: 150px; text-align: center;">令和3年（2021年）</th>
+<td>
+<p><a href="/toukei/docs/corp2021.pdf">PDF形式</a>　<a href="/toukei/corp2021.xlsx">EXCEL形式</a></p>
+</td>
+</tr>
+<tr><th style="width: 150px; text-align: center;">令和2年（2020年）</th>
+<td>
+<p><a href="/toukei/corp2020.pdf">PDF形式</a>　<a href="/toukei/corp2020.xlsx">EXCEL形式</a></p>
+</td>
+</tr>
+<tr><th style="width: 150px; text-align: center;">平成31年/令和元年（2019年）</th>
+<td>
+<p><a href="/toukei/ncorp2019.pdf">PDF形式</a>　<a href="/toukei/ncorp2019.xlsx">EXCEL形式</a>　</p>
+</td>
+</tr>
+<tr><th>平成30年（2018年）</th>
+<td colspan="2">
+<p><a href="/toukei/corp2018.pdf">PDF形式</a>　<a href="/toukei/corp2018.xlsx" target="_blank">EXCEL形式</a></p>
+</td>
+</tr>
+<tr><th>平成29年（2017年）</th>
+<td colspan="2"><a href="/toukei/dc1f4bae230823736b03f2cf83544d2c_1.pdf">PDF形式</a>　<a href="/toukei/87d1f31e8cf882eafeb7a1756edf44f6.xlsx">EXCEL形式</a>　</td>
+</tr>
+<tr><th>平成28年（2016年）</th>
+<td><a href="/toukei/corp2016.pdf">PDF形式</a></td>
+</tr>
+<tr><th>平成27年（2015年）</th>
+<td><a href="/toukei/pdf/data/2015/corp2015.pdf">PDF形式</a></td>
+</tr>
+<tr><th>平成26年（2014年）</th>
+<td><a href="/toukei/pdf/data/2014/corp2014.pdf">PDF形式</a></td>
+</tr>
+<tr><th>平成25年（2013年）</th>
+<td><a href="/toukei/pdf/data/2013/corp2013.pdf">PDF形式</a></td>
+</tr>
+<tr><th>平成24年（2012年）</th>
+<td><a href="/toukei/pdf/data/2012/corp2012.pdf">PDF形式</a></td>
+</tr>
+<tr><th>平成23年（2011年）</th>
+<td><a href="/toukei/pdf/data/2011/corp2011.pdf">PDF形式</a></td>
+</tr>
+</tbody>
+</table>
+<div class="adrobatBox">
+<div class="adrobatBox__left">
+<div class="inquiryBox__head">
+<p>お問い合わせ</p>
+</div>
+<div class="inquiryBox__body">
+<dl class="inquiryList">
+<dt class="inquiryList__head">産業労働局総務部企画調整課</dt>
+<dd class="inquiryList__body">電話：直通 03（5320）4638　内線 36-422</dd>
+</dl>
+</div>
+</div>
+<div class="adrobatBox__right"></div>
+</div>
+<div class="adrobatBox">
+<div class="adrobatBox__left">
+<p>PDFファイルをご覧いただくためには「Adobe Acrobat Reader」が必要です。<br /> Adobe Systemsのサイトから無料でダウンロードできますのでご利用ください。</p>
+</div>
+<div class="adrobatBox__right"><a class="adrobatBox__btn__link" href="https://get.adobe.com/reader/" target="_blank"><img width="158" height="39" alt="Get Adobe Reader" src="/i/get_acrobat.png" /></a></div>
+</div>
+</div>
+<!-- /.content__body -->
+
+
+</div>
+<!-- /.content -->
+   
+</div>
+<!-- /.main__body__cont -->
+
+
+<!-- [ Reader Start] -->
+<div class="pageReader">
+ <p><a id="reader-contentEnd" tabindex="-1">本文ここまでです。</a></p>
+</div>
+<!-- [ Reader End ] -->
+
+<!-- [ Reader Start ] -->
+<div class="pageReader">
+ <p><a id="reader-lnavi" tabindex="-1">ここからローカルナビです。</a></p>
+</div>
+<!-- [ Reader End ] -->
+   
+
+  
+   
+    <div class="main__body__side">
+<nav id="localNav" class="localNav">
+<h2 class="localNav__head">
+<a href="https://www.sangyo-rodo.metro.tokyo.lg.jp/toukei/" class="localNav__head__link">統計・調査</a>
+</h2>
+<!-- /.localNav__head -->
+<ul class="localNav__list">
+<li class="localNav__list__item"><a href="https://www.sangyo-rodo.metro.tokyo.lg.jp/toukei/sangyo/" class="localNav__list__item__link -active">産業政策　統計･調査</a>
+<ul class="localNav__list">
+<li class="localNav__list__item"><a href="https://www.sangyo-rodo.metro.tokyo.lg.jp/toukei/sangyo/koyou/" class="localNav__list__item__link ">東京の産業と雇用就業</a>
+</li>
+<li class="localNav__list__item"><a href="https://www.sangyo-rodo.metro.tokyo.lg.jp/toukei/sangyo/graphic/" class="localNav__list__item__link ">グラフィック 東京の産業と雇用就業</a>
+</li>
+<li class="localNav__list__item"><a href="https://www.sangyo-rodo.metro.tokyo.lg.jp/toukei/sangyo/english/" class="localNav__list__item__link ">Industry and Employment in Tokyo － A Graphic Overview －</a>
+</li>
+<li class="localNav__list__item"><a href="https://www.sangyo-rodo.metro.tokyo.lg.jp/toukei/sangyo/monthly/" class="localNav__list__item__link ">月刊　東京の産業・雇用就業統計 グラフでみる東京の経済・雇用情勢</a>
+</li>
+<li class="localNav__list__item"><a href="https://www.sangyo-rodo.metro.tokyo.lg.jp/toukei/sangyo/tosan/" class="localNav__list__item__link -active">東京の企業倒産状況</a>
+</li>
+<li class="localNav__list__item"><a href="https://www.sangyo-rodo.metro.tokyo.lg.jp/toukei/sangyo/seisaku/" class="localNav__list__item__link ">政策調査</a>
+</li>
+<li class="localNav__list__item"><a href="https://www.sangyo-rodo.metro.tokyo.lg.jp/toukei/sangyo/past/" class="localNav__list__item__link ">バックナンバー</a>
+</li>
+</ul>
+</li>
+<li class="localNav__list__item"><a href="http://sangyo-rodo.metro.tokyo.jp/toukei/chushou/" class="localNav__list__item__link" target="_blank">中小企業　統計･調査</a>
+</li>
+<li class="localNav__list__item"><a href="/toukei/tourism/" class="localNav__list__item__link" >観光　統計･調査</a>
+</li>
+<li class="localNav__list__item"><a href="/toukei/nourin/" class="localNav__list__item__link" >農林水産　統計・調査</a>
+</li>
+<li class="localNav__list__item"><a href="/toukei/koyou/" class="localNav__list__item__link" >雇用・就業　統計･調査</a>
+</li>
+</ul>
+<!-- /.localNav__body -->
+</nav>
+<!-- /.localNav -->
+<div id="categoryNav" class="categoryNav">
+<h2 class="categoryNav__head">産業労働局の主な分野</h2>
+<!-- /.categoryNav__head -->
+
+<ul class="categoryNav__list">
+<li class="categoryNav__list__item"><a href="/chushou/" class="categoryNav__list__item__link categoryNav__list__item__link--1">中小企業支援</a></li>
+
+
+
+
+<li class="categoryNav__list__item"><a href="/tourism/" class="categoryNav__list__item__link categoryNav__list__item__link--2">観光</a></li>
+
+
+
+
+<li class="categoryNav__list__item"><a href="/nourin/" class="categoryNav__list__item__link categoryNav__list__item__link--3">農林水産</a></li>
+
+
+
+
+<li class="categoryNav__list__item"><a href="/koyou/" class="categoryNav__list__item__link categoryNav__list__item__link--4">雇用就業</a></li>
+
+
+
+
+<li class="categoryNav__list__item"><a href="/energy/" class="categoryNav__list__item__link categoryNav__list__item__link--5">産業・エネルギー政策</a></li>
+
+</ul>
+
+<!-- /.categoryNav__body -->
+</div>
+
+</div>
+<!-- /.main__body__side -->
+   
+  
+
+
+
+
+</div>
+<!-- /.main__body -->
+</div>
+<!-- /#main -->
+
+<div class="returnTop">
+ <div class="returnTop__body">
+  <a href="#" class="returnTop__body__link">ページトップへ戻る</a>
+ </div>
+</div>
+<!-- /.returnTop -->
+
+<!-- [ Reader End ] -->
+<div class="pageReader">
+ <p><a id="reader-lnaviEnd" tabindex="-1">ローカルナビここまでです。</a></p>
+</div>
+
+<div class="footerBannerArea">
+<div class="footerBannerArea__body">
+<div class="footerBannerSlider">
+
+
+
+
+<div class="footerBannerSlider__item">
+<a href="https://www.metro.tokyo.lg.jp/"  target="_blank">
+  <img src="https://www.sangyo-rodo.metro.tokyo.lg.jp/banner/tokyo.png" width="182" height="55" alt="東京都" />
+ </a>
+</div>
+
+
+
+
+
+
+<div class="footerBannerSlider__item">
+<a href="https://tokyo-telework.jp/lp/2002app/index.html"  target="_blank">
+  <img src="https://www.sangyo-rodo.metro.tokyo.lg.jp/banner/bf67af93badcb0683a69615bb2f7b721.png" width="172" height="52" alt="TOKYOテレワークアプリ" />
+ </a>
+</div>
+
+
+
+
+
+
+<div class="footerBannerSlider__item">
+<a href="https://www.tokyo-kosha.or.jp/"  target="_blank">
+  <img src="https://www.sangyo-rodo.metro.tokyo.lg.jp/banner/03efda5ee4150c28d95acb7ac8d0e8ab.jpg" width="182" height="55" alt="東京都中小企業振興公社" />
+ </a>
+</div>
+
+
+
+
+
+
+<div class="footerBannerSlider__item">
+<a href="https://www.iri-tokyo.jp/"  target="_blank">
+  <img src="https://www.sangyo-rodo.metro.tokyo.lg.jp/banner/iri_tokyo.png" width="182" height="55" alt="地方独立行政法人　東京都立産業技術研究センター" />
+ </a>
+</div>
+
+
+
+
+
+
+<div class="footerBannerSlider__item">
+<a href="https://www.tokyo-aff.or.jp/"  target="_blank">
+  <img src="https://www.sangyo-rodo.metro.tokyo.lg.jp/banner/tokyo_aff.png" width="182" height="55" alt="公益財団法人東京都農林水産振興財団" />
+ </a>
+</div>
+
+
+
+
+
+
+<div class="footerBannerSlider__item">
+<a href="https://moridukuri.tokyo/"  target="_blank">
+  <img src="https://www.sangyo-rodo.metro.tokyo.lg.jp/assets_c/2018/01/30ff79ead1a7f2db75e5babb2690078c-thumb-728xauto-33427.png" width="728" height="177" alt="花粉の少ない森づくり運動" />
+ </a>
+</div>
+
+
+
+
+
+
+<div class="footerBannerSlider__item">
+<a href="https://tamasanzai.tokyo/"  target="_blank">
+  <img src="https://www.sangyo-rodo.metro.tokyo.lg.jp/banner/tama_logo182X55.png" width="182" height="55" alt="多摩産材情報センター" />
+ </a>
+</div>
+
+
+
+
+
+
+<div class="footerBannerSlider__item">
+<a href="https://www.shigotozaidan.or.jp/"  target="_blank">
+  <img src="https://www.sangyo-rodo.metro.tokyo.lg.jp/banner/shigotozaidan.png" width="182" height="55" alt="東京しごと財団" />
+ </a>
+</div>
+
+
+
+
+
+
+<div class="footerBannerSlider__item">
+<a href="http://www.tokyo-vada.or.jp/"  target="_blank">
+  <img src="https://www.sangyo-rodo.metro.tokyo.lg.jp/banner/tokyo_nokaikyo.png" width="182" height="55" alt="東京都職業能力開発協会" />
+ </a>
+</div>
+
+
+
+
+
+
+<div class="footerBannerSlider__item">
+<a href="https://www.t-i-forum.co.jp/"  target="_blank">
+  <img src="https://www.sangyo-rodo.metro.tokyo.lg.jp/banner/international_forum.png" width="182" height="55" alt="東京国際フォーラム" />
+ </a>
+</div>
+
+
+
+
+
+
+<div class="footerBannerSlider__item">
+<a href="https://www.bigsight.jp/"  target="_blank">
+  <img src="https://www.sangyo-rodo.metro.tokyo.lg.jp/banner/7083ad6ea2d361d1d91299a90cac4a8b.jpg" width="182" height="55" alt="東京ビッグサイト" />
+ </a>
+</div>
+
+
+
+
+
+
+<div class="footerBannerSlider__item">
+<a href="https://www.tcvb.or.jp/jp/"  target="_blank">
+  <img src="https://www.sangyo-rodo.metro.tokyo.lg.jp/banner/tcvb.png" width="182" height="55" alt="公益財団法人 東京観光財団" />
+ </a>
+</div>
+
+
+
+
+
+
+<div class="footerBannerSlider__item">
+<a href="/chushou/shoko/sougyou/tama/"  >
+  <img src="https://www.sangyo-rodo.metro.tokyo.lg.jp/banner/support_tama.png" width="182" height="55" alt="産業サポートスクエアTAMA" />
+ </a>
+</div>
+
+
+
+
+
+
+<div class="footerBannerSlider__item">
+<a href="https://tir-navicenter.metro.tokyo.lg.jp/"  target="_blank">
+  <img src="https://www.sangyo-rodo.metro.tokyo.lg.jp/assets_c/2021/10/2061215feb3ac84c3b589e64d35504ed-thumb-728xauto-72836.jpg" width="728" height="116" alt="東京外国人材採用ナビセンター" />
+ </a>
+</div>
+
+
+
+
+
+
+<div class="footerBannerSlider__item">
+<a href="https://jsite.mhlw.go.jp/tokyo-roudoukyoku/"  target="_blank">
+  <img src="https://www.sangyo-rodo.metro.tokyo.lg.jp/banner/roudoukyoku.png" width="182" height="55" alt="東京労働局" />
+ </a>
+</div>
+
+
+
+
+
+
+<div class="footerBannerSlider__item">
+<a href="https://jsite.mhlw.go.jp/tokyo-roudoukyoku/hourei_seido_tetsuzuki/shokugyou_kunren/menu/shienkunren.html"  target="_blank">
+  <img src="https://www.sangyo-rodo.metro.tokyo.lg.jp/banner/8d875255542a03aabac3318db3c85aec.png" width="485" height="155" alt="求職者支援制度" />
+ </a>
+</div>
+
+
+
+
+
+
+<div class="footerBannerSlider__item">
+<a href="https://www.telework-rule.metro.tokyo.lg.jp/"  target="_blank">
+  <img src="https://www.sangyo-rodo.metro.tokyo.lg.jp/banner/c868612ac488ee4cc58bf444081b3b2b.jpg" width="170" height="55" alt="テレワーク東京ルール" />
+ </a>
+</div>
+
+
+
+
+
+
+<div class="footerBannerSlider__item">
+<a href="https://www.hands-on.metro.tokyo.lg.jp/"  target="_blank">
+  <img src="https://www.sangyo-rodo.metro.tokyo.lg.jp/banner/716db576a7ea68820cbe6083a132106c.png" width="170" height="55" alt="ハンズオンコンサルティング" />
+ </a>
+</div>
+
+
+
+
+
+
+<div class="footerBannerSlider__item">
+<a href="https://tokyodouga.jp/"  target="_blank">
+  <img src="https://www.sangyo-rodo.metro.tokyo.lg.jp/banner/yt_icon_pc.png" width="225" height="50" alt="東京動画フッター" />
+ </a>
+</div>
+
+
+
+
+
+
+<div class="footerBannerSlider__item">
+<a href="https://www.sanbo.metro.tokyo.lg.jp/"  target="_blank">
+  <img src="https://www.sangyo-rodo.metro.tokyo.lg.jp/banner/0cefead36edbc99b62d08d631d800d9b.png" width="234" height="60" alt="東京都立産業貿易センター" />
+ </a>
+</div>
+
+
+
+
+
+
+<div class="footerBannerSlider__item">
+<a href="https://www.tamaskc.metro.tokyo.lg.jp/"  target="_blank">
+  <img src="https://www.sangyo-rodo.metro.tokyo.lg.jp/banner/ttmm_banner_0530.jpg" width="182" height="55" alt="たまメッセ" />
+ </a>
+</div>
+
+
+
+
+
+
+<div class="footerBannerSlider__item">
+<a href="https://tso-tokyo.jp/"  target="_blank">
+  <img src="https://www.sangyo-rodo.metro.tokyo.lg.jp/banner/07231102ec3760c194f19cc1c584aab2.png" width="170" height="55" alt="TOKYOシェアオフィス墨田" />
+ </a>
+</div>
+
+</div>
+<!-- /.footerBannerSlider -->
+</div>
+<!-- /.footerBannerArea__body -->
+</div>
+<!-- /.footerBannerArea -->
+
+
+<!-- [ Reader Start ] -->
+  <div class="pageReader">
+    <p><a id="reader-site" tabindex="-1">ここからサイトのご利用案内です。</a></p>
+  </div>
+  <!-- [ Reader End ] -->
+  
+  <footer id="footer" class="footer" role="contentinfo">
+    <div id="tmp_fnavi">
+		<div class="footer__body">
+		  <ul class="footerLink">
+			<li class="footerLink__item"><a href="/policy/" class="footerLink__item__link">サイトポリシー</a></li>
+			<li class="footerLink__item"><a href="/accessibility/" class="footerLink__item__link">アクセシビリティ方針</a></li>
+			<li class="footerLink__item"><a href="/personalinfo/" class="footerLink__item__link">個人情報保護方針</a></li>
+			<li class="footerLink__item"><a href="/contact/" class="footerLink__item__link">お問い合わせ</a></li>
+		  </ul>
+		</div>
+	</div>
+	<div id="tmp_faddress">
+		<address><span class="spbr">東京都庁</span><span>〒163-8001 東京都新宿区西新宿2-8-1</span> <span class="spbr">電話：03-5321-1111(代表)</span></address>
+		<p class="copyright">Copyright &copy; 2016  Bureau of Industrial and Labor Affairs, Tokyo Metropolitan Government. All Rights Reserved.</p>
+	</div>
+    <!-- /.footer__body -->
+  </footer>
+  <!-- /footer -->
+  
+  <!-- [ Reader Start ] -->
+  <div class="pageReader">
+    <p><a id="reader-siteEnd" tabindex="-1">サイトのご利用案内ここまでです。</a></p>
+  </div>
+  <!-- [ Reader End ] -->
+</div>
+
+<!-- 追加js -->
+<script type="text/javascript" src="/shared/js/easing.js"></script>
+<script type="text/javascript" src="/shared/js/timer.js"></script>
+<script type="text/javascript" src="/shared/js/gallery-slider.js"></script>
+<script type="text/javascript" src="/shared/js/setting_onload.js"></script>
+<!-- 追加js -->
+
+</body>
+</html>
